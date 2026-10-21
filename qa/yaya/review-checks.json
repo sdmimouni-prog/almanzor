@@ -1,0 +1,627 @@
+{
+  "result": "passed",
+  "results": [
+    {
+      "width": 1882,
+      "height": 994,
+      "errors": [],
+      "pageWidth": 1882,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 1882,
+          "h": 994,
+          "bottom": 994
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 994,
+          "w": 1882,
+          "h": 577.953125,
+          "bottom": 1571.953125
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1571.953125,
+          "w": 1882,
+          "h": 511.890625,
+          "bottom": 2083.84375
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 2083.84375,
+          "w": 1882,
+          "h": 508.125,
+          "bottom": 2591.96875
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2591.96875,
+          "w": 1882,
+          "h": 325.953125,
+          "bottom": 2917.921875
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2917.921875,
+          "w": 1882,
+          "h": 158.171875,
+          "bottom": 3076.09375
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 3076.09375,
+          "w": 1882,
+          "h": 369.609375,
+          "bottom": 3445.703125
+        }
+      ],
+      "heroCTA": {
+        "x": 227.71875,
+        "y": 815.875,
+        "w": 384.515625,
+        "h": 66,
+        "bottom": 881.875
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "errors": [],
+      "pageWidth": 1440,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 1440,
+          "h": 900,
+          "bottom": 900
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 900,
+          "w": 1440,
+          "h": 442.21875,
+          "bottom": 1342.21875
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1342.21875,
+          "w": 1440,
+          "h": 391.671875,
+          "bottom": 1733.890625
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 1733.890625,
+          "w": 1440,
+          "h": 388.796875,
+          "bottom": 2122.6875
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2122.6875,
+          "w": 1440,
+          "h": 249.40625,
+          "bottom": 2372.09375
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2372.09375,
+          "w": 1440,
+          "h": 121.484375,
+          "bottom": 2493.578125
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 2493.578125,
+          "w": 1440,
+          "h": 282.8125,
+          "bottom": 2776.390625
+        }
+      ],
+      "heroCTA": {
+        "x": 174.234375,
+        "y": 662.765625,
+        "w": 295.734375,
+        "h": 50.484375,
+        "bottom": 713.25
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "errors": [],
+      "pageWidth": 1920,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 1920,
+          "h": 1080,
+          "bottom": 1080
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 1080,
+          "w": 1920,
+          "h": 589.625,
+          "bottom": 1669.625
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1669.625,
+          "w": 1920,
+          "h": 522.234375,
+          "bottom": 2191.859375
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 2191.859375,
+          "w": 1920,
+          "h": 518.390625,
+          "bottom": 2710.25
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2710.25,
+          "w": 1920,
+          "h": 332.53125,
+          "bottom": 3042.78125
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 3042.78125,
+          "w": 1920,
+          "h": 161.328125,
+          "bottom": 3204.109375
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 3204.109375,
+          "w": 1920,
+          "h": 377.078125,
+          "bottom": 3581.1875
+        }
+      ],
+      "heroCTA": {
+        "x": 232.3125,
+        "y": 850.21875,
+        "w": 393.671875,
+        "h": 67.328125,
+        "bottom": 917.546875
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "errors": [],
+      "pageWidth": 1024,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 1024,
+          "h": 768,
+          "bottom": 768
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 768,
+          "w": 1024,
+          "h": 380,
+          "bottom": 1148
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1148,
+          "w": 1024,
+          "h": 380,
+          "bottom": 1528
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 1528,
+          "w": 1024,
+          "h": 380,
+          "bottom": 1908
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 1908,
+          "w": 1024,
+          "h": 320,
+          "bottom": 2228
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2228,
+          "w": 1024,
+          "h": 135.59375,
+          "bottom": 2363.59375
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 2363.59375,
+          "w": 1024,
+          "h": 201.109375,
+          "bottom": 2564.703125
+        }
+      ],
+      "heroCTA": {
+        "x": 71.671875,
+        "y": 495.6875,
+        "w": 206.828125,
+        "h": 44,
+        "bottom": 539.6875
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "errors": [],
+      "pageWidth": 768,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 768,
+          "h": 1024,
+          "bottom": 1024
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 1024,
+          "w": 768,
+          "h": 380,
+          "bottom": 1404
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1404,
+          "w": 768,
+          "h": 380,
+          "bottom": 1784
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 1784,
+          "w": 768,
+          "h": 433.109375,
+          "bottom": 2217.109375
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2217.109375,
+          "w": 768,
+          "h": 320,
+          "bottom": 2537.109375
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2537.109375,
+          "w": 768,
+          "h": 135.59375,
+          "bottom": 2672.703125
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 2672.703125,
+          "w": 768,
+          "h": 263.59375,
+          "bottom": 2936.296875
+        }
+      ],
+      "heroCTA": {
+        "x": 24,
+        "y": 363.3125,
+        "w": 183.015625,
+        "h": 44,
+        "bottom": 407.3125
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "errors": [],
+      "pageWidth": 390,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 844,
+          "bottom": 844
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 844,
+          "w": 390,
+          "h": 669.125,
+          "bottom": 1513.125
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1513.125,
+          "w": 390,
+          "h": 565.9375,
+          "bottom": 2079.0625
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 2079.0625,
+          "w": 390,
+          "h": 612.921875,
+          "bottom": 2691.984375
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2691.984375,
+          "w": 390,
+          "h": 360,
+          "bottom": 3051.984375
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 3051.984375,
+          "w": 390,
+          "h": 257.1875,
+          "bottom": 3309.171875
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 3309.171875,
+          "w": 390,
+          "h": 293.875,
+          "bottom": 3603.046875
+        }
+      ],
+      "heroCTA": {
+        "x": 24,
+        "y": 355.875,
+        "w": 183.015625,
+        "h": 44,
+        "bottom": 399.875
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 320,
+      "height": 568,
+      "errors": [],
+      "pageWidth": 320,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 320,
+          "h": 568,
+          "bottom": 568
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 568,
+          "w": 320,
+          "h": 708.59375,
+          "bottom": 1276.59375
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1276.59375,
+          "w": 320,
+          "h": 582.21875,
+          "bottom": 1858.8125
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 1858.8125,
+          "w": 320,
+          "h": 586.515625,
+          "bottom": 2445.328125
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2445.328125,
+          "w": 320,
+          "h": 360,
+          "bottom": 2805.328125
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2805.328125,
+          "w": 320,
+          "h": 257.1875,
+          "bottom": 3062.515625
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 3062.515625,
+          "w": 320,
+          "h": 327,
+          "bottom": 3389.515625
+        }
+      ],
+      "heroCTA": {
+        "x": 24,
+        "y": 322.578125,
+        "w": 183.015625,
+        "h": 44,
+        "bottom": 366.578125
+      },
+      "clipped": [],
+      "copyOverflows": []
+    },
+    {
+      "width": 667,
+      "height": 375,
+      "errors": [],
+      "pageWidth": 667,
+      "missing": [],
+      "sections": [
+        {
+          "name": "blade-section blade-hero",
+          "x": 0,
+          "y": 0,
+          "w": 667,
+          "h": 375,
+          "bottom": 375
+        },
+        {
+          "name": "blade-section blade-history",
+          "x": 0,
+          "y": 375,
+          "w": 667,
+          "h": 637.4375,
+          "bottom": 1012.4375
+        },
+        {
+          "name": "blade-section blade-sillage",
+          "x": 0,
+          "y": 1012.4375,
+          "w": 667,
+          "h": 557.4375,
+          "bottom": 1569.875
+        },
+        {
+          "name": "blade-section blade-craft",
+          "x": 0,
+          "y": 1569.875,
+          "w": 667,
+          "h": 750.140625,
+          "bottom": 2320.015625
+        },
+        {
+          "name": "blade-section blade-signature",
+          "x": 0,
+          "y": 2320.015625,
+          "w": 667,
+          "h": 360,
+          "bottom": 2680.015625
+        },
+        {
+          "name": "blade-services",
+          "x": 0,
+          "y": 2680.015625,
+          "w": 667,
+          "h": 257.1875,
+          "bottom": 2937.203125
+        },
+        {
+          "name": "newsletter shared-newsletter",
+          "x": 0,
+          "y": 2937.203125,
+          "w": 667,
+          "h": 263.59375,
+          "bottom": 3200.796875
+        }
+      ],
+      "heroCTA": {
+        "x": 33.34375,
+        "y": 262.8125,
+        "w": 174.234375,
+        "h": 44,
+        "bottom": 306.8125
+      },
+      "clipped": [],
+      "copyOverflows": []
+    }
+  ],
+  "motion": [
+    {
+      "width": 390,
+      "total": 41,
+      "animated": [
+        "blade-section blade-hero",
+        "blade-section blade-history",
+        "blade-section blade-sillage",
+        "blade-section blade-craft",
+        "blade-section blade-signature",
+        "blade-services",
+        "newsletter shared-newsletter",
+        "footer shared-footer"
+      ]
+    },
+    {
+      "width": 1440,
+      "total": 41,
+      "animated": [
+        "blade-section blade-hero",
+        "blade-section blade-history",
+        "blade-section blade-sillage",
+        "blade-section blade-craft",
+        "blade-section blade-signature",
+        "footer shared-footer",
+        "newsletter shared-newsletter",
+        "blade-services"
+      ]
+    }
+  ]
+}

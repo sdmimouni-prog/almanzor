@@ -1,0 +1,78 @@
+{
+  "result": "passed",
+  "engine": "Chromium; mobile emulation with touch, DPR 2",
+  "results": [
+    {
+      "route": "index",
+      "width": 320,
+      "height": 568,
+      "result": "passed"
+    },
+    {
+      "route": "index",
+      "width": 390,
+      "height": 844,
+      "result": "passed"
+    },
+    {
+      "route": "index",
+      "width": 667,
+      "height": 375,
+      "result": "passed"
+    },
+    {
+      "route": "index",
+      "width": 844,
+      "height": 390,
+      "result": "passed"
+    },
+    {
+      "route": "nos-parfums",
+      "width": 320,
+      "height": 568,
+      "result": "passed"
+    },
+    {
+      "route": "nos-parfums",
+      "width": 390,
+      "height": 844,
+      "result": "passed"
+    },
+    {
+      "route": "nos-parfums",
+      "width": 667,
+      "height": 375,
+      "result": "passed"
+    },
+    {
+      "route": "nos-parfums",
+      "width": 844,
+      "height": 390,
+      "result": "passed"
+    },
+    {
+      "route": "la-maison",
+      "width": 320,
+      "height": 568,
+      "result": "passed"
+    },
+    {
+      "route": "la-maison",
+      "width": 390,
+      "height": 844,
+      "result": "passed"
+    },
+    {
+      "route": "la-maison",
+      "width": 667,
+      "height": 375,
+      "result": "passed"
+    },
+    {
+      "route": "la-maison",
+      "width": 844,
+      "height": 390,
+      "result": "passed"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "result": "passed",
+  "comparisons": [
+    {
+      "capture": "index.html-1440-reduced.png",
+      "dimensions": [
+        1440,
+        4209
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.019903447638657902,
+        0.020779381484121326,
+        0.022591965629207254
+      ]
+    },
+    {
+      "capture": "index.html-390-reduced.png",
+      "dimensions": [
+        390,
+        5847
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.012225423513263431,
+        0.011748738121236838,
+        0.012372770607762911
+      ]
+    },
+    {
+      "capture": "la-maison.html-1440-reduced.png",
+      "dimensions": [
+        1440,
+        3920
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.01734658446712018,
+        0.019562251984126984,
+        0.02179014314058957
+      ]
+    },
+    {
+      "capture": "la-maison.html-390-reduced.png",
+      "dimensions": [
+        390,
+        4700
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.012846153846153846,
+        0.017781778505182762,
+        0.022420076377523187
+      ]
+    },
+    {
+      "capture": "nos-parfums.html-1440-reduced.png",
+      "dimensions": [
+        1440,
+        4167
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.025812601658533985,
+        0.021846585606484815,
+        0.02099415380102925
+      ]
+    },
+    {
+      "capture": "nos-parfums.html-390-reduced.png",
+      "dimensions": [
+        390,
+        5409
+      ],
+      "meanAbsoluteRGBDifference": [
+        0.004102848528805268,
+        0.003029139468407355,
+        0.002365478239022332
+      ]
+    }
+  ]
+}

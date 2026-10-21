@@ -1,0 +1,96 @@
+/* Product landing pages — proportions from the YAYA 941 × 1672 artboard.
+   Product structure, motion and responsive fallbacks are shared with BLADE. */
+.signature-product-page .blade-copy .blade-description {font-family:Georgia,"Times New Roman",serif;font-size:1.59vw;line-height:1.2;letter-spacing:0;}
+.signature-product-page .blade-copy .eyebrow {font-size:.9vw;letter-spacing:.25vw;}
+.signature-product-page .blade-copy h2 {font-size:3.4vw;line-height:1.04;margin-top:1.25vw;}
+.signature-product-page .blade-rule {width:4.7vw;margin:1.3vw 0;}
+.signature-product-page .blade-button {height:3.6vw;font-size:1.01vw;letter-spacing:.1vw;padding:0 2.4vw;margin-top:1.35vw;}
+.signature-product-page .blade-hero {--yaya-unit:min(calc(100vw / 941),calc(100svh / 497));}
+.signature-product-page .blade-hero .blade-copy {left:12.1%;top:27.3%;width:44%;}
+.signature-product-page .blade-hero .eyebrow {font-size:max(10px,calc(8 * var(--yaya-unit)));letter-spacing:calc(2.2 * var(--yaya-unit));}
+.signature-product-page .blade-hero h1 {position:relative;width:calc(258 * var(--yaya-unit));height:calc(62 * var(--yaya-unit));margin:calc(12 * var(--yaya-unit)) 0 calc(9 * var(--yaya-unit));overflow:hidden;}
+.signature-product-page .blade-hero h1 img {position:absolute;width:112%;max-width:none;height:auto;left:-6.2%;top:-34.3%;}
+.signature-product-page .blade-hero .blade-subtitle {font-size:calc(36 * var(--yaya-unit));line-height:.94;letter-spacing:-.035vw;}
+.signature-product-page .blade-hero .blade-rule {width:calc(46 * var(--yaya-unit));margin:calc(20 * var(--yaya-unit)) 0 calc(14 * var(--yaya-unit));}
+.signature-product-page .blade-hero .blade-description {font-size:max(14px,calc(16 * var(--yaya-unit)));line-height:1.2;}
+.signature-product-page .blade-hero .blade-button {height:max(44px,calc(33 * var(--yaya-unit)));margin-top:calc(17 * var(--yaya-unit));font-size:max(10px,calc(9 * var(--yaya-unit)));padding:0 calc(33 * var(--yaya-unit));}
+.signature-product-page .blade-history {height:30.71vw;}
+.signature-product-page .blade-history .blade-copy {left:8.6%;top:10.7%;width:40%;}
+.signature-product-page .blade-history .blade-scene {object-position:58% center;}
+.signature-product-page .blade-sillage {height:27.2vw;}
+.signature-product-page .blade-sillage .blade-scene {inset:-8.5% auto auto 0;width:112%;max-width:none;height:110%;}
+.signature-product-page .blade-sillage .blade-copy {left:62.7%;top:16.5%;width:35%;}
+.signature-product-page .blade-sillage h2 {margin-top:1.15vw;}
+.signature-product-page .blade-sillage .blade-rule {margin:1.6vw 0 1.8vw;}
+.signature-product-page .blade-craft {height:27vw;grid-template-rows:minmax(0,1fr);}
+.signature-product-page .blade-craft .blade-copy {min-height:0;padding:2.55vw 1.7vw 0 8.6vw;}
+.signature-product-page .blade-craft .blade-description {font-size:1.49vw;line-height:1.25;}
+.signature-product-page .blade-craft .blade-rule {margin:1.15vw 0;}
+.signature-product-page .blade-craft .blade-button {height:3.1vw;margin-top:1.1vw;font-size:.9vw;}
+.signature-product-page .blade-craft-photo {object-position:center 42%;}
+.signature-product-page .blade-signature {height:17.32vw;}
+.signature-product-page .blade-signature .blade-copy {width:40%;padding-top:2vw;}
+.signature-product-page .blade-signature h2 {font-size:3.05vw;line-height:.96;margin-top:.9vw;}
+.signature-product-page .blade-signature .eyebrow {font-size:.85vw;}
+.signature-product-page .blade-signature .blade-button {height:3vw;font-size:.9vw;margin-top:.8vw;padding:0 2.1vw;}
+.signature-product-page .blade-services {padding:1.35vw 3vw 1.1vw;}
+.signature-product-page .blade-services img {width:2.7vw;height:2.7vw;}
+.signature-product-page .blade-services p {font-size:1.1vw;margin-top:.4vw;}
+
+@media (max-width:1199px) {
+ .signature-product-page .blade-copy .eyebrow {font-size:10px;letter-spacing:2px;}
+ .signature-product-page .blade-copy h2 {font-size:34px;line-height:1.08;margin-top:16px;}
+ .signature-product-page .blade-copy .blade-description {font-size:16px;line-height:1.4;}
+ .signature-product-page .blade-rule {width:44px;margin:18px 0;}
+ .signature-product-page .blade-button {height:48px;font-size:10px;letter-spacing:.8px;padding:0 22px;margin-top:20px;}
+ .signature-product-page .blade-hero .blade-copy {left:7%;top:28%;width:48%;}
+ .signature-product-page .blade-hero .blade-description {font-size:16px;}
+ .signature-product-page .blade-hero .blade-subtitle {font-size:clamp(30px,3.8vw,42px);}
+ .signature-product-page .blade-history,.signature-product-page .blade-sillage,.signature-product-page .blade-craft {height:auto;min-height:380px;}
+ .signature-product-page .blade-history .blade-copy {inset:auto;width:48%;padding:36px 0 36px 6%;}
+ .signature-product-page .blade-sillage .blade-copy {inset:auto;width:42%;padding:40px 22px 40px 16px;}
+ .signature-product-page .blade-sillage .blade-scene {inset:0;width:100%;height:100%;}
+ .signature-product-page .blade-sillage .blade-rule {margin:22px 0;}
+ .signature-product-page .blade-craft .blade-copy {padding:34px 30px 34px 40px;}
+ .signature-product-page .blade-craft .blade-rule {margin:20px 0;}
+ .signature-product-page .blade-craft .blade-button {font-size:10px;height:48px;margin-top:22px;}
+ .signature-product-page .blade-signature {height:320px;}
+ .signature-product-page .blade-signature .blade-copy {width:440px;padding-top:40px;}
+ .signature-product-page .blade-signature h2 {font-size:36px;line-height:1.04;}
+ .signature-product-page .blade-signature .eyebrow {font-size:10px;}
+ .signature-product-page .blade-signature .blade-button {height:48px;font-size:10px;margin-top:20px;padding:0 20px;}
+ .signature-product-page .blade-services {padding:24px 18px;}
+ .signature-product-page .blade-services img {width:42px;height:42px;}
+ .signature-product-page .blade-services p {font-size:12px;margin-top:10px;}
+}
+@media (max-width:767px), (max-width:1199px) and (orientation:portrait) {
+ .signature-product-page .blade-hero .blade-copy {inset:auto;width:100%;}
+ .signature-product-page .blade-hero h1 {width:clamp(180px,31svh,258px);height:clamp(43px,7.45svh,62px);margin:8px 0 8px;}
+ .signature-product-page .blade-hero .blade-subtitle {font-size:clamp(24px,3.8svh,34px);line-height:1.04;}
+ .signature-product-page .blade-hero .blade-rule {width:44px;margin:clamp(10px,1.7svh,15px) 0;}
+ .signature-product-page .blade-hero .blade-description {font-size:clamp(13px,1.8svh,16px);line-height:1.3;max-width:540px;}
+ .signature-product-page .blade-hero .blade-button {height:44px;margin-top:16px;padding:0 24px;}
+}
+@media (max-width:767px) {
+ .signature-product-page .blade-history,.signature-product-page .blade-sillage,.signature-product-page .blade-craft {min-height:0;}
+ .signature-product-page .blade-section .blade-copy {width:100%;padding:36px 24px;}
+ .signature-product-page .blade-hero .blade-copy {padding:0 24px 22px;}
+ .signature-product-page .blade-copy h2 {font-size:clamp(28px,8vw,38px);}
+ .signature-product-page .blade-copy .blade-description {font-size:16px;line-height:1.45;}
+ .signature-product-page .blade-hero .blade-description {font-size:clamp(13px,1.8svh,16px);line-height:1.3;}
+ .signature-product-page .blade-sillage .blade-scene {inset:auto;height:280px;object-position:left center;}
+ .signature-product-page .blade-signature {height:360px;}
+ .signature-product-page .blade-signature .blade-copy {padding:56px 20px 0;}
+ .signature-product-page .blade-signature h2 {font-size:36px;}
+ .signature-product-page .blade-signature .blade-button {font-size:9px;padding:0 18px;}
+ .signature-product-page .blade-services {padding:28px 14px;}
+}
+@media (max-width:1199px) and (max-height:600px) and (orientation:landscape) {
+ .signature-product-page .blade-hero .blade-copy {left:5%;top:96px;width:48%;padding:0;}
+ .signature-product-page .blade-hero h1 {width:156px;height:37px;margin:5px 0;}
+ .signature-product-page .blade-hero .eyebrow {font-size:8px;}
+ .signature-product-page .blade-hero .blade-subtitle {font-size:23px;}
+ .signature-product-page .blade-hero .blade-rule {margin:9px 0;}
+ .signature-product-page .blade-hero .blade-description {font-size:12px;line-height:1.25;}
+ .signature-product-page .blade-hero .blade-button {height:44px;margin-top:10px;font-size:9px;}
+}

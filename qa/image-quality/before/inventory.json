@@ -1,0 +1,2702 @@
+[
+  {
+    "route": "index",
+    "desktop": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          161,
+          104
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      },
+      {
+        "src": "hero-reference-clean.webp",
+        "natural": [
+          1672,
+          941
+        ],
+        "render": [
+          1512,
+          982
+        ],
+        "section": "hero reference-hero",
+        "alt": "Flacon ALMANZOR bleu nuit sur une pierre sombre, devant un mur vert profond baigné de lumière chaude"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ],
+        "section": "hero reference-hero",
+        "alt": ""
+      },
+      {
+        "src": "editorial-maison.webp",
+        "natural": [
+          1774,
+          460
+        ],
+        "render": [
+          1512,
+          392
+        ],
+        "section": "maison editorial-maison",
+        "alt": "Arche marocaine sculptée, porte marquée de l’emblème ALMANZOR et olivier baignés de lumière dorée"
+      },
+      {
+        "src": "editorial-logo.webp",
+        "natural": [
+          145,
+          96
+        ],
+        "render": [
+          124,
+          82
+        ],
+        "section": "maison editorial-maison",
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          18
+        ],
+        "section": "maison editorial-maison",
+        "alt": ""
+      },
+      {
+        "src": "editorial-parfums.webp",
+        "natural": [
+          754,
+          275
+        ],
+        "render": [
+          643,
+          234
+        ],
+        "section": "univers editorial-univers",
+        "alt": ""
+      },
+      {
+        "src": "editorial-arrow-gold.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          18
+        ],
+        "section": "univers editorial-univers",
+        "alt": ""
+      },
+      {
+        "src": "editorial-univers.webp",
+        "natural": [
+          753,
+          275
+        ],
+        "render": [
+          642,
+          234
+        ],
+        "section": "univers editorial-univers",
+        "alt": ""
+      },
+      {
+        "src": "editorial-arrow-gold.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          18
+        ],
+        "section": "univers editorial-univers",
+        "alt": ""
+      },
+      {
+        "src": "collection-chevron-left.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          35,
+          68
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "collection-blade.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          314,
+          302
+        ],
+        "section": "selection reference-selection",
+        "alt": "BLADE, flacon noir et bleu, capuchon noir texturé et finitions dorées"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "collection-yaya.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          314,
+          302
+        ],
+        "section": "selection reference-selection",
+        "alt": "YAYA, flacon noir et ambré, capuchon noir texturé et finitions dorées"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "collection-monsieur-rouge.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          314,
+          302
+        ],
+        "section": "selection reference-selection",
+        "alt": "MONSIEUR ROUGE, flacon noir et rouge, capuchon noir texturé et finitions dorées"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "collection-black-eden.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          314,
+          302
+        ],
+        "section": "selection reference-selection",
+        "alt": "BLACK EDEN, flacon noir et vert, capuchon noir texturé et finitions dorées"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "collection-chevron-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          35,
+          68
+        ],
+        "section": "selection reference-selection",
+        "alt": ""
+      },
+      {
+        "src": "heritage-craft-macro.webp",
+        "natural": [
+          827,
+          517
+        ],
+        "render": [
+          814,
+          509
+        ],
+        "section": "craft reference-craft heritage-craft",
+        "alt": "Gros plan du capuchon ALMANZOR, texture noire et monogramme doré"
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          18
+        ],
+        "section": "craft reference-craft heritage-craft",
+        "alt": ""
+      },
+      {
+        "src": "heritage-signature-scene.webp",
+        "natural": [
+          1536,
+          507
+        ],
+        "render": [
+          1512,
+          499
+        ],
+        "section": "signature reference-signature heritage-signature",
+        "alt": "Terrasse marocaine au coucher du soleil, palmiers et montagnes, grand monogramme ALMANZOR doré sur le mur"
+      },
+      {
+        "src": "heritage-monogram.webp",
+        "natural": [
+          120,
+          106
+        ],
+        "render": [
+          118,
+          104
+        ],
+        "section": "signature reference-signature heritage-signature",
+        "alt": "Monogramme ALMANZOR"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          15
+        ],
+        "section": "signature reference-signature heritage-signature",
+        "alt": ""
+      },
+      {
+        "src": "signature-service-delivery.webp",
+        "natural": [
+          74,
+          60
+        ],
+        "render": [
+          73,
+          59
+        ],
+        "section": "reassurance reference-reassurance",
+        "alt": ""
+      },
+      {
+        "src": "signature-service-payment.webp",
+        "natural": [
+          52,
+          60
+        ],
+        "render": [
+          51,
+          59
+        ],
+        "section": "reassurance reference-reassurance",
+        "alt": ""
+      },
+      {
+        "src": "signature-service-location.webp",
+        "natural": [
+          51,
+          60
+        ],
+        "render": [
+          50,
+          59
+        ],
+        "section": "reassurance reference-reassurance",
+        "alt": ""
+      },
+      {
+        "src": "signature-service-support.webp",
+        "natural": [
+          54,
+          60
+        ],
+        "render": [
+          53,
+          59
+        ],
+        "section": "reassurance reference-reassurance",
+        "alt": ""
+      },
+      {
+        "src": "signature-inspiration-bottle-rock.webp",
+        "natural": [
+          238,
+          198
+        ],
+        "render": [
+          234,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Flacon ALMANZOR ambré posé sur des pierres au soleil"
+      },
+      {
+        "src": "signature-inspiration-flower.webp",
+        "natural": [
+          242,
+          198
+        ],
+        "render": [
+          238,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Fleur blanche sur une pierre claire"
+      },
+      {
+        "src": "signature-inspiration-bottle-citrus.webp",
+        "natural": [
+          245,
+          198
+        ],
+        "render": [
+          241,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Flacon bleu nuit ALMANZOR auprès d’agrumes"
+      },
+      {
+        "src": "signature-inspiration-arch.webp",
+        "natural": [
+          244,
+          198
+        ],
+        "render": [
+          240,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Arche marocaine ouverte sur les palmiers et les montagnes"
+      },
+      {
+        "src": "signature-inspiration-bottle-gold.webp",
+        "natural": [
+          243,
+          198
+        ],
+        "render": [
+          239,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Flacon doré ALMANZOR et fleur blanche dans la lumière"
+      },
+      {
+        "src": "signature-inspiration-stone.webp",
+        "natural": [
+          239,
+          198
+        ],
+        "render": [
+          235,
+          195
+        ],
+        "section": "instagram reference-instagram",
+        "alt": "Monogramme ALMANZOR gravé dans la pierre, ombres de palmes"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          12,
+          12
+        ],
+        "section": "newsletter shared-newsletter",
+        "alt": ""
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          217,
+          119
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          16,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          11,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      }
+    ],
+    "mobile": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          116,
+          75
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          24
+        ]
+      },
+      {
+        "src": "hero-reference-clean.webp",
+        "natural": [
+          1672,
+          941
+        ],
+        "render": [
+          390,
+          468
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          17,
+          17
+        ]
+      },
+      {
+        "src": "editorial-maison.webp",
+        "natural": [
+          1774,
+          460
+        ],
+        "render": [
+          390,
+          260
+        ]
+      },
+      {
+        "src": "editorial-logo-transparent.webp",
+        "natural": [
+          145,
+          96
+        ],
+        "render": [
+          130,
+          86
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "editorial-parfums.webp",
+        "natural": [
+          754,
+          275
+        ],
+        "render": [
+          350,
+          230
+        ]
+      },
+      {
+        "src": "editorial-arrow-gold.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "editorial-univers.webp",
+        "natural": [
+          753,
+          275
+        ],
+        "render": [
+          350,
+          230
+        ]
+      },
+      {
+        "src": "editorial-arrow-gold.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "collection-chevron-left.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          14,
+          23
+        ]
+      },
+      {
+        "src": "collection-blade.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          179,
+          172
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ]
+      },
+      {
+        "src": "collection-yaya.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          179,
+          172
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ]
+      },
+      {
+        "src": "collection-monsieur-rouge.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          179,
+          172
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ]
+      },
+      {
+        "src": "collection-black-eden.webp",
+        "natural": [
+          319,
+          307
+        ],
+        "render": [
+          179,
+          172
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          20
+        ]
+      },
+      {
+        "src": "collection-chevron-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          14,
+          23
+        ]
+      },
+      {
+        "src": "heritage-craft-macro.webp",
+        "natural": [
+          827,
+          517
+        ],
+        "render": [
+          390,
+          244
+        ]
+      },
+      {
+        "src": "editorial-arrow-bronze.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          15
+        ]
+      },
+      {
+        "src": "heritage-signature-scene.webp",
+        "natural": [
+          1536,
+          507
+        ],
+        "render": [
+          390,
+          460
+        ]
+      },
+      {
+        "src": "heritage-monogram.webp",
+        "natural": [
+          120,
+          106
+        ],
+        "render": [
+          108,
+          95
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          20,
+          13
+        ]
+      },
+      {
+        "src": "signature-service-delivery.webp",
+        "natural": [
+          74,
+          60
+        ],
+        "render": [
+          62,
+          50
+        ]
+      },
+      {
+        "src": "signature-service-payment.webp",
+        "natural": [
+          52,
+          60
+        ],
+        "render": [
+          43,
+          50
+        ]
+      },
+      {
+        "src": "signature-service-location.webp",
+        "natural": [
+          51,
+          60
+        ],
+        "render": [
+          43,
+          50
+        ]
+      },
+      {
+        "src": "signature-service-support.webp",
+        "natural": [
+          54,
+          60
+        ],
+        "render": [
+          45,
+          50
+        ]
+      },
+      {
+        "src": "signature-inspiration-bottle-rock.webp",
+        "natural": [
+          238,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "signature-inspiration-flower.webp",
+        "natural": [
+          242,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "signature-inspiration-bottle-citrus.webp",
+        "natural": [
+          245,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "signature-inspiration-arch.webp",
+        "natural": [
+          244,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "signature-inspiration-bottle-gold.webp",
+        "natural": [
+          243,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "signature-inspiration-stone.webp",
+        "natural": [
+          239,
+          198
+        ],
+        "render": [
+          180,
+          147
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          175,
+          97
+        ]
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          17,
+          19
+        ]
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          12,
+          19
+        ]
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          19
+        ]
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "route": "nos-parfums",
+    "desktop": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          161,
+          104
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      },
+      {
+        "src": "catalog-hero-hd.webp",
+        "natural": [
+          1836,
+          857
+        ],
+        "render": [
+          1512,
+          702
+        ],
+        "section": "catalog-hero",
+        "alt": "YAYA, BLADE, MONSIEUR ROUGE et BLACK EDEN sur des roches dorées, devant un marbre vert profond"
+      },
+      {
+        "src": "catalog-benefit-1.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          92,
+          94
+        ],
+        "section": "catalog-benefits",
+        "alt": ""
+      },
+      {
+        "src": "catalog-benefit-2.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          92,
+          94
+        ],
+        "section": "catalog-benefits",
+        "alt": ""
+      },
+      {
+        "src": "catalog-benefit-3.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          92,
+          94
+        ],
+        "section": "catalog-benefits",
+        "alt": ""
+      },
+      {
+        "src": "catalog-benefit-4.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          92,
+          94
+        ],
+        "section": "catalog-benefits",
+        "alt": ""
+      },
+      {
+        "src": "catalog-product-blade.webp",
+        "natural": [
+          415,
+          303
+        ],
+        "render": [
+          847,
+          618
+        ],
+        "section": "perfume-story story-blade",
+        "alt": "BLADE, flacon ALMANZOR dans son univers photographique"
+      },
+      {
+        "src": "catalog-note-blade-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-blade",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-blade-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-blade",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-blade-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-blade",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          17
+        ],
+        "section": "perfume-story story-blade",
+        "alt": ""
+      },
+      {
+        "src": "catalog-product-yaya.webp",
+        "natural": [
+          372,
+          316
+        ],
+        "render": [
+          759,
+          645
+        ],
+        "section": "perfume-story story-yaya",
+        "alt": "YAYA, flacon ALMANZOR dans son univers photographique"
+      },
+      {
+        "src": "catalog-note-yaya-1.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          114,
+          110
+        ],
+        "section": "perfume-story story-yaya",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-yaya-2.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          114,
+          110
+        ],
+        "section": "perfume-story story-yaya",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-yaya-3.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          114,
+          110
+        ],
+        "section": "perfume-story story-yaya",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          17
+        ],
+        "section": "perfume-story story-yaya",
+        "alt": ""
+      },
+      {
+        "src": "catalog-product-monsieur-rouge.webp",
+        "natural": [
+          403,
+          287
+        ],
+        "render": [
+          822,
+          586
+        ],
+        "section": "perfume-story story-monsieur-rouge",
+        "alt": "MONSIEUR ROUGE, flacon ALMANZOR dans son univers photographique"
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-monsieur-rouge",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-monsieur-rouge",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-monsieur-rouge",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          17
+        ],
+        "section": "perfume-story story-monsieur-rouge",
+        "alt": ""
+      },
+      {
+        "src": "catalog-product-black-eden.webp",
+        "natural": [
+          379,
+          304
+        ],
+        "render": [
+          773,
+          620
+        ],
+        "section": "perfume-story story-black-eden",
+        "alt": "BLACK EDEN, flacon ALMANZOR dans son univers photographique"
+      },
+      {
+        "src": "catalog-note-black-eden-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-black-eden",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-black-eden-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-black-eden",
+        "alt": ""
+      },
+      {
+        "src": "catalog-note-black-eden-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          116,
+          112
+        ],
+        "section": "perfume-story story-black-eden",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          17
+        ],
+        "section": "perfume-story story-black-eden",
+        "alt": ""
+      },
+      {
+        "src": "catalog-signature.webp",
+        "natural": [
+          741,
+          167
+        ],
+        "render": [
+          1512,
+          341
+        ],
+        "section": "catalog-signature",
+        "alt": "Terrasse marocaine dans la lumière dorée, monogramme ALMANZOR fixé au mur"
+      },
+      {
+        "src": "heritage-monogram.webp",
+        "natural": [
+          120,
+          106
+        ],
+        "render": [
+          96,
+          86
+        ],
+        "section": "catalog-signature",
+        "alt": "Monogramme ALMANZOR"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          16
+        ],
+        "section": "catalog-signature",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          12,
+          12
+        ],
+        "section": "newsletter shared-newsletter",
+        "alt": ""
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          217,
+          119
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          16,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          11,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      }
+    ],
+    "mobile": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          116,
+          75
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          24
+        ]
+      },
+      {
+        "src": "catalog-hero-hd.webp",
+        "natural": [
+          1836,
+          857
+        ],
+        "render": [
+          390,
+          300
+        ]
+      },
+      {
+        "src": "catalog-benefit-1.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          55,
+          56
+        ]
+      },
+      {
+        "src": "catalog-benefit-2.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          55,
+          56
+        ]
+      },
+      {
+        "src": "catalog-benefit-3.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          55,
+          56
+        ]
+      },
+      {
+        "src": "catalog-benefit-4.webp",
+        "natural": [
+          45,
+          46
+        ],
+        "render": [
+          55,
+          56
+        ]
+      },
+      {
+        "src": "catalog-product-blade.webp",
+        "natural": [
+          415,
+          303
+        ],
+        "render": [
+          390,
+          285
+        ]
+      },
+      {
+        "src": "catalog-note-blade-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-blade-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-blade-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          13
+        ]
+      },
+      {
+        "src": "catalog-product-yaya.webp",
+        "natural": [
+          372,
+          316
+        ],
+        "render": [
+          390,
+          331
+        ]
+      },
+      {
+        "src": "catalog-note-yaya-1.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-yaya-2.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-yaya-3.webp",
+        "natural": [
+          56,
+          54
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          13
+        ]
+      },
+      {
+        "src": "catalog-product-monsieur-rouge.webp",
+        "natural": [
+          403,
+          287
+        ],
+        "render": [
+          390,
+          278
+        ]
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-monsieur-rouge-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          13
+        ]
+      },
+      {
+        "src": "catalog-product-black-eden.webp",
+        "natural": [
+          379,
+          304
+        ],
+        "render": [
+          390,
+          313
+        ]
+      },
+      {
+        "src": "catalog-note-black-eden-1.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-black-eden-2.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "catalog-note-black-eden-3.webp",
+        "natural": [
+          57,
+          55
+        ],
+        "render": [
+          76,
+          73
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          13
+        ]
+      },
+      {
+        "src": "catalog-signature.webp",
+        "natural": [
+          741,
+          167
+        ],
+        "render": [
+          390,
+          310
+        ]
+      },
+      {
+        "src": "heritage-monogram.webp",
+        "natural": [
+          120,
+          106
+        ],
+        "render": [
+          66,
+          58
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          18,
+          12
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          175,
+          97
+        ]
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          17,
+          19
+        ]
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          12,
+          19
+        ]
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          19
+        ]
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "route": "la-maison",
+    "desktop": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          161,
+          104
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          26,
+          26
+        ],
+        "alt": ""
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      },
+      {
+        "src": "maison-hero.webp",
+        "natural": [
+          770,
+          397
+        ],
+        "render": [
+          1512,
+          780
+        ],
+        "section": "maison-hero maison-section",
+        "alt": "Entrée de la Maison ALMANZOR, porte marocaine sculptée et olivier baignés de lumière dorée"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          16
+        ],
+        "section": "maison-hero maison-section",
+        "alt": ""
+      },
+      {
+        "src": "maison-inspiration.webp",
+        "natural": [
+          770,
+          290
+        ],
+        "render": [
+          1512,
+          569
+        ],
+        "section": "maison-inspiration maison-section",
+        "alt": "Cour et arches sculptées d’un palais marocain, palmiers et montagnes au loin"
+      },
+      {
+        "src": "maison-benefit-1.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-benefits",
+        "alt": ""
+      },
+      {
+        "src": "maison-benefit-2.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-benefits",
+        "alt": ""
+      },
+      {
+        "src": "maison-benefit-3.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-benefits",
+        "alt": ""
+      },
+      {
+        "src": "maison-benefit-4.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-benefits",
+        "alt": ""
+      },
+      {
+        "src": "maison-materials.webp",
+        "natural": [
+          770,
+          293
+        ],
+        "render": [
+          1512,
+          575
+        ],
+        "section": "maison-materials maison-section",
+        "alt": "Bois précieux et ambre dans la lumière dorée sur une pierre noire veinée"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          16
+        ],
+        "section": "maison-materials maison-section",
+        "alt": ""
+      },
+      {
+        "src": "maison-vision.webp",
+        "natural": [
+          770,
+          256
+        ],
+        "render": [
+          1512,
+          503
+        ],
+        "section": "maison-vision maison-section",
+        "alt": "Terrasse sur les montagnes et Marrakech au coucher du soleil, monogramme ALMANZOR sur la pierre"
+      },
+      {
+        "src": "maison-art.webp",
+        "natural": [
+          770,
+          248
+        ],
+        "render": [
+          1512,
+          487
+        ],
+        "section": "maison-art maison-section",
+        "alt": "YAYA, BLADE, MONSIEUR ROUGE et BLACK EDEN sur les pierres de la Maison"
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          16
+        ],
+        "section": "maison-art maison-section",
+        "alt": ""
+      },
+      {
+        "src": "maison-commitment-1.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-commitment",
+        "alt": ""
+      },
+      {
+        "src": "maison-commitment-2.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-commitment",
+        "alt": ""
+      },
+      {
+        "src": "maison-commitment-3.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          102,
+          106
+        ],
+        "section": "maison-commitment",
+        "alt": ""
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          12,
+          12
+        ],
+        "section": "newsletter shared-newsletter",
+        "alt": ""
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          217,
+          119
+        ],
+        "alt": "ALMANZOR Parfums"
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          16,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          11,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          18
+        ],
+        "alt": ""
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ],
+        "alt": ""
+      }
+    ],
+    "mobile": [
+      {
+        "src": "logo-hero-reference.webp",
+        "natural": [
+          178,
+          115
+        ],
+        "render": [
+          116,
+          75
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-magnifying-glass.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "header-user.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          0,
+          0
+        ]
+      },
+      {
+        "src": "header-handbag.svg",
+        "natural": [
+          150,
+          150
+        ],
+        "render": [
+          25,
+          25
+        ]
+      },
+      {
+        "src": "menu.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          24,
+          24
+        ]
+      },
+      {
+        "src": "maison-hero-mobile.webp",
+        "natural": [
+          373,
+          331
+        ],
+        "render": [
+          390,
+          300
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          11
+        ]
+      },
+      {
+        "src": "maison-inspiration-mobile.webp",
+        "natural": [
+          385,
+          290
+        ],
+        "render": [
+          390,
+          294
+        ]
+      },
+      {
+        "src": "maison-benefit-1.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-benefit-2.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-benefit-3.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-benefit-4.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-materials-mobile.webp",
+        "natural": [
+          385,
+          293
+        ],
+        "render": [
+          390,
+          297
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          11
+        ]
+      },
+      {
+        "src": "maison-vision.webp",
+        "natural": [
+          770,
+          256
+        ],
+        "render": [
+          390,
+          390
+        ]
+      },
+      {
+        "src": "maison-art-mobile.webp",
+        "natural": [
+          419,
+          248
+        ],
+        "render": [
+          390,
+          231
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          11
+        ]
+      },
+      {
+        "src": "maison-commitment-1.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-commitment-2.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "maison-commitment-3.webp",
+        "natural": [
+          52,
+          54
+        ],
+        "render": [
+          60,
+          62
+        ]
+      },
+      {
+        "src": "arrow-right.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          16,
+          16
+        ]
+      },
+      {
+        "src": "logo-transparent.webp",
+        "natural": [
+          700,
+          386
+        ],
+        "render": [
+          175,
+          97
+        ]
+      },
+      {
+        "src": "footer-instagram.svg",
+        "natural": [
+          131,
+          150
+        ],
+        "render": [
+          17,
+          19
+        ]
+      },
+      {
+        "src": "footer-facebook.svg",
+        "natural": [
+          94,
+          150
+        ],
+        "render": [
+          12,
+          19
+        ]
+      },
+      {
+        "src": "footer-video.svg",
+        "natural": [
+          113,
+          150
+        ],
+        "render": [
+          14,
+          19
+        ]
+      },
+      {
+        "src": "x.svg",
+        "natural": [
+          24,
+          24
+        ],
+        "render": [
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

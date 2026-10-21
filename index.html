@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="heritage.css" />
     <link rel="stylesheet" href="scroll-motion.css" />
     <link rel="stylesheet" href="shared-footer.css" />
+    <link rel="stylesheet" href="mobile.css" />
     <script src="app.js" defer></script>
   </head>
   <body class="home-page">
@@ -239,28 +240,28 @@
         <button class="collection-arrow collection-prev" aria-label="Voir le parfum précédent" aria-controls="collection-grid"><img src="assets/collection-chevron-left.svg" width="24" height="32" alt="" /></button>
         <div class="product-grid" id="collection-grid">
           <article class="product" id="blade">
-            <button class="product-image" data-product="blade" aria-label="Découvrir BLADE"><img src="assets/collection-blade.webp" width="319" height="307" alt="BLADE, flacon noir et bleu, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <a class="product-image" aria-label="Découvrir BLADE" href="blade.html"><img src="assets/collection-blade-hd.webp" width="960" height="924" alt="BLADE, flacon noir et bleu, capuchon noir texturé et finitions dorées" loading="lazy" /></a>
             <h3>BLADE</h3>
             <p class="product-concentration">Eau de parfum</p>
-            <button class="button button-outline" data-product="blade" aria-label="Découvrir BLADE">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+            <a class="button button-outline" aria-label="Découvrir BLADE" href="blade.html">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></a>
           </article>
           <article class="product" id="yaya">
-            <button class="product-image" data-product="yaya" aria-label="Découvrir YAYA"><img src="assets/collection-yaya.webp" width="319" height="307" alt="YAYA, flacon noir et ambré, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <a class="product-image" aria-label="Découvrir YAYA" href="yaya.html"><img src="assets/collection-yaya-hd.webp" width="960" height="923" alt="YAYA, flacon noir et ambré, capuchon noir texturé et finitions dorées" loading="lazy" /></a>
             <h3>YAYA</h3>
             <p class="product-concentration">Eau de parfum</p>
-            <button class="button button-outline" data-product="yaya" aria-label="Découvrir YAYA">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+            <a class="button button-outline" aria-label="Découvrir YAYA" href="yaya.html">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></a>
           </article>
           <article class="product" id="monsieur-rouge">
-            <button class="product-image" data-product="monsieur-rouge" aria-label="Découvrir MONSIEUR ROUGE"><img src="assets/collection-monsieur-rouge.webp" width="319" height="307" alt="MONSIEUR ROUGE, flacon noir et rouge, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <a class="product-image" aria-label="Découvrir MONSIEUR ROUGE" href="monsieur-rouge.html"><img src="assets/collection-monsieur-rouge-hd.webp" width="960" height="924" alt="MONSIEUR ROUGE, flacon noir et rouge, capuchon noir texturé et finitions dorées" loading="lazy" /></a>
             <h3>MONSIEUR ROUGE</h3>
             <p class="product-concentration">Eau de parfum</p>
-            <button class="button button-outline" data-product="monsieur-rouge" aria-label="Découvrir MONSIEUR ROUGE">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+            <a class="button button-outline" aria-label="Découvrir MONSIEUR ROUGE" href="monsieur-rouge.html">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></a>
           </article>
           <article class="product" id="black-eden">
-            <button class="product-image" data-product="black-eden" aria-label="Découvrir BLACK EDEN"><img src="assets/collection-black-eden.webp" width="319" height="307" alt="BLACK EDEN, flacon noir et vert, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <a class="product-image" aria-label="Découvrir BLACK EDEN" href="black-eden.html"><img src="assets/collection-black-eden-hd.webp" width="960" height="924" alt="BLACK EDEN, flacon noir et vert, capuchon noir texturé et finitions dorées" loading="lazy" /></a>
             <h3>BLACK EDEN</h3>
             <p class="product-concentration">Eau de parfum</p>
-            <button class="button button-outline" data-product="black-eden" aria-label="Découvrir BLACK EDEN">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+            <a class="button button-outline" aria-label="Découvrir BLACK EDEN" href="black-eden.html">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></a>
           </article>
         </div>
         <button class="collection-arrow collection-next" aria-label="Voir le parfum suivant" aria-controls="collection-grid"><img src="assets/collection-chevron-right.svg" width="24" height="32" alt="" /></button>
@@ -295,15 +296,14 @@
         <div class="section-heading">
           <p class="eyebrow">Inspiration</p>
           <h2 id="instagram-title">L’univers Almanzor</h2>
-          <p class="instagram-subtitle">Suivez-nous sur Instagram <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer">@almanzor.parfums</a></p>
         </div>
         <div class="instagram-grid">
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 1"><img src="assets/signature-inspiration-bottle-rock.webp" width="238" height="198" alt="Flacon ALMANZOR ambré posé sur des pierres au soleil" loading="lazy" /></a>
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 2"><img src="assets/signature-inspiration-flower.webp" width="242" height="198" alt="Fleur blanche sur une pierre claire" loading="lazy" /></a>
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 3"><img src="assets/signature-inspiration-bottle-citrus.webp" width="245" height="198" alt="Flacon bleu nuit ALMANZOR auprès d’agrumes" loading="lazy" /></a>
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 4"><img src="assets/signature-inspiration-arch.webp" width="244" height="198" alt="Arche marocaine ouverte sur les palmiers et les montagnes" loading="lazy" /></a>
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 5"><img src="assets/signature-inspiration-bottle-gold.webp" width="243" height="198" alt="Flacon doré ALMANZOR et fleur blanche dans la lumière" loading="lazy" /></a>
-          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 6"><img src="assets/signature-inspiration-stone.webp" width="239" height="198" alt="Monogramme ALMANZOR gravé dans la pierre, ombres de palmes" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 1"><img src="assets/signature-inspiration-bottle-rock-hd.webp" width="960" height="784" alt="Flacon ALMANZOR ambré posé sur des pierres au soleil" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 2"><img src="assets/signature-inspiration-flower-hd.webp" width="960" height="785" alt="Fleur blanche sur une pierre claire" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 3"><img src="assets/signature-inspiration-bottle-citrus-hd.webp" width="960" height="785" alt="Flacon bleu nuit ALMANZOR auprès d’agrumes" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 4"><img src="assets/signature-inspiration-arch-hd.webp" width="960" height="785" alt="Arche marocaine ouverte sur les palmiers et les montagnes" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 5"><img src="assets/signature-inspiration-bottle-gold-hd.webp" width="960" height="786" alt="Flacon doré ALMANZOR et fleur blanche dans la lumière" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 6"><img src="assets/signature-inspiration-stone-hd.webp" width="960" height="787" alt="Monogramme ALMANZOR gravé dans la pierre, ombres de palmes" loading="lazy" /></a>
         </div>
       </section>
       <section class="newsletter shared-newsletter" aria-labelledby="newsletter-title">
@@ -332,10 +332,10 @@
         </div>
         <div class="footer-column">
           <h2>Nos parfums</h2>
-          <a href="nos-parfums.html#blade">BLADE</a>
-          <a href="nos-parfums.html#yaya">YAYA</a>
-          <a href="nos-parfums.html#monsieur-rouge">MONSIEUR ROUGE</a>
-          <a href="nos-parfums.html#black-eden">BLACK EDEN</a>
+          <a href="blade.html">BLADE</a>
+          <a href="yaya.html">YAYA</a>
+          <a href="monsieur-rouge.html">MONSIEUR ROUGE</a>
+          <a href="black-eden.html">BLACK EDEN</a>
         </div>
         <div class="footer-column">
           <h2>Informations</h2>

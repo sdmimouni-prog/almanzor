@@ -6,6 +6,11 @@ __pycache__/
 .env.*
 !.env.example
 
+# Production output and local image-generation masters.
+dist/
+output/**/*.png
+.vercel/
+
 # Local visual verification captures; keep the scripts and reports.
 qa/**/*.png
 qa/**/*.jpg

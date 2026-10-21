@@ -1,6 +1,6 @@
 # ALMANZOR Parfums
 
-Site vitrine statique en HTML, CSS et JavaScript : Accueil, Nos parfums et La Maison. Les images et les polices sont incluses dans `assets/` ; aucune compilation ni installation de dépendances n’est nécessaire.
+Site vitrine statique en HTML, CSS et JavaScript : Accueil, Nos parfums, La Maison et les quatre pages produit BLADE, YAYA, MONSIEUR ROUGE et BLACK EDEN. Les images et les polices sont incluses dans `assets/` ; aucune compilation ni installation de dépendances n’est nécessaire.
 
 ## Lancer le site
 
@@ -12,9 +12,35 @@ python3 -m http.server 4173 --bind 127.0.0.1
 
 Ouvrir http://127.0.0.1:4173/ dans le navigateur. `npm run dev` exécute la même commande.
 
-Le site peut être servi par un hébergement statique en publiant ce dossier à la racine. Les scripts et rapports de contrôle sont conservés dans `qa/` ; les captures et vidéos volumineuses restent locales. Les anciens scripts de préparation d’images et les contrôles Playwright utilisent les chemins du poste d’origine et ne sont pas nécessaires au fonctionnement du site.
+Pour la production, `npm run build` prépare `dist/` avec les sept pages, les styles, le JavaScript et les assets. `vercel.json` publie ce dossier sur Vercel. Les rapports, prompts et masters PNG restent hors du site publié ; les masters locaux ne sont pas inclus dans Git. Les scripts et rapports de contrôle sont conservés dans `qa/` ; les captures et vidéos volumineuses restent locales. Les anciens scripts de préparation d’images et les contrôles Playwright utilisent les chemins du poste d’origine et ne sont pas nécessaires au fonctionnement du site.
 
 La newsletter n’est pas reliée à un service d’inscription. Les adresses officielles Facebook et YouTube restent à renseigner.
+
+## Animations au scroll sur les trois pages
+
+Chaque section de l’Accueil, de Nos parfums et de La Maison apparaît à son entrée dans la fenêtre, une fois par visite. Les mises en scène varient selon le contenu : zoom photographique des ouvertures, dévoilement des titres, rideaux alternés sur les parfums, cascade des notes olfactives et des médaillons, dévoilements distincts de l’inspiration, des matières et des créations, puis newsletter et colonnes du footer.
+
+`scroll-motion.css` est chargé sur les trois pages. Le contrôleur partagé `initSectionMotion` dans `app.js` accepte un sélecteur ou une section et observe chaque présentation de parfum séparément. Les animations gardent les positions finales et les dimensions du site ; les photos sont contenues pendant leur zoom. Sur mobile, chaque image et chaque texte attend d’être visible et les délais sont raccourcis. Le focus clavier dévoile immédiatement les commandes. Réduction des mouvements, absence de JavaScript ou d’IntersectionObserver : le contenu reste accessible.
+
+Contrôles et aperçu vidéo : `qa/all-pages-motion/`. Les animations de l’accueil décrites plus bas s’appliquent désormais aussi aux blocs communs des autres pages.
+
+## Qualité des photographies — 21 octobre 2026
+
+Contrôle des trois pages sur ordinateur et mobile. Les visuels trop petits du catalogue, de La Maison, de la sélection et de la galerie sont remplacés par des générations ImageGen plus détaillées ; médaillons olfactifs recadrés depuis ces masters. Le fond de la sélection est également nettoyé par régénération. Les photographies sont livrées en WebP, sans agrandissement artificiel. Originaux conservés.
+
+Rapport, comparaison avant/après et contrôles : [qa/image-quality/report.md](qa/image-quality/report.md). Masters et prompts exacts : `output/imagegen/photo-quality/` et `output/imagegen/photo-quality-prompts.json`. Les scripts `process_assets.py` puis `process_notes.py` republient les exports depuis les masters enregistrés. Les animations de toutes les pages restent validées.
+
+## Contrôle qualité mobile — 21 octobre 2026
+
+Les trois pages ont été contrôlées en portrait et paysage. `mobile.css` corrige le menu en faible hauteur, le titre d’accueil en paysage, les cibles tactiles du footer, la saisie e-mail et la présentation des dialogues. Le bouton de fermeture reste accessible pendant le défilement et chaque fiche s’ouvre en haut. Les contrastes de certaines petites légendes et des boutons bronze sont renforcés sur mobile.
+
+Rapport et captures : [qa/mobile/report.md](qa/mobile/report.md). Dix-huit configurations visuelles, douze parcours tactiles et la régression des animations des trois pages passent. Vérification en émulation Chromium, sans essai sur téléphone physique.
+
+## Page produit BLADE — 21 octobre 2026
+
+`blade.html` reprend les cinq blocs de la maquette BLADE, les services et les composants communs du site. Quatre photos HD créées avec ImageGen intégré ; textes et commandes HTML, responsive portrait/paysage et animations au scroll. Les entrées BLADE de l’accueil, du catalogue, de la recherche et des footers ouvrent cette page. Les quatre parfums disposent désormais de leur propre page produit.
+
+Aperçu : http://127.0.0.1:4173/blade.html. [Rapport, comparaisons et sources](qa/blade/report.md). Styles dédiés : `blade.css`. Huit formats et les suites de régression passent ; aucune publication distante.
 
 ## Historique de l’intégration
 
@@ -167,3 +193,23 @@ Les écarts de contenu expressément demandés (catégories masculines, BLACK ED
 ## Crédits techniques
 
 Polices : Cormorant Garamond et Inter, Google Fonts, licences OFL. Icônes : Lucide 0.468.0, licence ISC, trait aminci à 1.25 pour correspondre à la référence. Aucun script, police ou tracker tiers n’est chargé à l’exécution.
+
+## Hero Nos parfums en haute définition
+
+Le hero de `nos-parfums.html` utilise `assets/catalog-hero-hd.webp` (1836 × 857 px, 378 Kio), généré avec ImageGen à partir des photos des quatre produits et de la composition précédente. Le master PNG et le prompt exact sont conservés dans `output/imagegen/`. L’ancien fond reste disponible dans les assets. Contrôles desktop/mobile : `qa/catalog-hero-hd/checks.json`.
+
+## Page produit YAYA
+
+`yaya.html` reprend la maquette « YAYA — A Moroccan Luxury Fragrance Journey ». La structure et les animations de BLADE sont réutilisées, avec `product-landing.css` pour les proportions, la typographie et les cadrages communs à YAYA, MONSIEUR ROUGE et BLACK EDEN. Hero statique d’un écran, Histoire, Sillage, Détail, Signature, services puis newsletter/footer communs.
+
+Les liens YAYA de l’accueil, du catalogue, de la recherche et des sept footers ouvrent cette page. Les deux nouveaux visuels de produit et le logotype sont conservés dans `assets/yaya-*.webp`; masters et prompts ImageGen intégré dans `output/imagegen/yaya-landing/`. Les photographies d’architecture, de capuchon et de Signature HD existantes sont réutilisées. Aucun agrandissement raster artificiel.
+
+Contrôles responsive et parcours : `node qa/yaya/check.cjs final`. Rapport : `qa/yaya/report.md`, captures et comparaison visuelle dans le même dossier.
+
+## Pages produit MONSIEUR ROUGE et BLACK EDEN
+
+`monsieur-rouge.html` et `black-eden.html` reprennent la même composition que YAYA : hero statique d’une fenêtre, Histoire, Sillage, Détail, Signature, services, newsletter et footer partagés. `product-landing.css` mutualise la mise en page ; `product-variants.css` adapte les titres aux deux identités. Les quatre nouvelles scènes hero/sillage suivent les flacons et matières des campagnes fournies ; le titre MONSIEUR ROUGE dispose d’un lettrage transparent or et rouge, tandis que BLACK EDEN reste en texte HTML.
+
+Toutes les entrées des quatre produits (accueil, catalogue, recherche et sept footers) ouvrent les pages correspondantes. Les animations au scroll respectent la réduction des mouvements et gardent le contenu visible sans JavaScript. Le clavier reste dans les dialogues d’information, y compris ceux ayant un seul bouton.
+
+Aperçus : http://127.0.0.1:4173/monsieur-rouge.html et http://127.0.0.1:4173/black-eden.html. Masters et prompts : `output/imagegen/remaining-products/` ; exports natifs WebP sans agrandissement artificiel dans `assets/`. Huit formats par produit, régression YAYA, navigation mobile et sélection : [rapport de validation](qa/remaining-products/report.md). Exécution des contrôles : `node qa/remaining-products/check.cjs final monsieur-rouge`, puis `node qa/remaining-products/check.cjs final black-eden`.

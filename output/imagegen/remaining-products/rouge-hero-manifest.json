@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "original": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb0-7119-70f2-872e-bd31423574b6/exec-7126d2b7-fdd7-4aa5-b89f-1e39da60de96.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/remaining-products/rouge-hero-master.png",
+  "asset": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/monsieur-rouge-hero.webp",
+  "dimensions": [
+    1724,
+    912
+  ],
+  "webp_quality": 94,
+  "upscaled": false,
+  "prompt": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/remaining-products/rouge-hero-prompt.txt"
+}

@@ -1,0 +1,21 @@
+{
+  "mode": "built-in image_gen",
+  "selected_source": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb3-385b-7523-a358-f2ddbbf481e1/exec-a3ea3b02-b1be-412e-b373-2ff4b9e5c764.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/yaya-landing/sillage-master.png",
+  "asset": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/yaya-sillage.webp",
+  "native_dimensions": [
+    2083,
+    755
+  ],
+  "format": "WebP",
+  "quality": 94,
+  "upscaled": false,
+  "bytes": 330112,
+  "prompt": "sillage-prompt.txt",
+  "refinement_prompt": "sillage-refine-prompt.txt",
+  "reference_images": [
+    "/Users/salaheddinemimouni/Downloads/YAYA_ A Moroccan Luxury Fragrance Journey.png",
+    "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png"
+  ],
+  "inspection": "Correct geometric YAYA label, amber glass, textured black cap, resin and white flower, sharp product. Broad dark green right side. Generator did not honor requested3.676:1 canvas in either pass; selected native ratio2.759 leaves bottle enough vertical room for CSS cropping. Bottle centerx25.4%, capy25%, base85%; approximate match, needs responsive framing in page."
+}

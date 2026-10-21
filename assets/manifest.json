@@ -1628,5 +1628,606 @@
     "asset": "footer-video.svg",
     "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/play.svg",
     "license": "Font Awesome Free, icons CC BY 4.0; source license notice retained."
+  },
+  {
+    "asset": "catalog-hero-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "references": [
+      "catalog-hero.webp",
+      "Almanzor Blade_ A Signature in Gold.png",
+      "YAYA_ A Luminous Refined Character.png",
+      "Monsieur Rouge Luxury Perfume Campaign.png",
+      "Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "dimensions": [
+      1836,
+      857
+    ],
+    "master": "output/imagegen/catalog-hero-hd.png",
+    "prompt": "output/imagegen/catalog-hero-hd-prompt.md",
+    "postprocessing": "WebP quality 95, native resolution; no upscaling. The previous 741×344 composition reference is retained."
+  },
+  {
+    "asset": "catalog-product-blade-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1468,
+      1071
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-blade.webp",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png"
+    ],
+    "master": "output/imagegen/photo-quality/catalog-product-blade-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#catalog-product-blade-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "catalog-product-yaya-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1360,
+      1156
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-yaya.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png"
+    ],
+    "master": "output/imagegen/photo-quality/catalog-product-yaya-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#catalog-product-yaya-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "catalog-product-monsieur-rouge-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1486,
+      1059
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-monsieur-rouge.webp",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png"
+    ],
+    "master": "output/imagegen/photo-quality/catalog-product-monsieur-rouge-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#catalog-product-monsieur-rouge-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "catalog-product-black-eden-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1401,
+      1123
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-black-eden.webp",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "master": "output/imagegen/photo-quality/catalog-product-black-eden-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#catalog-product-black-eden-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-hero-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1747,
+      900
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-hero.webp"
+    ],
+    "master": "output/imagegen/photo-quality/maison-hero-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-hero-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-inspiration-photo-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1445,
+      1088
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-inspiration.webp"
+    ],
+    "master": "output/imagegen/photo-quality/maison-inspiration-photo-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-inspiration-photo-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-materials-photo-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1437,
+      1095
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-materials.webp"
+    ],
+    "master": "output/imagegen/photo-quality/maison-materials-photo-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-materials-photo-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-vision-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      2170,
+      725
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-vision.webp"
+    ],
+    "master": "output/imagegen/photo-quality/maison-vision-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-vision-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-art-photo-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      1630,
+      965
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-art.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "master": "output/imagegen/photo-quality/maison-art-photo-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-art-photo-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "catalog-signature-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      2170,
+      725
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-signature.webp"
+    ],
+    "master": "output/imagegen/photo-quality/catalog-signature-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#catalog-signature-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px.",
+    "usage": "Shared signature photograph: catalogue and all four product landing pages"
+  },
+  {
+    "asset": "collection-blade-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      924
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-blade.webp",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png"
+    ],
+    "master": "output/imagegen/photo-quality/collection-blade-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#collection-blade-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "collection-yaya-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      923
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-yaya.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png"
+    ],
+    "master": "output/imagegen/photo-quality/collection-yaya-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#collection-yaya-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "collection-monsieur-rouge-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      924
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-monsieur-rouge.webp",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png"
+    ],
+    "master": "output/imagegen/photo-quality/collection-monsieur-rouge-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#collection-monsieur-rouge-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "collection-black-eden-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      924
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-black-eden.webp",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "master": "output/imagegen/photo-quality/collection-black-eden-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#collection-black-eden-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-bottle-rock-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      784
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-rock.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-bottle-rock-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-bottle-rock-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-flower-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      785
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-flower.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-flower-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-flower-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-bottle-citrus-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      785
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-citrus.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-bottle-citrus-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-bottle-citrus-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-arch-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      785
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-arch.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-arch-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-arch-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-bottle-gold-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      786
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-gold.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-bottle-gold-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-bottle-gold-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "signature-inspiration-stone-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      960,
+      787
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-stone.webp"
+    ],
+    "master": "output/imagegen/photo-quality/signature-inspiration-stone-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#signature-inspiration-stone-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "collection-ivory-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      2042,
+      770
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-ivory.webp"
+    ],
+    "master": "output/imagegen/photo-quality/collection-ivory-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#collection-ivory-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "maison-hero-mobile-hd.webp",
+    "source": "Built-in ImageGen, 2026-10-21",
+    "dimensions": [
+      846,
+      750
+    ],
+    "references": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-hero.webp"
+    ],
+    "master": "output/imagegen/photo-quality/maison-hero-hd.png",
+    "prompt": "output/imagegen/photo-quality-prompts.json#maison-hero-hd",
+    "postprocessing": "WebP quality 93; no upscaling. Mobile hero: proportional crop; card thumbnails: downscaled to at most 960px."
+  },
+  {
+    "asset": "note-amber-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/maison-materials-photo-hd.png",
+    "crop": [
+      220,
+      525,
+      640,
+      945
+    ],
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "note-wood-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/maison-materials-photo-hd.png",
+    "crop": [
+      650,
+      430,
+      1090,
+      870
+    ],
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "note-leaves-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/catalog-product-black-eden-hd.png",
+    "crop": [
+      0,
+      420,
+      430,
+      850
+    ],
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "note-saffron-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/catalog-product-monsieur-rouge-hd.png",
+    "crop": [
+      155,
+      630,
+      515,
+      990
+    ],
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "note-citrus-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/signature-inspiration-bottle-citrus-hd.png",
+    "crop": [
+      90,
+      260,
+      510,
+      680
+    ],
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "note-star-anise-hd.webp",
+    "source": "Crop from built-in ImageGen photograph, 2026-10-21",
+    "master": "output/imagegen/photo-quality/note-star-anise-hd.png",
+    "crop": null,
+    "dimensions": [
+      320,
+      320
+    ],
+    "postprocessing": "Square crop, downscaled to 320px, WebP quality 93; no upscaling."
+  },
+  {
+    "asset": "blade-hero.webp",
+    "source": "Luxe désertique _ la signature BLADE (1).png + références ALMANZOR existantes",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/blade-landing/hero-master.png",
+    "prompt": "output/imagegen/blade-landing/hero-prompt.txt",
+    "dimensions": [
+      1691,
+      930
+    ],
+    "bytes": 255010,
+    "usage": "blade.html, hero"
+  },
+  {
+    "asset": "blade-history.webp",
+    "source": "Luxe désertique _ la signature BLADE (1).png + références ALMANZOR existantes",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/blade-landing/history-master.png",
+    "prompt": "output/imagegen/blade-landing/history-prompt.txt",
+    "dimensions": [
+      2120,
+      742
+    ],
+    "bytes": 333130,
+    "usage": "blade.html, history; yaya.html (shared asset); monsieur-rouge.html and black-eden.html (shared asset)"
+  },
+  {
+    "asset": "blade-sillage.webp",
+    "source": "Luxe désertique _ la signature BLADE (1).png + références ALMANZOR existantes",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/blade-landing/sillage-master.png",
+    "prompt": "output/imagegen/blade-landing/sillage-prompt.txt",
+    "dimensions": [
+      2048,
+      768
+    ],
+    "bytes": 236318,
+    "usage": "blade.html, sillage"
+  },
+  {
+    "asset": "blade-craft.webp",
+    "source": "Luxe désertique _ la signature BLADE (1).png + références ALMANZOR existantes",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/blade-landing/craft-master.png",
+    "prompt": "output/imagegen/blade-landing/craft-prompt.txt",
+    "dimensions": [
+      1602,
+      982
+    ],
+    "bytes": 266258,
+    "usage": "blade.html, craft; yaya.html (shared asset); monsieur-rouge.html and black-eden.html (shared asset)"
+  },
+  {
+    "asset": "lock-keyhole.svg",
+    "source": "https://unpkg.com/lucide-static@0.468.0/icons/lock-keyhole.svg",
+    "license": "ISC / Lucide",
+    "adjustment": "stroke-width 1.25 to match existing site icons",
+    "usage": "blade.html services; yaya.html (shared asset); monsieur-rouge.html and black-eden.html (shared asset)"
+  },
+  {
+    "asset": "headset.svg",
+    "source": "https://unpkg.com/lucide-static@0.468.0/icons/headset.svg",
+    "license": "ISC / Lucide",
+    "adjustment": "stroke-width 1.25 to match existing site icons",
+    "usage": "blade.html services; yaya.html (shared asset); monsieur-rouge.html and black-eden.html (shared asset)"
+  },
+  {
+    "asset": "yaya-hero.webp",
+    "source": "YAYA_ A Moroccan Luxury Fragrance Journey.png + YAYA_ A Luminous Refined Character.png",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/yaya-landing/hero-master.png",
+    "prompt": "output/imagegen/yaya-landing/hero-prompt.txt",
+    "dimensions": [
+      1725,
+      912
+    ],
+    "bytes": 243678,
+    "usage": "yaya.html, hero"
+  },
+  {
+    "asset": "yaya-sillage.webp",
+    "source": "YAYA_ A Moroccan Luxury Fragrance Journey.png + YAYA_ A Luminous Refined Character.png",
+    "method": "Built-in ImageGen, native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/yaya-landing/sillage-master.png",
+    "prompt": "output/imagegen/yaya-landing/sillage-prompt.txt",
+    "dimensions": [
+      2083,
+      755
+    ],
+    "bytes": 330112,
+    "usage": "yaya.html, sillage",
+    "refinement_prompt": "output/imagegen/yaya-landing/sillage-refine-prompt.txt"
+  },
+  {
+    "asset": "yaya-wordmark.webp",
+    "source": "YAYA_ A Moroccan Luxury Fragrance Journey.png + YAYA_ A Luminous Refined Character.png",
+    "method": "Built-in ImageGen, native-resolution WebP lossless RGBA, no upscaling",
+    "master": "output/imagegen/yaya-landing/wordmark-master.png",
+    "prompt": "output/imagegen/yaya-landing/wordmark-prompt.txt",
+    "dimensions": [
+      2151,
+      731
+    ],
+    "bytes": 333434,
+    "usage": "yaya.html, wordmark"
+  },
+  {
+    "asset": "monsieur-rouge-hero.webp",
+    "source": "Built-in ImageGen, 2026-10-21; supplied product campaign and existing YAYA composition",
+    "method": "Native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/remaining-products/rouge-hero-master.png",
+    "prompt": "output/imagegen/remaining-products/rouge-hero-prompt.txt",
+    "dimensions": [
+      1724,
+      912
+    ],
+    "bytes": 247502,
+    "usage": "monsieur-rouge.html, hero"
+  },
+  {
+    "asset": "monsieur-rouge-sillage.webp",
+    "source": "Built-in ImageGen, 2026-10-21; supplied product campaign and existing YAYA composition",
+    "method": "Native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/remaining-products/rouge-sillage-master.png",
+    "prompt": "output/imagegen/remaining-products/rouge-sillage-prompt.txt",
+    "dimensions": [
+      2084,
+      755
+    ],
+    "bytes": 300622,
+    "usage": "monsieur-rouge.html, sillage"
+  },
+  {
+    "asset": "black-eden-hero.webp",
+    "source": "Built-in ImageGen, 2026-10-21; supplied product campaign and existing YAYA composition",
+    "method": "Native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/remaining-products/eden-hero-master.png",
+    "prompt": "output/imagegen/remaining-products/eden-hero-prompt.txt",
+    "dimensions": [
+      1724,
+      912
+    ],
+    "bytes": 269766,
+    "usage": "black-eden.html, hero"
+  },
+  {
+    "asset": "black-eden-sillage.webp",
+    "source": "Built-in ImageGen, 2026-10-21; supplied product campaign and existing YAYA composition",
+    "method": "Native-resolution WebP quality94, no upscaling",
+    "master": "output/imagegen/remaining-products/eden-sillage-master.png",
+    "prompt": "output/imagegen/remaining-products/eden-sillage-prompt.txt",
+    "dimensions": [
+      2083,
+      755
+    ],
+    "bytes": 333328,
+    "usage": "black-eden.html, sillage"
+  },
+  {
+    "asset": "monsieur-rouge-wordmark.webp",
+    "source": "Built-in ImageGen, 2026-10-21; supplied product campaign and existing YAYA composition",
+    "method": "Native-resolution WebP lossless RGBA, no upscaling",
+    "master": "output/imagegen/remaining-products/rouge-wordmark-master.png",
+    "prompt": "output/imagegen/remaining-products/rouge-wordmark-prompt.txt",
+    "dimensions": [
+      1930,
+      815
+    ],
+    "bytes": 770182,
+    "usage": "monsieur-rouge.html, wordmark"
   }
 ]

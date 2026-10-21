@@ -59,6 +59,7 @@ function showDialog(content) {
   dialog.showModal();
   document.body.classList.add("modal-open");
   dialog.querySelector(".dialog-close").focus();
+  dialogContent.scrollTop = 0;
 }
 function closeDialog() {
   dialog.close();
@@ -67,6 +68,17 @@ dialog.querySelector(".dialog-close").addEventListener("click", closeDialog);
 dialog.addEventListener("close", () => {
   document.body.classList.remove("modal-open");
   if (lastFocused) lastFocused.focus({ preventScroll: true });
+});
+dialog.addEventListener("keydown", (event) => {
+  if (event.key !== "Tab") return;
+  const controls = [...dialog.querySelectorAll('a[href], button, input, select, textarea, [tabindex]')]
+    .filter((element) => !element.disabled && element.tabIndex >= 0 && element.getClientRects().length);
+  const first = controls[0];
+  const last = controls[controls.length - 1];
+  if (event.shiftKey ? document.activeElement === first : document.activeElement === last) {
+    event.preventDefault();
+    (event.shiftKey ? last : first)?.focus();
+  }
 });
 dialog.addEventListener("click", (event) => {
   if (event.target === dialog) {
@@ -80,17 +92,6 @@ dialog.addEventListener("click", (event) => {
       closeDialog();
   }
 });
-document.querySelectorAll("[data-product]").forEach((button) =>
-  button.addEventListener("click", () => {
-    const key = button.dataset.product;
-    const product = products[key];
-    const productImage = button.dataset.productImage || `assets/campaign-${key}.webp`;
-    const productDescription = button.dataset.productDescription || product.description;
-    showDialog(
-      `<div class="product-detail"><img src="${productImage}" alt="Visuel ${product.name}" width="941" height="1672"><div class="dialog-copy"><p class="eyebrow">Les créations ALMANZOR</p><h2 id="dialog-title">${product.name}</h2><p>${productDescription}</p><a class="button button-outline" href="https://almanzor.ma">Découvrir sur almanzor.ma <img class="icon" src="assets/arrow-right.svg" width="16" height="16" alt=""></a></div></div>`,
-    );
-  }),
-);
 const stories = {
   matieres: [
     "Des matières nobles et rares.",
@@ -186,7 +187,7 @@ document.querySelector(".search-button").addEventListener("click", () => {
       ? matches
           .map(
             ([id, p]) =>
-              `<a href="${document.getElementById(id) ? "" : "nos-parfums.html"}#${id}"><img src="assets/product-${id}.webp" width="32" height="72" alt="">${p.name}</a>`,
+              `<a href="${id}.html"><img src="assets/product-${id}.webp" width="32" height="72" alt="">${p.name}</a>`,
           )
           .join("")
       : '<p class="search-empty">Aucun parfum ne correspond à votre recherche.</p>';
@@ -199,7 +200,7 @@ document.querySelector(".search-button").addEventListener("click", () => {
   input.focus();
 });
 
-// Rotate the existing four perfume cards; retain their dialog handlers and anchors.
+// Rotate the existing four perfume cards; retain their product-page links.
 const collectionGrid = document.querySelector('#collection-grid');
 const collectionStatus = document.querySelector('.collection-status');
 function rotateCollection(direction) {
@@ -212,12 +213,13 @@ document.querySelector('.collection-next')?.addEventListener('click', () => rota
 
 // Reveal each element on first view, including visits directly to a section.
 // Content remains visible when JavaScript or motion is unavailable.
-function initSectionMotion(sectionSelector, itemSelector, revealClass, observeSection = false) {
-  const section = document.querySelector(sectionSelector);
+function initSectionMotion(sectionTarget, itemSelector, revealClass, observeSection = false) {
+  const section = typeof sectionTarget === 'string' ? document.querySelector(sectionTarget) : sectionTarget;
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
   if (!section || reducedMotion.matches || !('IntersectionObserver' in window)) return;
 
   const items = section.querySelectorAll(itemSelector);
+  if (!items.length) return;
   const pending = new Set(items);
   let sectionVisible = false;
   let frame = 0;
@@ -300,5 +302,19 @@ initSectionMotion('.reference-hero', '.reference-hero-scene, h1 > span, .hero-co
 initSectionMotion('.editorial-maison', '.editorial-maison-scene, .maison-content > *', 'scroll-reveal', true);
 initSectionMotion('.editorial-univers', '.section-heading > *, .universe-card', 'scroll-reveal', true);
 initSectionMotion('.heritage-craft', '.craft-image img, .craft-copy > *', 'scroll-reveal', true);
-initSectionMotion('.home-page .newsletter', '.container > h2, .container > p:not([role]), form', 'scroll-reveal', true);
-initSectionMotion('.home-page .footer', '.footer-grid > *, .copyright', 'scroll-reveal');
+initSectionMotion('.catalog-hero', '.catalog-hero-scene, .eyebrow, h1 > span, .catalog-rule, .catalog-intro', 'scroll-reveal', true);
+initSectionMotion('.catalog-benefits', ':scope > div', 'scroll-reveal', true);
+document.querySelectorAll('.perfume-story').forEach((section) => {
+  initSectionMotion(section, '.perfume-photo, .perfume-copy > :not(.perfume-notes), .perfume-notes > figure', 'scroll-reveal', true);
+});
+initSectionMotion('.catalog-signature', '.catalog-signature-scene, .catalog-signature-copy > *', 'scroll-reveal', true);
+document.querySelectorAll('.maison-page .maison-section, .maison-commitment').forEach((section) => {
+  initSectionMotion(section, '.maison-scene, .maison-vision-scene, .maison-copy > *, .commitment-list > div', 'scroll-reveal', true);
+});
+initSectionMotion('.maison-benefits', ':scope > div', 'scroll-reveal', true);
+initSectionMotion('.shared-newsletter', '.container > h2, .container > p:not([role]), form', 'scroll-reveal', true);
+initSectionMotion('.shared-footer', '.footer-grid > *, .copyright', 'scroll-reveal');
+document.querySelectorAll('.blade-section').forEach((section) => {
+  initSectionMotion(section, '.blade-scene, .blade-craft-photo, .blade-copy > *', 'scroll-reveal', true);
+});
+initSectionMotion('.blade-services', ':scope > div', 'scroll-reveal');

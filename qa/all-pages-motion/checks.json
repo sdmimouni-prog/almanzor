@@ -1,0 +1,241 @@
+{
+  "result": "passed",
+  "results": [
+    {
+      "route": "index.html",
+      "width": 1440,
+      "height": 900,
+      "animated": [
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "points-de-vente",
+        "inspiration",
+        "newsletter",
+        "footer"
+      ],
+      "items": 53,
+      "transitions": 202,
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 768,
+      "height": 1024,
+      "animated": [
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "signature",
+        "sillage",
+        "points-de-vente",
+        "inspiration",
+        "newsletter",
+        "footer"
+      ],
+      "items": 53,
+      "transitions": 202,
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 390,
+      "height": 844,
+      "animated": [
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "points-de-vente",
+        "inspiration",
+        "newsletter",
+        "footer"
+      ],
+      "items": 53,
+      "transitions": 202,
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 319,
+      "height": 568,
+      "animated": [
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "points-de-vente",
+        "inspiration",
+        "newsletter",
+        "footer"
+      ],
+      "items": 53,
+      "transitions": 202,
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 1440,
+      "height": 900,
+      "animated": [
+        "catalog-hero",
+        "catalog-benefits",
+        "blade",
+        "yaya",
+        "monsieur-rouge",
+        "black-eden",
+        "catalog-signature",
+        "newsletter",
+        "footer"
+      ],
+      "items": 59,
+      "transitions": 256,
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 768,
+      "height": 1024,
+      "animated": [
+        "catalog-hero",
+        "blade",
+        "catalog-benefits",
+        "yaya",
+        "monsieur-rouge",
+        "black-eden",
+        "catalog-signature",
+        "newsletter",
+        "footer"
+      ],
+      "items": 59,
+      "transitions": 256,
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 390,
+      "height": 844,
+      "animated": [
+        "catalog-hero",
+        "catalog-benefits",
+        "blade",
+        "yaya",
+        "monsieur-rouge",
+        "black-eden",
+        "newsletter",
+        "catalog-signature",
+        "footer"
+      ],
+      "items": 59,
+      "transitions": 256,
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 319,
+      "height": 568,
+      "animated": [
+        "catalog-hero",
+        "catalog-benefits",
+        "blade",
+        "yaya",
+        "monsieur-rouge",
+        "black-eden",
+        "catalog-signature",
+        "newsletter",
+        "footer"
+      ],
+      "items": 59,
+      "transitions": 256,
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 1440,
+      "height": 900,
+      "animated": [
+        "maison-hero",
+        "histoire",
+        "maison-benefits",
+        "savoir-faire",
+        "vision",
+        "art-du-parfum",
+        "engagements",
+        "newsletter",
+        "footer"
+      ],
+      "items": 45,
+      "transitions": 194,
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 768,
+      "height": 1024,
+      "animated": [
+        "histoire",
+        "maison-hero",
+        "maison-benefits",
+        "savoir-faire",
+        "art-du-parfum",
+        "vision",
+        "engagements",
+        "newsletter",
+        "footer"
+      ],
+      "items": 45,
+      "transitions": 194,
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 390,
+      "height": 844,
+      "animated": [
+        "histoire",
+        "maison-hero",
+        "maison-benefits",
+        "savoir-faire",
+        "vision",
+        "art-du-parfum",
+        "engagements",
+        "newsletter",
+        "footer"
+      ],
+      "items": 45,
+      "transitions": 194,
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 319,
+      "height": 568,
+      "animated": [
+        "maison-hero",
+        "histoire",
+        "maison-benefits",
+        "savoir-faire",
+        "vision",
+        "art-du-parfum",
+        "engagements",
+        "newsletter",
+        "footer"
+      ],
+      "items": 45,
+      "transitions": 194,
+      "errors": []
+    }
+  ],
+  "fallbacks": "JavaScript disabled and IntersectionObserver unavailable: visible",
+  "directAnchors": "passed",
+  "keyboard": "passed",
+  "reducedMotion": "passed"
+}

@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "original": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb0-7119-70f2-872e-bd31423574b6/exec-ec4b82a9-92dd-45ab-bf62-24b82eaf2357.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/blade-landing/craft-master.png",
+  "asset": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/blade-craft.webp",
+  "dimensions": [
+    1602,
+    982
+  ],
+  "webp_quality": 94,
+  "upscaled": false,
+  "prompt": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/blade-landing/craft-prompt.txt"
+}

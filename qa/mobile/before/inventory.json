@@ -1,0 +1,7983 @@
+[
+  {
+    "route": "index",
+    "width": 320,
+    "height": 568,
+    "errors": [],
+    "pageWidth": 320,
+    "viewport": 320,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 568
+    },
+    "title": {
+      "x": 24,
+      "y": 112,
+      "w": 272,
+      "h": 98
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 164,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 211,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 258,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 269,
+          "w": 272,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 24,
+          "y": 960,
+          "w": 205,
+          "h": 47
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 20,
+          "y": 1440,
+          "w": 280,
+          "h": 205
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 20,
+          "y": 1661,
+          "w": 280,
+          "h": 205
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 0,
+          "y": 2096,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2016,
+          "w": 144,
+          "h": 139
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2214,
+          "w": 132,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 160,
+          "y": 2016,
+          "w": 144,
+          "h": 139
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 166,
+          "y": 2214,
+          "w": 132,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2284,
+          "w": 144,
+          "h": 139
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2481,
+          "w": 132,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 160,
+          "y": 2284,
+          "w": 144,
+          "h": 139
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 166,
+          "y": 2481,
+          "w": 132,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 290,
+          "y": 2096,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 24,
+          "y": 3042,
+          "w": 272,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 3415,
+          "w": 272,
+          "h": 54
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4004,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 163,
+          "y": 4004,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4129,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 163,
+          "y": 4129,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4254,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 163,
+          "y": 4254,
+          "w": 145,
+          "h": 119
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4573,
+          "w": 170,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 190,
+          "y": 4573,
+          "w": 110,
+          "h": 50
+        },
+        "font": "9px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4699,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4868,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4900,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4932,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4964,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4996,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4868,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4900,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4932,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4964,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5096,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5128,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5160,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5192,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 5096,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 208,
+          "y": 5096,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 247,
+          "y": 5096,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5315,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5315,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 320,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 568,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 282,
+      "height": 511.1875,
+      "scrollHeight": 672,
+      "clientHeight": 509,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "index",
+    "width": 375,
+    "height": 812,
+    "errors": [],
+    "pageWidth": 375,
+    "viewport": 375,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 375,
+      "h": 812
+    },
+    "title": {
+      "x": 24,
+      "y": 112,
+      "w": 327,
+      "h": 122
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 219,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 266,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 313,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 305,
+          "w": 310,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 24,
+          "y": 1188,
+          "w": 205,
+          "h": 47
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 20,
+          "y": 1668,
+          "w": 335,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 20,
+          "y": 1914,
+          "w": 335,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 0,
+          "y": 2374,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2294,
+          "w": 172,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2518,
+          "w": 160,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 188,
+          "y": 2294,
+          "w": 172,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 194,
+          "y": 2518,
+          "w": 160,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2588,
+          "w": 172,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2812,
+          "w": 160,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 188,
+          "y": 2588,
+          "w": 172,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 194,
+          "y": 2812,
+          "w": 160,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 345,
+          "y": 2374,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 24,
+          "y": 3387,
+          "w": 327,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 3760,
+          "w": 327,
+          "h": 54
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4349,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 191,
+          "y": 4349,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4496,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 191,
+          "y": 4496,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4643,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 191,
+          "y": 4643,
+          "w": 173,
+          "h": 141
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4951,
+          "w": 207,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 227,
+          "y": 4951,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 5077,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5246,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5278,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5310,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5342,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5374,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5246,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5278,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5310,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5342,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5474,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5506,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5538,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5570,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5474,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 236,
+          "y": 5474,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 275,
+          "y": 5474,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5693,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5693,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 375,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 812,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 337,
+      "height": 730.796875,
+      "scrollHeight": 745,
+      "clientHeight": 729,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "index",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "pageWidth": 390,
+    "viewport": 390,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 844
+    },
+    "title": {
+      "x": 24,
+      "y": 112,
+      "w": 342,
+      "h": 127
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 234,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 281,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 328,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 313,
+          "w": 310,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 24,
+          "y": 1221,
+          "w": 205,
+          "h": 47
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 20,
+          "y": 1702,
+          "w": 350,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 20,
+          "y": 1948,
+          "w": 350,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 0,
+          "y": 2408,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2328,
+          "w": 179,
+          "h": 172
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2559,
+          "w": 167,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 195,
+          "y": 2328,
+          "w": 179,
+          "h": 172
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 201,
+          "y": 2559,
+          "w": 167,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2629,
+          "w": 179,
+          "h": 172
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2860,
+          "w": 167,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 195,
+          "y": 2629,
+          "w": 179,
+          "h": 172
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 201,
+          "y": 2860,
+          "w": 167,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 360,
+          "y": 2408,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 24,
+          "y": 3448,
+          "w": 342,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 3821,
+          "w": 342,
+          "h": 54
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4410,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 198,
+          "y": 4410,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4563,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 198,
+          "y": 4563,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4716,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 198,
+          "y": 4716,
+          "w": 180,
+          "h": 147
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 5031,
+          "w": 222,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 242,
+          "y": 5031,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 5157,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5326,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5358,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5390,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5422,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5454,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5326,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5358,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5390,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5422,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5554,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5586,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5618,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5650,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5554,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 243,
+          "y": 5554,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 282,
+          "y": 5554,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5773,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5773,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 390,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 844,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 352,
+      "height": 727.296875,
+      "scrollHeight": 725,
+      "clientHeight": 725,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "index",
+    "width": 430,
+    "height": 932,
+    "errors": [],
+    "pageWidth": 430,
+    "viewport": 430,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 932
+    },
+    "title": {
+      "x": 24,
+      "y": 112,
+      "w": 382,
+      "h": 140
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 274,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 321,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 368,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 334,
+          "w": 310,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 24,
+          "y": 1287,
+          "w": 205,
+          "h": 47
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 20,
+          "y": 1767,
+          "w": 390,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 20,
+          "y": 2013,
+          "w": 390,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 0,
+          "y": 2473,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2393,
+          "w": 199,
+          "h": 192
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2644,
+          "w": 187,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 215,
+          "y": 2393,
+          "w": 199,
+          "h": 192
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 221,
+          "y": 2644,
+          "w": 187,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 16,
+          "y": 2714,
+          "w": 199,
+          "h": 192
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 22,
+          "y": 2964,
+          "w": 187,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 215,
+          "y": 2714,
+          "w": 199,
+          "h": 192
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 221,
+          "y": 2964,
+          "w": 187,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 400,
+          "y": 2473,
+          "w": 30,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 24,
+          "y": 3584,
+          "w": 382,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 3957,
+          "w": 382,
+          "h": 54
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4546,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 218,
+          "y": 4546,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4716,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 218,
+          "y": 4716,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 12,
+          "y": 4886,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 218,
+          "y": 4886,
+          "w": 200,
+          "h": 164
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 5221,
+          "w": 262,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 282,
+          "y": 5221,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 5347,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5515,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5547,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5579,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5611,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5643,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5515,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5547,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5579,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5611,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5743,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5775,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5807,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5839,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5743,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 263,
+          "y": 5743,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 302,
+          "y": 5743,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5962,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5962,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 430,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 932,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 392,
+      "height": 773.046875,
+      "scrollHeight": 771,
+      "clientHeight": 771,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "index",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "pageWidth": 768,
+    "viewport": 768,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 1024
+    },
+    "title": {
+      "x": 24,
+      "y": 112,
+      "w": 720,
+      "h": 161
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 612,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 659,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 706,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 24,
+          "y": 359,
+          "w": 310,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 38,
+          "y": 1336,
+          "w": 190,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 38,
+          "y": 1525,
+          "w": 339,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 391,
+          "y": 1525,
+          "w": 338,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 4,
+          "y": 1999,
+          "w": 36,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 42,
+          "y": 1911,
+          "w": 171,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 51,
+          "y": 2135,
+          "w": 154,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 213,
+          "y": 1911,
+          "w": 171,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 222,
+          "y": 2135,
+          "w": 154,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 384,
+          "y": 1911,
+          "w": 171,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 393,
+          "y": 2135,
+          "w": 154,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 555,
+          "y": 1911,
+          "w": 171,
+          "h": 165
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 564,
+          "y": 2135,
+          "w": 154,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 728,
+          "y": 1999,
+          "w": 36,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 414,
+          "y": 2478,
+          "w": 324,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 194,
+          "y": 2902,
+          "w": 380,
+          "h": 54
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 3337,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 265,
+          "y": 3337,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 509,
+          "y": 3337,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 3538,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 265,
+          "y": 3538,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 509,
+          "y": 3538,
+          "w": 239,
+          "h": 195
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 84,
+          "y": 3919,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 534,
+          "y": 3919,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 4059,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4223,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4253,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4283,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4313,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4343,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4223,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4253,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4283,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4313,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4223,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4253,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4283,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4313,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 582,
+          "y": 4223,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 620,
+          "y": 4223,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 658,
+          "y": 4223,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 543,
+          "y": 4428,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 641,
+          "y": 4428,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 768,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 1024,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 730,
+      "height": 718.796875,
+      "scrollHeight": 717,
+      "clientHeight": 717,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "index",
+    "width": 844,
+    "height": 390,
+    "errors": [],
+    "pageWidth": 844,
+    "viewport": 844,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 844,
+      "h": 390
+    },
+    "title": {
+      "x": 42,
+      "y": 100,
+      "w": 397,
+      "h": 132
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 688,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 735,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 782,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre collection",
+        "selector": "button button-gold",
+        "box": {
+          "x": 42,
+          "y": 300,
+          "w": 280,
+          "h": 44
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button button-outline",
+        "box": {
+          "x": 42,
+          "y": 702,
+          "w": 190,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Nosparfums\n              Découvrir",
+        "selector": "universe-card perfumes-card",
+        "box": {
+          "x": 42,
+          "y": 891,
+          "w": 373,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notreunivers\n              Découvrir",
+        "selector": "universe-card house-card",
+        "box": {
+          "x": 429,
+          "y": 891,
+          "w": 373,
+          "h": 230
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir le parfum précédent",
+        "selector": "collection-arrow collection-prev",
+        "box": {
+          "x": 4,
+          "y": 1374,
+          "w": 36,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "product-image",
+        "box": {
+          "x": 42,
+          "y": 1277,
+          "w": 190,
+          "h": 183
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 52,
+          "y": 1519,
+          "w": 171,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "product-image",
+        "box": {
+          "x": 232,
+          "y": 1277,
+          "w": 190,
+          "h": 183
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button button-outline",
+        "box": {
+          "x": 242,
+          "y": 1519,
+          "w": 171,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "product-image",
+        "box": {
+          "x": 422,
+          "y": 1277,
+          "w": 190,
+          "h": 183
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button button-outline",
+        "box": {
+          "x": 432,
+          "y": 1519,
+          "w": 171,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "product-image",
+        "box": {
+          "x": 612,
+          "y": 1277,
+          "w": 190,
+          "h": 183
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button button-outline",
+        "box": {
+          "x": 622,
+          "y": 1519,
+          "w": 171,
+          "h": 44
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Voir le parfum suivant",
+        "selector": "collection-arrow collection-next",
+        "box": {
+          "x": 804,
+          "y": 1374,
+          "w": 36,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir notre savoir-faire",
+        "selector": "button craft-button",
+        "box": {
+          "x": 452,
+          "y": 1862,
+          "w": 362,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button button-gold",
+        "box": {
+          "x": 232,
+          "y": 2286,
+          "w": 380,
+          "h": 54
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 1",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 2721,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 2",
+        "selector": "",
+        "box": {
+          "x": 290,
+          "y": 2721,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 3",
+        "selector": "",
+        "box": {
+          "x": 560,
+          "y": 2721,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 4",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 2943,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 5",
+        "selector": "",
+        "box": {
+          "x": 290,
+          "y": 2943,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Voir l’univers ALMANZOR sur Instagram — image 6",
+        "selector": "",
+        "box": {
+          "x": 560,
+          "y": 2943,
+          "w": 264,
+          "h": 216
+        },
+        "font": "16px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 122,
+          "y": 3345,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 572,
+          "y": 3345,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 3485,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 3649,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 3679,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 3709,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 3739,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 3769,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 3649,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 3679,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 3709,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 3739,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 3649,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 3679,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 3709,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 3739,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 639,
+          "y": 3649,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 677,
+          "y": 3649,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 715,
+          "y": 3649,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 619,
+          "y": 3854,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 717,
+          "y": 3854,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [
+      {
+        "name": "Des parfumsqui traversentle temps",
+        "selector": "",
+        "scroll": 404,
+        "client": 397
+      }
+    ],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 844,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 390,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 806,
+      "height": 351,
+      "scrollHeight": 500,
+      "clientHeight": 349,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 320,
+    "height": 568,
+    "errors": [],
+    "pageWidth": 320,
+    "viewport": 320,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 730
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 272,
+      "h": 59
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 164,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 211,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 258,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 1651,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 2453,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 3179,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 3916,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 24,
+          "y": 4219,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4487,
+          "w": 170,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 190,
+          "y": 4487,
+          "w": 110,
+          "h": 50
+        },
+        "font": "9px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4613,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4782,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4814,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4846,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4878,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4910,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4782,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4814,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4846,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4878,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5010,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5042,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5074,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5106,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 5010,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 208,
+          "y": 5010,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 247,
+          "y": 5010,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5229,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5229,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 320,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 568,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 282,
+      "height": 511.1875,
+      "scrollHeight": 714,
+      "clientHeight": 509,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 375,
+    "height": 812,
+    "errors": [],
+    "pageWidth": 375,
+    "viewport": 375,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 375,
+      "h": 730
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 327,
+      "h": 67
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 219,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 266,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 313,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 1668,
+          "w": 327,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 2492,
+          "w": 327,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 3260,
+          "w": 327,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 4017,
+          "w": 327,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 24,
+          "y": 4320,
+          "w": 327,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4554,
+          "w": 207,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 227,
+          "y": 4554,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4680,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4848,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4880,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4912,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4944,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4976,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4848,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4880,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4912,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4944,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5076,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5108,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5140,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5172,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 5076,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 236,
+          "y": 5076,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 275,
+          "y": 5076,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5295,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5295,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 375,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 812,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 337,
+      "height": 730.796875,
+      "scrollHeight": 787,
+      "clientHeight": 729,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "pageWidth": 390,
+    "viewport": 390,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 730
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 342,
+      "h": 70
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 234,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 281,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 328,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 1679,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 2516,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 3272,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 4041,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 24,
+          "y": 4344,
+          "w": 342,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4579,
+          "w": 222,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 242,
+          "y": 4579,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4705,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4874,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4906,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4938,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4970,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5002,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4874,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4906,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4938,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4970,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5102,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5134,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5166,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5198,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 5102,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 243,
+          "y": 5102,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 282,
+          "y": 5102,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5321,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5321,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 390,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 844,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 352,
+      "height": 759.59375,
+      "scrollHeight": 767,
+      "clientHeight": 758,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 430,
+    "height": 932,
+    "errors": [],
+    "pageWidth": 430,
+    "viewport": 430,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 730
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 382,
+      "h": 77
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 274,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 321,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 368,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 1708,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 2528,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 3289,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 24,
+          "y": 4090,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 24,
+          "y": 4393,
+          "w": 382,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 4632,
+          "w": 262,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 282,
+          "y": 4632,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4758,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4927,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4959,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4991,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5023,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5055,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4927,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4959,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4991,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5023,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5155,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5187,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5219,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5251,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 5155,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 263,
+          "y": 5155,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 302,
+          "y": 5155,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 5374,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 5374,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 430,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 932,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 392,
+      "height": 794.046875,
+      "scrollHeight": 792,
+      "clientHeight": 792,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "pageWidth": 768,
+    "viewport": 768,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 740
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 720,
+      "h": 88
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 612,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 659,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 706,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 1820,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 2833,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 3830,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 4845,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 189,
+          "y": 5154,
+          "w": 390,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 84,
+          "y": 5407,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 534,
+          "y": 5407,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 5547,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5711,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5741,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5771,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5801,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5831,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 5711,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 5741,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 5771,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 5801,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 5711,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 5741,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 5771,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 5801,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 582,
+          "y": 5711,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 620,
+          "y": 5711,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 658,
+          "y": 5711,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 543,
+          "y": 5916,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 641,
+          "y": 5916,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 768,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 1024,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 730,
+      "height": 718.796875,
+      "scrollHeight": 717,
+      "clientHeight": 717,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "nos-parfums",
+    "width": 844,
+    "height": 390,
+    "errors": [],
+    "pageWidth": 844,
+    "viewport": 844,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 844,
+      "h": 740
+    },
+    "title": {
+      "x": 24,
+      "y": 149,
+      "w": 796,
+      "h": 88
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 688,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 735,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 782,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Découvrir BLADE",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 1830,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir YAYA",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 2843,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir MONSIEUR ROUGE",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 3863,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir BLACK EDEN",
+        "selector": "button story-button",
+        "box": {
+          "x": 40,
+          "y": 4878,
+          "w": 330,
+          "h": 48
+        },
+        "font": "10.5px"
+      },
+      {
+        "name": "Découvrir l’univers ALMANZOR",
+        "selector": "button",
+        "box": {
+          "x": 227,
+          "y": 5187,
+          "w": 390,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 122,
+          "y": 5439,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 572,
+          "y": 5439,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 5579,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5743,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5773,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5803,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5833,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 5863,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 5743,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 5773,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 5803,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 5833,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 5743,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 5773,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 5803,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 5833,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 639,
+          "y": 5743,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 677,
+          "y": 5743,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 715,
+          "y": 5743,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 619,
+          "y": 5948,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 717,
+          "y": 5948,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 844,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 390,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 806,
+      "height": 351,
+      "scrollHeight": 500,
+      "clientHeight": 349,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 320,
+    "height": 568,
+    "errors": [],
+    "pageWidth": 320,
+    "viewport": 320,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 320,
+      "h": 780
+    },
+    "title": {
+      "x": 24,
+      "y": 160,
+      "w": 272,
+      "h": 64
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 164,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 211,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 258,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 402,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 2262,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 3016,
+          "w": 272,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 3904,
+          "w": 170,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 190,
+          "y": 3904,
+          "w": 110,
+          "h": 50
+        },
+        "font": "9px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4030,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4198,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4230,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4262,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4294,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4326,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4198,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4230,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4262,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4294,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4426,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4458,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4490,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4522,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 169,
+          "y": 4426,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 208,
+          "y": 4426,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 247,
+          "y": 4426,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4645,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 4645,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 320,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 568,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 282,
+      "height": 436.453125,
+      "scrollHeight": 434,
+      "clientHeight": 434,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 375,
+    "height": 812,
+    "errors": [],
+    "pageWidth": 375,
+    "viewport": 375,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 375,
+      "h": 788
+    },
+    "title": {
+      "x": 24,
+      "y": 160,
+      "w": 327,
+      "h": 72
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 219,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 266,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 313,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 410,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 2318,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 3054,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 3907,
+          "w": 207,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 227,
+          "y": 3907,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4033,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4201,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4233,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4265,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4297,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4329,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4201,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4233,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4265,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4297,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4429,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4461,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4493,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4525,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 197,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 236,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 275,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4648,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 4648,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 375,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 812,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 337,
+      "height": 394.453125,
+      "scrollHeight": 392,
+      "clientHeight": 392,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 390,
+    "height": 844,
+    "errors": [],
+    "pageWidth": 390,
+    "viewport": 390,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 390,
+      "h": 769
+    },
+    "title": {
+      "x": 24,
+      "y": 160,
+      "w": 342,
+      "h": 75
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 234,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 281,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 328,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 391,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 2327,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 3066,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 3906,
+          "w": 222,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 242,
+          "y": 3906,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4032,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4201,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4233,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4265,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4297,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4329,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4201,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4233,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4265,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4297,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4429,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4461,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4493,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4525,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 204,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 243,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 282,
+          "y": 4429,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4648,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 4648,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 390,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 844,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 352,
+      "height": 394.453125,
+      "scrollHeight": 392,
+      "clientHeight": 392,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 430,
+    "height": 932,
+    "errors": [],
+    "pageWidth": 430,
+    "viewport": 430,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 430,
+      "h": 776
+    },
+    "title": {
+      "x": 24,
+      "y": 160,
+      "w": 382,
+      "h": 83
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 274,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 321,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 368,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 398,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 2365,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 24,
+          "y": 3089,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 20,
+          "y": 3957,
+          "w": 262,
+          "h": 50
+        },
+        "font": "12px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 282,
+          "y": 3957,
+          "w": 128,
+          "h": 50
+        },
+        "font": "10px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 20,
+          "y": 4083,
+          "w": 175,
+          "h": 97
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4251,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4283,
+          "w": 55,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4315,
+          "w": 68,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4347,
+          "w": 119,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4379,
+          "w": 83,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4251,
+          "w": 39,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4283,
+          "w": 29,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4315,
+          "w": 112,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4347,
+          "w": 76,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4479,
+          "w": 48,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4511,
+          "w": 41,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4543,
+          "w": 24,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4575,
+          "w": 90,
+          "h": 32
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 224,
+          "y": 4479,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 263,
+          "y": 4479,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 302,
+          "y": 4479,
+          "w": 32,
+          "h": 40
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 20,
+          "y": 4698,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 117,
+          "y": 4698,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 430,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 932,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 392,
+      "height": 373.453125,
+      "scrollHeight": 371,
+      "clientHeight": 371,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 768,
+    "height": 1024,
+    "errors": [],
+    "pageWidth": 768,
+    "viewport": 768,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 768,
+      "h": 886
+    },
+    "title": {
+      "x": 40,
+      "y": 160,
+      "w": 688,
+      "h": 94
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 612,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 659,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 706,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 388,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 2693,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 3406,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 84,
+          "y": 4467,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 534,
+          "y": 4467,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 4607,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4771,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4801,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4831,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4861,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4891,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4771,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4801,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4831,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 210,
+          "y": 4861,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4771,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4801,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4831,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 396,
+          "y": 4861,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 582,
+          "y": 4771,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 620,
+          "y": 4771,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 658,
+          "y": 4771,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 543,
+          "y": 4976,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 641,
+          "y": 4976,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 768,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 1024,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 730,
+      "height": 342.703125,
+      "scrollHeight": 341,
+      "clientHeight": 341,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  },
+  {
+    "route": "la-maison",
+    "width": 844,
+    "height": 390,
+    "errors": [],
+    "pageWidth": 844,
+    "viewport": 844,
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "w": 844,
+      "h": 886
+    },
+    "title": {
+      "x": 40,
+      "y": 160,
+      "w": 764,
+      "h": 94
+    },
+    "missing": [],
+    "targets": [
+      {
+        "name": "Aller au contenu",
+        "selector": "skip-link",
+        "box": {
+          "x": 10,
+          "y": -62,
+          "w": 147,
+          "h": 48
+        },
+        "font": "16px"
+      },
+      {
+        "name": "ALMANZOR Parfums — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 23,
+          "y": 17,
+          "w": 116,
+          "h": 75
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Rechercher un parfum",
+        "selector": "header-icon search-button",
+        "box": {
+          "x": 688,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Commander sur le site officiel",
+        "selector": "header-icon bag-link",
+        "box": {
+          "x": 735,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Ouvrir le menu",
+        "selector": "menu-button",
+        "box": {
+          "x": 782,
+          "y": 26,
+          "w": 44,
+          "h": 44
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Notre histoire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 388,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Notre savoir-faire",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 2693,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "Découvrir nos parfums",
+        "selector": "button maison-button",
+        "box": {
+          "x": 40,
+          "y": 3406,
+          "w": 300,
+          "h": 48
+        },
+        "font": "10px"
+      },
+      {
+        "name": "",
+        "selector": "email",
+        "box": {
+          "x": 122,
+          "y": 4512,
+          "w": 450,
+          "h": 50
+        },
+        "font": "14px"
+      },
+      {
+        "name": "S’inscrire",
+        "selector": "button button-gold",
+        "box": {
+          "x": 572,
+          "y": 4512,
+          "w": 150,
+          "h": 50
+        },
+        "font": "11px"
+      },
+      {
+        "name": "ALMANZOR — Accueil",
+        "selector": "brand",
+        "box": {
+          "x": 24,
+          "y": 4652,
+          "w": 185,
+          "h": 102
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Accueil",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4816,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "La Maison",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4846,
+          "w": 55,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Nos parfums",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4876,
+          "w": 68,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "L’Univers ALMANZOR",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4906,
+          "w": 119,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Points de vente",
+        "selector": "",
+        "box": {
+          "x": 24,
+          "y": 4936,
+          "w": 83,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLADE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 4816,
+          "w": 39,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "YAYA",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 4846,
+          "w": 29,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "MONSIEUR ROUGE",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 4876,
+          "w": 112,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "BLACK EDEN",
+        "selector": "",
+        "box": {
+          "x": 229,
+          "y": 4906,
+          "w": 76,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Livraison",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 4816,
+          "w": 48,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Contact",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 4846,
+          "w": 41,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "FAQ",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 4876,
+          "w": 24,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "Mentions légales",
+        "selector": "",
+        "box": {
+          "x": 434,
+          "y": 4906,
+          "w": 90,
+          "h": 30
+        },
+        "font": "12px"
+      },
+      {
+        "name": "ALMANZOR sur Instagram",
+        "selector": "",
+        "box": {
+          "x": 639,
+          "y": 4816,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Facebook — informations",
+        "selector": "",
+        "box": {
+          "x": 677,
+          "y": 4816,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "YouTube — informations",
+        "selector": "",
+        "box": {
+          "x": 715,
+          "y": 4816,
+          "w": 30,
+          "h": 36
+        },
+        "font": "16px"
+      },
+      {
+        "name": "Confidentialité",
+        "selector": "",
+        "box": {
+          "x": 619,
+          "y": 5021,
+          "w": 70,
+          "h": 20
+        },
+        "font": "11px"
+      },
+      {
+        "name": "Conditions générales",
+        "selector": "",
+        "box": {
+          "x": 717,
+          "y": 5021,
+          "w": 103,
+          "h": 20
+        },
+        "font": "11px"
+      }
+    ],
+    "clipped": [],
+    "menu": {
+      "x": 0,
+      "y": 98,
+      "width": 844,
+      "height": 324,
+      "bottom": 422,
+      "viewport": 390,
+      "scrollHeight": 324,
+      "clientHeight": 324,
+      "overflow": "visible"
+    },
+    "search": {
+      "count": 1,
+      "font": "16px"
+    },
+    "dialog": {
+      "width": 806,
+      "height": 342.703125,
+      "scrollHeight": 341,
+      "clientHeight": 341,
+      "overflow": "auto"
+    },
+    "newsletter": "L’inscription à la newsletter sera bientôt disponible. Votre adresse n’a pas été transmise ni enregistrée."
+  }
+]

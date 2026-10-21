@@ -1,0 +1,26 @@
+{
+  "mode": "built-in image_gen",
+  "source": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb3-385b-7523-a358-f2ddbbf481e1/exec-deab6822-cffe-4236-b159-98acd7a87089.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/remaining-products/rouge-sillage-master.png",
+  "asset": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/monsieur-rouge-sillage.webp",
+  "prompt": "rouge-sillage-prompt.txt",
+  "requested_dimensions": [
+    3200,
+    1160
+  ],
+  "native_dimensions": [
+    2084,
+    755
+  ],
+  "format": "WebP",
+  "quality": 94,
+  "upscaled": false,
+  "bytes": 300622,
+  "framing": {
+    "bottle_center_x_percent": 25.6,
+    "cap_top_y_percent": 25,
+    "glass_base_y_percent": 85,
+    "negative_space": "right half"
+  },
+  "inspection": "Product identity and lettering correct; black/ruby glass and textured cap, red saffron left, resin right, rough wood behind, no white flower, no UI text. Composition matches YAYA reference. Generator delivered native2084x755 rather than requested3200x1160; no upscale performed."
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "catalog-product-blade-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-blade.webp",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png"
+    ],
+    "transparent": false,
+    "prompt": "Use case: product-mockup\nCreate a new high-definition luxury perfume photograph to replace the blurry image1, keeping its exact composition, camera angle, scale, palette and props. Output at highest available native detail, approximately 2048 pixels wide, matching image1 aspect ratio.\nImage1 is the composition reference. Image2 is the authoritative high-definition bottle identity reference: use ONLY the bottle itself, not the campaign poster's typography or icons.\nSubject and scene: BLADE. Gold bold uppercase BLADE label; black upper glass fading to luminous deep navy blue/cyan at the base. Bottle on black marble slab surrounded by rugged warm rocks, dark green out-of-focus woodland behind. Bottle centered at 50% x, occupies 80% height, its base at 89%. Landscape 1.37:1.\nMatch the bottle silhouette and label design in image2: thick bevelled rectangular glass, V-shaped angular front detail, cylindrical finely crosshatched black cap, thin polished gold rim and collar. Keep the entire bottle in frame. Sharp labels, crisp cap microtexture, detailed rock grain and realistic glass refraction. Natural cinematic golden light; premium realistic product photography. Recreate material detail, do not merely upscale source blur. No standalone logo, no slogan, no icons, no website text, no borders or added graphics. Only text is authentic lettering on the bottle. Do not change the environment or introduce extra props."
+  },
+  {
+    "id": "catalog-product-yaya-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-yaya.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png"
+    ],
+    "transparent": false,
+    "prompt": "Use case: product-mockup\nCreate a new high-definition luxury perfume photograph to replace the blurry image1, keeping its exact composition, camera angle, scale, palette and props. Output at highest available native detail, approximately 2048 pixels wide, matching image1 aspect ratio.\nImage1 is the composition reference. Image2 is the authoritative high-definition bottle identity reference: use ONLY the bottle itself, not the campaign poster's typography or icons.\nSubject and scene: YAYA. Stylized geometric gold uppercase YAYA label; black upper glass fading to glowing amber gold at the base. Warm honey-lit stone interior, amber resin left, vanilla pods and white flower right. Bottle centered, occupies 73% height, base at 83%. Near square landscape 1.177:1.\nMatch the bottle silhouette and label design in image2: thick bevelled rectangular glass, V-shaped angular front detail, cylindrical finely crosshatched black cap, thin polished gold rim and collar. Keep the entire bottle in frame. Sharp labels, crisp cap microtexture, detailed rock grain and realistic glass refraction. Natural cinematic golden light; premium realistic product photography. Recreate material detail, do not merely upscale source blur. No standalone logo, no slogan, no icons, no website text, no borders or added graphics. Only text is authentic lettering on the bottle. Do not change the environment or introduce extra props."
+  },
+  {
+    "id": "catalog-product-monsieur-rouge-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-monsieur-rouge.webp",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png"
+    ],
+    "transparent": false,
+    "prompt": "Use case: product-mockup\nCreate a new high-definition luxury perfume photograph to replace the blurry image1, keeping its exact composition, camera angle, scale, palette and props. Output at highest available native detail, approximately 2048 pixels wide, matching image1 aspect ratio.\nImage1 is the composition reference. Image2 is the authoritative high-definition bottle identity reference: use ONLY the bottle itself, not the campaign poster's typography or icons.\nSubject and scene: MONSIEUR ROUGE. Condensed gold uppercase MONSIEUR and red cursive Rouge below, accurately spelled. Black upper glass fades to rich glowing ruby red at base. Black marble pedestal, saffron red threads left, textured oud wood behind, glowing amber chunk on right, dark green backdrop. Bottle centered and occupies 82% image height. Landscape 1.404:1.\nMatch the bottle silhouette and label design in image2: thick bevelled rectangular glass, V-shaped angular front detail, cylindrical finely crosshatched black cap, thin polished gold rim and collar. Keep the entire bottle in frame. Sharp labels, crisp cap microtexture, detailed rock grain and realistic glass refraction. Natural cinematic golden light; premium realistic product photography. Recreate material detail, do not merely upscale source blur. No standalone logo, no slogan, no icons, no website text, no borders or added graphics. Only text is authentic lettering on the bottle. Do not change the environment or introduce extra props."
+  },
+  {
+    "id": "catalog-product-black-eden-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-product-black-eden.webp",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "transparent": false,
+    "prompt": "Use case: product-mockup\nCreate a new high-definition luxury perfume photograph to replace the blurry image1, keeping its exact composition, camera angle, scale, palette and props. Output at highest available native detail, approximately 2048 pixels wide, matching image1 aspect ratio.\nImage1 is the composition reference. Image2 is the authoritative high-definition bottle identity reference: use ONLY the bottle itself, not the campaign poster's typography or icons.\nSubject and scene: BLACK EDEN. Gold serif uppercase BLACK EDEN label on two lines. Black upper glass fades to deep luminous emerald green at base. Black marble slab, oud wood left, rugged stone right, deep green foliage, warm dappled sunlight. Bottle centered and occupies 82% image height. Landscape 1.247:1.\nMatch the bottle silhouette and label design in image2: thick bevelled rectangular glass, V-shaped angular front detail, cylindrical finely crosshatched black cap, thin polished gold rim and collar. Keep the entire bottle in frame. Sharp labels, crisp cap microtexture, detailed rock grain and realistic glass refraction. Natural cinematic golden light; premium realistic product photography. Recreate material detail, do not merely upscale source blur. No standalone logo, no slogan, no icons, no website text, no borders or added graphics. Only text is authentic lettering on the bottle. Do not change the environment or introduce extra props."
+  },
+  {
+    "id": "maison-hero-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-hero.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate this low-resolution website background as a new exquisitely detailed photorealistic image, landscape aspect ratio 1.94:1, at highest native resolution. Same exact composition: left 52% quiet dark forest green subtly veined marble, right half warm golden Moroccan carved horseshoe arch doorway, dark wooden door with the same gold ALMANZOR A monogram, olive tree in large earthware pot at far right, polished stone floor, soft foreground leaf shadows. Keep arch entirely in right half, its top around y15%, door lower edge y88%, reserve upper15% and left52% dark for HTML. Fine carved stucco, woodgrain, olive leaves sharply rendered. Remove ALL ghost letters, text-removal artifacts, rectangular patches, seams, writing and website UI from the source; reconstruct uninterrupted believable surfaces. Only symbol allowed is the actual gold A fixed on the door. No captions. Warm light and deep green identical in spirit to reference. This is a single photographic background, no layout or collage."
+  },
+  {
+    "id": "maison-inspiration-photo-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-inspiration.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Generate ONLY the photograph on the RIGHT HALF of the reference, not its blank left copy panel. New high-definition landscape photograph, aspect ratio 385:290 (1.328:1), approximately 2048 pixels wide. Moroccan courtyard with the same tall intricately carved warm sandstone doorway at the right edge, slender stone columns, polished light marble floor reflecting sunlight, palm trunks at left, palms and Atlas mountains through the courtyard in the background. Preserve the reference right-half camera angle and positions. Perfectly focused rich stone carving, crisp palms and reflected light. Golden morning light, sophisticated cream/ochre palette. Natural photographic depth, no fake sharpening, no pixelation. Full bleed photography only, no text, no logos, no cream panel or gradient, no border."
+  },
+  {
+    "id": "maison-materials-photo-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-materials.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Generate ONLY the photograph occupying the LEFT HALF of this reference, not the blank right panel. A premium high-definition macro still life of warm amber resin crystal and rich dark oud wood chips on glossy black marble with gold veins. Keep exact diagonal oud arrangement and large translucent honey amber chunk in lower-left foreground, rugged rocks behind in intentional soft bokeh. Full bleed landscape 385:293 (1.314:1), approximately 2048 pixels wide. Detailed crisp amber inclusions and intricate woodgrain, controlled warm side light and deep shadows. The focused foreground is sharp; background softness is optical bokeh. No product, no typography, no panel, no logo, no borders."
+  },
+  {
+    "id": "maison-vision-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-vision.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate this panoramic Moroccan terrace photograph as a crisp detailed high-resolution new photograph, aspect ratio3:1. Exact reference layout: dark palm leaves enter from upper and lower left, golden Marrakech skyline and minaret in center-left below distant hazy Atlas mountains, large sunlit textured sandstone wall at right 38% with the reference gold ALMANZOR A monogram physically attached, rocks and small green plants bottomright. Keep left62% sufficiently dark with quiet photographic texture for white HTML copy. Rich bronze golden-hour light. Preserve calm composition and scale, crisp wall texture and foliage, atmospheric distance remains naturally soft. Remove ALL ghost writing, patchwork, text erasure remnants and rectangular seams; reconstruct continuous natural surfaces. No words, no website UI, no extra floating logos. Only the reference physical monogram on the wall."
+  },
+  {
+    "id": "maison-art-photo-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/maison-art.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "transparent": false,
+    "prompt": "Use case: product-mockup. Recreate ONLY the photograph in the RIGHT 54% of image1, without its blank left copy panel. High-definition landscape photograph 419:248 (1.69:1), approximately2048pixels wide. Four ALMANZOR bottles on rugged warm stone plinths against a luminous warm ivory stone wall with palm-leaf shadows. Exact order left→right YAYA amber, BLADE blue elevated behind, MONSIEUR ROUGE red, BLACK EDEN emerald. Keep allfour wholebottles and caps inside frame, consistent front-facing perspective, bases near80% height, strongestgolden light from left. Reference1 controlscomposition; references2–5 control exactproductidentity, capshape, glass, labelcolorandtype. All bottles haveblackcrosshatched cylindricalcaps withgoldrimandcollar, bevelledrectangular glass withVdetail and blacktopgradient. Sharpintricateglassandstone, elegant believableproductphotography. Only textisthebottlelabels: YAYA, BLADE, MONSIEUR with redcursive Rouge below, BLACK EDEN ontwolines. Noexternal poster text, icons, logos, panelsorborders."
+  },
+  {
+    "id": "catalog-signature-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-signature.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Regenerate this low-resolution ALMANZOR terrace panorama with fine photographic detail. Very wide landscape approximately 4.44:1, composition MUST keep same proportions as source. Highest possible native resolution. Golden Moroccan terrace, potted palm and distant Atlas mountains at left, dark warm arch/pillar recess at center with quiet open shadow behind website heading, textured warm sandstone wall on right with large metallic gold A monogram fixed to stone, dark rocks and foliage foreground lower right. Strong late-afternoon sunlight with beautiful natural shadows. No standalone center monogram or title (these are HTML overlays), no words, UI, borders or text fragments. Keep the visible physical A sculpture on the right. Sharpen the real material detail through new generation, not artificial edge halos."
+  },
+  {
+    "id": "collection-blade-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-blade.webp",
+      "/Users/salaheddinemimouni/Downloads/Almanzor Blade_ A Signature in Gold.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: product-mockup. A crisp high-definition studio packshot of the ALMANZOR blade perfume bottle for a product card. Image1 defines framing ONLY, image2 defines the exact bottle design and its label. Generate at least1024px on near-square canvas319:307. Preserve the image1 placement: front-facing upright bottle centered, bottle width50% ofcanvas, captop4% fromtop, glassbase94% fromtop. Full entire bottle and cap, no crop. Match image2's bevelled rectangular glass and sharp V shaped panel detail, black upperglass fading to BLADE in bold gold uppercase, deep navy blue/cyan glass. Finely textured cylindricalblack cap, thin polished gold top rim and collar. Exquisite sharp glass edges, actual label lettering, no fake sharpening. Soft premium studio lighting and only a subtle translucent contact shadow immediately beneath. Output a clean genuinely TRANSPARENT background with alpha around the object and shadow so it can sit on the site's ivory marble. No room, no pedestal, no white rectangle, no grid, no poster typography or extra text; only authentic label on bottle."
+  },
+  {
+    "id": "collection-yaya-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-yaya.webp",
+      "/Users/salaheddinemimouni/Downloads/YAYA_ A Luminous Refined Character.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: product-mockup. A crisp high-definition studio packshot of the ALMANZOR yaya perfume bottle for a product card. Image1 defines framing ONLY, image2 defines the exact bottle design and its label. Generate at least1024px on near-square canvas319:307. Preserve the image1 placement: front-facing upright bottle centered, bottle width50% ofcanvas, captop4% fromtop, glassbase94% fromtop. Full entire bottle and cap, no crop. Match image2's bevelled rectangular glass and sharp V shaped panel detail, black upperglass fading to YAYA in geometric gold uppercase, amber gold glass. Finely textured cylindricalblack cap, thin polished gold top rim and collar. Exquisite sharp glass edges, actual label lettering, no fake sharpening. Soft premium studio lighting and only a subtle translucent contact shadow immediately beneath. Output a clean genuinely TRANSPARENT background with alpha around the object and shadow so it can sit on the site's ivory marble. No room, no pedestal, no white rectangle, no grid, no poster typography or extra text; only authentic label on bottle."
+  },
+  {
+    "id": "collection-monsieur-rouge-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-monsieur-rouge.webp",
+      "/Users/salaheddinemimouni/Downloads/Monsieur Rouge Luxury Perfume Campaign.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: product-mockup. A crisp high-definition studio packshot of the ALMANZOR monsieur-rouge perfume bottle for a product card. Image1 defines framing ONLY, image2 defines the exact bottle design and its label. Generate at least1024px on near-square canvas319:307. Preserve the image1 placement: front-facing upright bottle centered, bottle width50% ofcanvas, captop4% fromtop, glassbase94% fromtop. Full entire bottle and cap, no crop. Match image2's bevelled rectangular glass and sharp V shaped panel detail, black upperglass fading to MONSIEUR in condensed gold uppercase with Rouge in red cursive below, ruby red glass. Finely textured cylindricalblack cap, thin polished gold top rim and collar. Exquisite sharp glass edges, actual label lettering, no fake sharpening. Soft premium studio lighting and only a subtle translucent contact shadow immediately beneath. Output a clean genuinely TRANSPARENT background with alpha around the object and shadow so it can sit on the site's ivory marble. No room, no pedestal, no white rectangle, no grid, no poster typography or extra text; only authentic label on bottle."
+  },
+  {
+    "id": "collection-black-eden-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-black-eden.webp",
+      "/Users/salaheddinemimouni/Downloads/Black Eden_ A Mysterious Botanical Fragrance.png"
+    ],
+    "transparent": true,
+    "prompt": "Use case: product-mockup. A crisp high-definition studio packshot of the ALMANZOR black-eden perfume bottle for a product card. Image1 defines framing ONLY, image2 defines the exact bottle design and its label. Generate at least1024px on near-square canvas319:307. Preserve the image1 placement: front-facing upright bottle centered, bottle width50% ofcanvas, captop4% fromtop, glassbase94% fromtop. Full entire bottle and cap, no crop. Match image2's bevelled rectangular glass and sharp V shaped panel detail, black upperglass fading to BLACK EDEN in gold serif capitals on two lines, emerald green glass. Finely textured cylindricalblack cap, thin polished gold top rim and collar. Exquisite sharp glass edges, actual label lettering, no fake sharpening. Soft premium studio lighting and only a subtle translucent contact shadow immediately beneath. Output a clean genuinely TRANSPARENT background with alpha around the object and shadow so it can sit on the site's ivory marble. No room, no pedestal, no white rectangle, no grid, no poster typography or extra text; only authentic label on bottle."
+  },
+  {
+    "id": "signature-inspiration-bottle-rock-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-rock.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. A dark amber ALMANZOR bottle with gold A monogram leaning diagonally across golden rocky stones, black crosshatched cap tilted towards top-left, warm hard afternoon light. Preserve bottle and monogram from reference. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "signature-inspiration-flower-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-flower.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. A single white five-petal flower with a yellow stamen resting on a square rough stone plinth, dark green leaves and warm rocks behind, sunlight outlining the delicate white petals. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "signature-inspiration-bottle-citrus-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-citrus.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. A deep navy blue rectangular ALMANZOR bottle with gold A monogram and black crosshatched gold-rimmed cap standing on rough sandstone, oranges and green leaves at upper-left, dark backdrop, warm side light. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "signature-inspiration-arch-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-arch.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. View through a tall elegant carved Moroccan stone horseshoe arch, palm trees and distant hazy Atlas mountains outside, polished marble floor reflecting warm sunlight, same symmetrical framing. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "signature-inspiration-bottle-gold-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-bottle-gold.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. A luminous gold amber glass ALMANZOR perfume bottle with gold textured cap and the exact A monogram leaning diagonally to the right on sunlit stone, white flower behind, warm cream Moroccan interior. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "signature-inspiration-stone-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/signature-inspiration-stone.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate the supplied small photographic tile as a new sharp high-definition editorial photograph. Same subject, angle, composition, object scale and warm green/gold palette. Landscape aspect ratio1.22:1, at least1024px wide. Close-up of a rustic ochre sandstone wall with the exact ALMANZOR A monogram engraved as a relief into the stone at center, diagonal palm-leaf shadows, warm golden hard sunlight. Keep relief geometry and weathered material. Crisp material microtexture and clean focused subject with natural optical background depth. Keep exact position and silhouette of objects. No new objects, no additional text, no campaign captions, no poster or website UI, no border. Preserve any original A monogram as part of the photographed object. This is full bleed photography, not an illustration, not an enlargement of the blurry pixels."
+  },
+  {
+    "id": "note-star-anise-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/catalog-note-yaya-2.webp"
+    ],
+    "transparent": false,
+    "prompt": "Use case: photorealistic-natural. Recreate this small ingredient photo as a crisp macro photograph of star anise seed pods, refined warm dark brown woody spices with subtle golden light. Square composition, close-up centered on an intact eight-point star anise and a few overlapping pods. Extreme natural botanical detail, rich brown tones, dark unobtrusive background, no text, no icon, no gold ring, no graphic border. Full bleed photographic image for a circular perfume-note thumbnail. At least1024pixels square."
+  },
+  {
+    "id": "collection-ivory-hd",
+    "refs": [
+      "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/collection-ivory.webp"
+    ],
+    "transparent": false,
+    "prompt": "Regenerate this warm ivory marble background as a perfectly clean premium photography backdrop. Keep the reference's very light warm ivory #f7f3eb color, its almost imperceptible fine pale gold marble veins concentrated at the edges, calm broad unmarked center, soft diffuse light. The original is a badly patched background with large rectangular flat-color patches and ghost remnants of typography and bottles. Completely REMOVE all these artifacts and replace with a naturally continuous seamless marble texture. No rectangular patches, no ghost letters, no smudges, no bottle silhouettes, NO objects, NO text, NO logos. This is only the empty background for a luxury perfume product grid, all products and text are separate HTML overlays. Wide landscape 1536:579 composition, highest detail resolution. Keep low contrast so dark products remain foreground."
+  }
+]

@@ -3,7 +3,7 @@
 .maison-page main {font-family:Arial,Helvetica,sans-serif;-webkit-font-smoothing:antialiased;}
 .maison-section {position:relative;width:100%;overflow:hidden;}
 .maison-scene,.maison-vision-scene {position:absolute;inset:0;display:block;width:100%;height:100%;}
-.maison-scene img,.maison-vision-scene {width:100%;height:100%;object-fit:fill;}
+.maison-scene img,.maison-vision-scene {width:100%;height:100%;object-fit:cover;}
 .maison-copy {position:absolute;inset:0;}
 .maison-copy > * {position:absolute;left:calc(58 * var(--u));margin:0;}
 .maison-page .maison-copy .eyebrow {font:400 calc(8.5 * var(--u))/calc(12 * var(--u)) Arial,Helvetica,sans-serif;letter-spacing:calc(2.1 * var(--u));color:#b98a58;text-transform:uppercase;}
@@ -23,6 +23,7 @@
 .maison-hero .maison-button {top:calc(328 * var(--u));width:calc(143 * var(--u));height:calc(34 * var(--u));font-size:calc(8.5 * var(--u));font-weight:600;color:#1b271c;background-image:url("assets/maison-button-hero.webp");}
 .maison-hero .maison-button img {filter:none;}
 .maison-inspiration {height:calc(290 * var(--u));background:#f7f1e7;}
+.maison-inspiration .maison-scene {left:50%;width:50%;}
 .maison-inspiration .maison-copy > * {left:calc(56 * var(--u));}
 .maison-inspiration .eyebrow {top:calc(47 * var(--u));}
 .maison-inspiration h2 {top:calc(70 * var(--u));font-size:calc(30.5 * var(--u));}
@@ -34,6 +35,7 @@
 .maison-benefits img {position:absolute;left:50%;top:calc(18 * var(--u));transform:translateX(-50%);width:calc(52 * var(--u));height:calc(54 * var(--u));max-width:none;}
 .maison-benefits p {position:absolute;left:0;top:calc(77 * var(--u));width:100%;text-align:center;font:400 calc(11 * var(--u))/calc(16 * var(--u)) Arial,Helvetica,sans-serif;color:#e1e5da;}
 .maison-materials {height:calc(293 * var(--u));background:#f7f1e7;}
+.maison-materials .maison-scene {width:50%;}
 .maison-materials .maison-copy > * {left:calc(435 * var(--u));}
 .maison-materials .eyebrow {top:calc(33 * var(--u));}
 .maison-materials h2 {top:calc(55 * var(--u));}
@@ -41,11 +43,13 @@
 .maison-materials .maison-text {top:calc(143 * var(--u));font-size:calc(11 * var(--u));line-height:calc(16.3 * var(--u));}
 .maison-materials .maison-button {top:calc(235 * var(--u));}
 .maison-vision {height:calc(256 * var(--u));background:#1a2115;}
+.maison-vision .maison-copy {background:linear-gradient(90deg,rgba(3,16,9,.46),transparent 75%);}
 .maison-vision .eyebrow {top:calc(70 * var(--u));}
 .maison-vision .maison-copy .eyebrow {color:#f0dfbd;}
 .maison-vision h2 {top:calc(93 * var(--u));color:#f4efe2;font-size:calc(31 * var(--u));line-height:calc(33 * var(--u));}
 .maison-vision .maison-text {top:calc(174 * var(--u));font-size:calc(11.5 * var(--u));line-height:calc(16.7 * var(--u));color:#e1e2d6;}
 .maison-art {height:calc(248 * var(--u));background:#f7f1e7;}
+.maison-art .maison-scene {left:calc(351 * var(--u));width:calc(419 * var(--u));}
 .maison-art .eyebrow {top:calc(34 * var(--u));}
 .maison-art h2 {top:calc(55 * var(--u));}
 .maison-art .maison-text {top:calc(133 * var(--u));font-size:calc(10.7 * var(--u));line-height:calc(15.4 * var(--u));}
@@ -74,6 +78,7 @@
 @media (max-width:999px) {
  .maison-page .maison-section {height:auto;display:flex;flex-direction:column;overflow:hidden;}
  .maison-scene,.maison-vision-scene {position:static;order:2;width:100%;height:auto;}
+ .maison-inspiration .maison-scene,.maison-materials .maison-scene,.maison-art .maison-scene {left:auto;width:100%;}
  .maison-scene img {width:100%;height:auto;object-fit:cover;}
  .maison-section .maison-copy,.maison-commitment .maison-copy {position:relative;inset:auto;padding:36px 24px;order:1;}
  .maison-copy > * {position:static!important;}

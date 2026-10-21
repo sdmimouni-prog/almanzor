@@ -1,0 +1,17 @@
+{
+  "source": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb0-e46f-70a3-8bc5-85caf8d627f2/exec-deede909-571c-4416-9f19-551d1d0c8184.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/remaining-products/eden-hero-master.png",
+  "webp": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/black-eden-hero.webp",
+  "dimensions": [
+    1724,
+    912
+  ],
+  "requested_dimensions": [
+    3840,
+    2030
+  ],
+  "webp_bytes": 269766,
+  "upscaled": false,
+  "generation": "built-in imagegen",
+  "composition_inspection": "Full bottle center x65%; cap21%; base89%; left45% clean dark green; two-line gold serif BLACK EDEN label; botanical wood leaves moss; no UI text"
+}

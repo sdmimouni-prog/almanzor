@@ -30,9 +30,9 @@ const fs = require('node:fs/promises');
   assert(report.hover.arrow.includes('4'));
   await page.locator('#parfums').screenshot({ path: __dirname + '/selection-hover.png' });
   await page.locator('#blade .button').click();
-  await page.locator('#detail-dialog[open]').waitFor();
-  assert.equal(await page.locator('#dialog-title').textContent(), 'BLADE');
-  await page.keyboard.press('Escape');
+  await page.waitForURL('**/blade.html');
+  assert.equal(await page.locator('#blade-title').textContent(), 'BLADE');
+  await page.goBack({waitUntil:'networkidle'});
   await page.mouse.move(0, 0);
   await page.locator('.collection-next').click();
   assert.equal(await page.locator('#collection-grid .product').first().getAttribute('id'), 'yaya');
@@ -76,7 +76,8 @@ const fs = require('node:fs/promises');
   report.mobile = await mobile.evaluate(() => ({ viewport: innerWidth, contentWidth: document.documentElement.scrollWidth }));
   assert.equal(report.mobile.viewport, report.mobile.contentWidth);
   await mobile.locator('#black-eden .button').tap();
-  assert.equal(await mobile.locator('#dialog-title').textContent(), 'BLACK EDEN');
+  await mobile.waitForURL('**/black-eden.html');
+  assert.equal((await mobile.locator('h1').textContent()).trim(), 'BLACK EDEN');
 
   for (const route of ['nos-parfums.html', 'la-maison.html']) {
     await page.goto('http://127.0.0.1:4173/' + route, { waitUntil: 'networkidle' });

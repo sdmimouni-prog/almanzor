@@ -1,0 +1,223 @@
+[
+  {
+    "width": 1512,
+    "height": 850,
+    "deviceScaleFactor": 2,
+    "source": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "natural": [
+      1836,
+      857
+    ],
+    "imageRect": {
+      "x": 0,
+      "y": 0,
+      "width": 1512,
+      "height": 701.921875,
+      "top": 0,
+      "right": 1512,
+      "bottom": 701.921875,
+      "left": 0
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 0,
+      "width": 1512,
+      "height": 701.921875,
+      "top": 0,
+      "right": 1512,
+      "bottom": 701.921875,
+      "left": 0
+    },
+    "titleRect": {
+      "x": 116.296875,
+      "y": 232.609375,
+      "width": 673.359375,
+      "height": 142.84375,
+      "top": 232.609375,
+      "right": 789.65625,
+      "bottom": 375.453125,
+      "left": 116.296875
+    },
+    "overflow": false,
+    "preload": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "opacity": "1",
+    "motionVisible": true,
+    "errors": []
+  },
+  {
+    "width": 1920,
+    "height": 1080,
+    "deviceScaleFactor": 1,
+    "source": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "natural": [
+      1836,
+      857
+    ],
+    "imageRect": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 891.328125,
+      "top": 0,
+      "right": 1920,
+      "bottom": 891.328125,
+      "left": 0
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 891.328125,
+      "top": 0,
+      "right": 1920,
+      "bottom": 891.328125,
+      "left": 0
+    },
+    "titleRect": {
+      "x": 147.6875,
+      "y": 295.375,
+      "width": 855.046875,
+      "height": 181.375,
+      "top": 295.375,
+      "right": 1002.734375,
+      "bottom": 476.75,
+      "left": 147.6875
+    },
+    "overflow": false,
+    "preload": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "opacity": "1",
+    "errors": []
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "deviceScaleFactor": 1,
+    "source": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "natural": [
+      1836,
+      857
+    ],
+    "imageRect": {
+      "x": 0,
+      "y": 400,
+      "width": 768,
+      "height": 340,
+      "top": 400,
+      "right": 768,
+      "bottom": 740,
+      "left": 0
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 740,
+      "top": 0,
+      "right": 768,
+      "bottom": 740,
+      "left": 0
+    },
+    "titleRect": {
+      "x": 24,
+      "y": 149,
+      "width": 720,
+      "height": 88.1875,
+      "top": 149,
+      "right": 744,
+      "bottom": 237.1875,
+      "left": 24
+    },
+    "overflow": false,
+    "preload": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "opacity": "1",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "deviceScaleFactor": 2,
+    "source": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "natural": [
+      1836,
+      857
+    ],
+    "imageRect": {
+      "x": 0,
+      "y": 430,
+      "width": 390,
+      "height": 300,
+      "top": 430,
+      "right": 390,
+      "bottom": 730,
+      "left": 0
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 730,
+      "top": 0,
+      "right": 390,
+      "bottom": 730,
+      "left": 0
+    },
+    "titleRect": {
+      "x": 24,
+      "y": 149,
+      "width": 342,
+      "height": 69.625,
+      "top": 149,
+      "right": 366,
+      "bottom": 218.625,
+      "left": 24
+    },
+    "overflow": false,
+    "preload": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "opacity": "1",
+    "errors": []
+  },
+  {
+    "width": 319,
+    "height": 700,
+    "deviceScaleFactor": 2,
+    "source": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "natural": [
+      1836,
+      857
+    ],
+    "imageRect": {
+      "x": 0,
+      "y": 430,
+      "width": 319,
+      "height": 300,
+      "top": 430,
+      "right": 319,
+      "bottom": 730,
+      "left": 0
+    },
+    "heroRect": {
+      "x": 0,
+      "y": 0,
+      "width": 319,
+      "height": 730,
+      "top": 0,
+      "right": 319,
+      "bottom": 730,
+      "left": 0
+    },
+    "titleRect": {
+      "x": 24,
+      "y": 149,
+      "width": 271,
+      "height": 58.78125,
+      "top": 149,
+      "right": 295,
+      "bottom": 207.78125,
+      "left": 24
+    },
+    "overflow": false,
+    "preload": "http://127.0.0.1:4173/assets/catalog-hero-hd.webp",
+    "opacity": "1",
+    "errors": []
+  }
+]

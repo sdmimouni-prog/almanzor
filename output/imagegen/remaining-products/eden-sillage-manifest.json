@@ -1,0 +1,17 @@
+{
+  "source": "/Users/salaheddinemimouni/.codex/generated_images/01a15eb0-e46f-70a3-8bc5-85caf8d627f2/exec-9b4071a1-5516-4d30-8b34-533faea0dcb9.png",
+  "master": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/output/imagegen/remaining-products/eden-sillage-master.png",
+  "webp": "/Users/salaheddinemimouni/Documents/New project/almanzor-parfums/assets/black-eden-sillage.webp",
+  "dimensions": [
+    2083,
+    755
+  ],
+  "requested_dimensions": [
+    3200,
+    1160
+  ],
+  "webp_bytes": 333328,
+  "upscaled": false,
+  "generation": "built-in imagegen",
+  "composition_inspection": "Full bottle center x25.4%; cap25%; base85%; right40% clean dark green; gold serif BLACK / EDEN; raw wood, wet leaves and moss; no UI text"
+}

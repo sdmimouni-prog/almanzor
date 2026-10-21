@@ -1,0 +1,76 @@
+/* Mobile QA refinements. Desktop artboards keep their existing composition. */
+@media (max-width:1199px) {
+  .hero-header .navigation {
+    max-height:calc(100svh - 98px);
+    overflow-y:auto;
+    overscroll-behavior:contain;
+  }
+  .hero-header .navigation a {
+    width:100%;
+    min-height:44px;
+    flex-shrink:0;
+  }
+  #detail-dialog {overflow:hidden;}
+  #dialog-content {
+    max-height:calc(90dvh - 2px);
+    overflow-y:auto;
+    overscroll-behavior:contain;
+  }
+  .dialog-close {width:44px;height:44px;}
+  .search-panel input {font-size:16px;}
+}
+
+@media (max-width:999px) {
+  .shared-newsletter #email {font-size:16px;}
+  .shared-footer .footer-column > a,
+  .shared-footer .footer-column > button {
+    display:flex;
+    align-items:center;
+    min-width:44px;
+    min-height:44px;
+    font-size:13px;
+    line-height:20px;
+    padding:8px 0;
+  }
+  .shared-footer .footer-social-links > * {width:44px;height:44px;flex-shrink:0;}
+  .shared-footer .footer-legal button {min-width:44px;min-height:44px;font-size:12px;}
+  .shared-footer h2 {color:#c29a60;}
+  .reference-selection .collection-arrow {width:44px;height:44px;}
+  .catalog-page .perfume-copy .eyebrow,
+  .maison-page .maison-inspiration .eyebrow,
+  .maison-page .maison-materials .eyebrow,
+  .maison-page .maison-art .eyebrow {color:#875827;}
+  .catalog-page .story-blade .eyebrow {color:#c8a36c;}
+  .catalog-page .perfume-copy .story-button,
+  .maison-page .maison-button {color:#13231a;font-size:11px;font-weight:600;}
+  .catalog-page .story-button img,
+  .maison-page .maison-button img {filter:none;}
+}
+
+@media (max-width:767px) {
+  .product-detail > img {height:auto;max-height:48dvh;}
+  .dialog-copy {padding:26px 24px 32px;}
+}
+
+@media (max-width:639px) {
+  .shared-newsletter #newsletter-form {
+    height:auto;
+    display:grid;
+    grid-template-columns:minmax(0,1fr);
+    gap:10px;
+  }
+  .shared-newsletter #email {width:100%;height:50px;padding:0 16px;border:1px solid #b2b3a5;}
+  .shared-newsletter .button {width:100%;height:48px;font-size:11px;border-radius:0;}
+}
+
+@media (max-width:359px) {
+  .shared-footer .footer-follow {grid-column:1/-1;}
+}
+
+@media (max-width:1199px) and (max-height:600px) and (orientation:landscape) {
+  .reference-hero .hero-content {top:96px;}
+  .reference-hero h1 {font-size:clamp(24px,4.8vw,38px);line-height:1;}
+  .reference-hero h1 span:nth-child(2) {transform:none;}
+  .reference-hero p {font-size:13px;line-height:1.35;margin:12px 0;}
+  .reference-hero .button {height:44px;font-size:10px;letter-spacing:.4px;}
+}

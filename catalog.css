@@ -65,8 +65,8 @@
 .story-black-eden .perfume-notes {top:22.26720648vw;gap:5.66801619vw;}
 .story-black-eden .story-button {top:34.68286100vw;width:26.18083671vw;}
 .catalog-signature {position:relative;height:22.53711201vw;width:100%;overflow:hidden;}
-.catalog-signature-scene {position:absolute;inset:0;width:100%;height:100%;object-fit:fill;}
-.catalog-signature-copy {position:absolute;inset:0;text-align:center;color:#f3ead6;}
+.catalog-signature-scene {position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 40%;}
+.catalog-signature-copy {position:absolute;inset:0;text-align:center;color:#f3ead6;background:linear-gradient(90deg,transparent 20%,rgba(12,17,10,.42) 50%,transparent 80%);}
 .catalog-signature-copy > * {position:absolute;left:50%;transform:translateX(-50%);margin:0;}
 .catalog-signature .catalog-monogram {top:1.61943320vw;width:6.34278003vw;height:5.66801619vw;object-fit:contain;}
 .catalog-signature h2 {top:7.42240216vw;width:40.48582996vw;font:400 3.50877193vw/3.50877193vw Georgia,"Times New Roman",serif;letter-spacing:-0.04048583vw;-webkit-font-smoothing:antialiased;}
@@ -159,6 +159,14 @@
  .perfume-notes figure img, .story-yaya .perfume-notes img {width:76px;height:73px;object-fit:fill;margin:0;}
 }
 .perfume-notes figure img {max-width:none;}
+
+/* Sharp photographs replace the small raster medallions; the ring stays in CSS. */
+.perfume-notes figure img.note-photo {width:6.07287449vw;height:6.07287449vw;margin:0;border:1px solid #b99861;border-radius:50%;object-fit:cover;}
+.story-yaya .perfume-notes img.note-photo {width:5.93792173vw;height:5.93792173vw;}
+@media (max-width:999px) {
+ .perfume-notes figure img.note-photo,.story-yaya .perfume-notes img.note-photo {width:64px;height:64px;flex-basis:auto;}
+ .catalog-signature-copy {background:rgba(12,17,10,.36);}
+}
 .catalog-newsletter #newsletter-form {gap:0;flex-wrap:nowrap;}
 .catalog-newsletter .button {min-width:0;flex:0 0 auto;}
 @media (max-width:999px) {
