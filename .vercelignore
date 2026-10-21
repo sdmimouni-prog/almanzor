@@ -1,0 +1,13 @@
+.git
+.vercel
+node_modules
+dist
+qa
+output
+README.md
+design-qa.md
+*.py
+__pycache__
+.DS_Store
+.env
+.env.*
