@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Local visual verification captures; keep the scripts and reports.
+qa/**/*.png
+qa/**/*.jpg
+qa/**/*.jpeg
+qa/**/*.webp
+qa/**/*.webm
+qa/**/*.mp4
+qa/**/*.log

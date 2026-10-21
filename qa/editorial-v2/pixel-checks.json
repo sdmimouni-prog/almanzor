@@ -1,0 +1,66 @@
+{
+  "architecture et olivier": {
+    "mean_absolute_rgb_difference": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "flacon": {
+    "mean_absolute_rgb_difference": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "arche et paysage": {
+    "mean_absolute_rgb_difference": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "extrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "approved Hero unchanged": true
+}

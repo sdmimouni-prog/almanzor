@@ -1,0 +1,639 @@
+{
+  "result": "passed",
+  "results": [
+    {
+      "route": "index.html",
+      "width": 2332,
+      "newsletter": {
+        "x": 0,
+        "y": 5495.234375,
+        "width": 2332,
+        "height": 458
+      },
+      "footer": {
+        "x": 0,
+        "y": 5953.234375,
+        "width": 2332,
+        "height": 506
+      },
+      "form": {
+        "x": 754,
+        "y": 5779.234375,
+        "width": 824,
+        "height": 74
+      },
+      "grid": {
+        "x": 124,
+        "y": 5953.234375,
+        "width": 2084,
+        "height": 395
+      },
+      "copyright": {
+        "x": 124,
+        "y": 6348.234375,
+        "width": 2084,
+        "height": 111
+      },
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 1440,
+      "newsletter": {
+        "x": 0,
+        "y": 3814.046875,
+        "width": 1440,
+        "height": 282.8125
+      },
+      "footer": {
+        "x": 0,
+        "y": 4096.859375,
+        "width": 1440,
+        "height": 312.1875
+      },
+      "form": {
+        "x": 465.59375,
+        "y": 3989.40625,
+        "width": 508.8125,
+        "height": 45.6875
+      },
+      "grid": {
+        "x": 76.5625,
+        "y": 4096.859375,
+        "width": 1286.859375,
+        "height": 243.890625
+      },
+      "copyright": {
+        "x": 76.5625,
+        "y": 4340.75,
+        "width": 1286.859375,
+        "height": 68.296875
+      },
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 1000,
+      "newsletter": {
+        "x": 0,
+        "y": 4038.734375,
+        "width": 1000,
+        "height": 196.390625
+      },
+      "footer": {
+        "x": 0,
+        "y": 4235.125,
+        "width": 1000,
+        "height": 217.03125
+      },
+      "form": {
+        "x": 323.328125,
+        "y": 4160.484375,
+        "width": 353.34375,
+        "height": 31.71875
+      },
+      "grid": {
+        "x": 53.171875,
+        "y": 4235.125,
+        "width": 893.640625,
+        "height": 169.3125
+      },
+      "copyright": {
+        "x": 53.171875,
+        "y": 4404.4375,
+        "width": 893.640625,
+        "height": 47.71875
+      },
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 768,
+      "newsletter": {
+        "x": 0,
+        "y": 3856.390625,
+        "width": 768,
+        "height": 263.59375
+      },
+      "footer": {
+        "x": 0,
+        "y": 4119.984375,
+        "width": 768,
+        "height": 451
+      },
+      "form": {
+        "x": 84,
+        "y": 4017.984375,
+        "width": 600,
+        "height": 50
+      },
+      "grid": {
+        "x": 24,
+        "y": 4119.984375,
+        "width": 720,
+        "height": 382
+      },
+      "copyright": {
+        "x": 24,
+        "y": 4501.984375,
+        "width": 720,
+        "height": 69
+      },
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 390,
+      "newsletter": {
+        "x": 0,
+        "y": 5165.421875,
+        "width": 390,
+        "height": 235.875
+      },
+      "footer": {
+        "x": 0,
+        "y": 5401.296875,
+        "width": 390,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 5309.296875,
+        "width": 350,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 5401.296875,
+        "width": 350,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 5989.796875,
+        "width": 350,
+        "height": 113
+      },
+      "errors": []
+    },
+    {
+      "route": "index.html",
+      "width": 319,
+      "newsletter": {
+        "x": 0,
+        "y": 4947.4375,
+        "width": 319,
+        "height": 269
+      },
+      "footer": {
+        "x": 0,
+        "y": 5216.4375,
+        "width": 319,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 5124.4375,
+        "width": 279,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 5216.4375,
+        "width": 279,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 5804.9375,
+        "width": 279,
+        "height": 113
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 2332,
+      "newsletter": {
+        "x": 0,
+        "y": 5784.296875,
+        "width": 2332,
+        "height": 458
+      },
+      "footer": {
+        "x": 0,
+        "y": 6242.296875,
+        "width": 2332,
+        "height": 506
+      },
+      "form": {
+        "x": 754,
+        "y": 6068.296875,
+        "width": 824,
+        "height": 74
+      },
+      "grid": {
+        "x": 124,
+        "y": 6242.296875,
+        "width": 2084,
+        "height": 395
+      },
+      "copyright": {
+        "x": 124,
+        "y": 6637.296875,
+        "width": 2084,
+        "height": 111
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 1440,
+      "newsletter": {
+        "x": 0,
+        "y": 3571.765625,
+        "width": 1440,
+        "height": 282.8125
+      },
+      "footer": {
+        "x": 0,
+        "y": 3854.578125,
+        "width": 1440,
+        "height": 312.1875
+      },
+      "form": {
+        "x": 465.59375,
+        "y": 3747.125,
+        "width": 508.8125,
+        "height": 45.6875
+      },
+      "grid": {
+        "x": 76.5625,
+        "y": 3854.578125,
+        "width": 1286.859375,
+        "height": 243.890625
+      },
+      "copyright": {
+        "x": 76.5625,
+        "y": 4098.46875,
+        "width": 1286.859375,
+        "height": 68.296875
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 1000,
+      "newsletter": {
+        "x": 0,
+        "y": 2480.390625,
+        "width": 1000,
+        "height": 196.390625
+      },
+      "footer": {
+        "x": 0,
+        "y": 2676.78125,
+        "width": 1000,
+        "height": 217.03125
+      },
+      "form": {
+        "x": 323.328125,
+        "y": 2602.140625,
+        "width": 353.34375,
+        "height": 31.71875
+      },
+      "grid": {
+        "x": 53.171875,
+        "y": 2676.78125,
+        "width": 893.640625,
+        "height": 169.3125
+      },
+      "copyright": {
+        "x": 53.171875,
+        "y": 2846.09375,
+        "width": 893.640625,
+        "height": 47.71875
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 768,
+      "newsletter": {
+        "x": 0,
+        "y": 5281.25,
+        "width": 768,
+        "height": 263.59375
+      },
+      "footer": {
+        "x": 0,
+        "y": 5544.84375,
+        "width": 768,
+        "height": 451
+      },
+      "form": {
+        "x": 84,
+        "y": 5442.84375,
+        "width": 600,
+        "height": 50
+      },
+      "grid": {
+        "x": 24,
+        "y": 5544.84375,
+        "width": 720,
+        "height": 382
+      },
+      "copyright": {
+        "x": 24,
+        "y": 5926.84375,
+        "width": 720,
+        "height": 69
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 390,
+      "newsletter": {
+        "x": 0,
+        "y": 4471.1875,
+        "width": 390,
+        "height": 235.875
+      },
+      "footer": {
+        "x": 0,
+        "y": 4707.0625,
+        "width": 390,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 4615.0625,
+        "width": 350,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 4707.0625,
+        "width": 350,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 5295.5625,
+        "width": 350,
+        "height": 113
+      },
+      "errors": []
+    },
+    {
+      "route": "nos-parfums.html",
+      "width": 319,
+      "newsletter": {
+        "x": 0,
+        "y": 4342.90625,
+        "width": 319,
+        "height": 269
+      },
+      "footer": {
+        "x": 0,
+        "y": 4611.90625,
+        "width": 319,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 4519.90625,
+        "width": 279,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 4611.90625,
+        "width": 279,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 5200.40625,
+        "width": 279,
+        "height": 113
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 2332,
+      "newsletter": {
+        "x": 0,
+        "y": 5384.734375,
+        "width": 2332,
+        "height": 458
+      },
+      "footer": {
+        "x": 0,
+        "y": 5842.734375,
+        "width": 2332,
+        "height": 506
+      },
+      "form": {
+        "x": 754,
+        "y": 5668.734375,
+        "width": 824,
+        "height": 74
+      },
+      "grid": {
+        "x": 124,
+        "y": 5842.734375,
+        "width": 2084,
+        "height": 395
+      },
+      "copyright": {
+        "x": 124,
+        "y": 6237.734375,
+        "width": 2084,
+        "height": 111
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 1440,
+      "newsletter": {
+        "x": 0,
+        "y": 3325.03125,
+        "width": 1440,
+        "height": 282.8125
+      },
+      "footer": {
+        "x": 0,
+        "y": 3607.84375,
+        "width": 1440,
+        "height": 312.1875
+      },
+      "form": {
+        "x": 465.59375,
+        "y": 3500.390625,
+        "width": 508.8125,
+        "height": 45.6875
+      },
+      "grid": {
+        "x": 76.5625,
+        "y": 3607.84375,
+        "width": 1286.859375,
+        "height": 243.890625
+      },
+      "copyright": {
+        "x": 76.5625,
+        "y": 3851.734375,
+        "width": 1286.859375,
+        "height": 68.296875
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 1000,
+      "newsletter": {
+        "x": 0,
+        "y": 2309.03125,
+        "width": 1000,
+        "height": 196.390625
+      },
+      "footer": {
+        "x": 0,
+        "y": 2505.421875,
+        "width": 1000,
+        "height": 217.03125
+      },
+      "form": {
+        "x": 323.328125,
+        "y": 2430.78125,
+        "width": 353.34375,
+        "height": 31.71875
+      },
+      "grid": {
+        "x": 53.171875,
+        "y": 2505.421875,
+        "width": 893.640625,
+        "height": 169.3125
+      },
+      "copyright": {
+        "x": 53.171875,
+        "y": 2674.734375,
+        "width": 893.640625,
+        "height": 47.71875
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 768,
+      "newsletter": {
+        "x": 0,
+        "y": 4305,
+        "width": 768,
+        "height": 263.59375
+      },
+      "footer": {
+        "x": 0,
+        "y": 4568.59375,
+        "width": 768,
+        "height": 451
+      },
+      "form": {
+        "x": 84,
+        "y": 4466.59375,
+        "width": 600,
+        "height": 50
+      },
+      "grid": {
+        "x": 24,
+        "y": 4568.59375,
+        "width": 720,
+        "height": 382
+      },
+      "copyright": {
+        "x": 24,
+        "y": 4950.59375,
+        "width": 720,
+        "height": 69
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 390,
+      "newsletter": {
+        "x": 0,
+        "y": 3762.234375,
+        "width": 390,
+        "height": 235.875
+      },
+      "footer": {
+        "x": 0,
+        "y": 3998.109375,
+        "width": 390,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 3906.109375,
+        "width": 350,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 3998.109375,
+        "width": 350,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 4586.609375,
+        "width": 350,
+        "height": 113
+      },
+      "errors": []
+    },
+    {
+      "route": "la-maison.html",
+      "width": 319,
+      "newsletter": {
+        "x": 0,
+        "y": 3724.25,
+        "width": 319,
+        "height": 269
+      },
+      "footer": {
+        "x": 0,
+        "y": 3993.25,
+        "width": 319,
+        "height": 701.5
+      },
+      "form": {
+        "x": 20,
+        "y": 3901.25,
+        "width": 279,
+        "height": 50
+      },
+      "grid": {
+        "x": 20,
+        "y": 3993.25,
+        "width": 279,
+        "height": 588.5
+      },
+      "copyright": {
+        "x": 20,
+        "y": 4581.75,
+        "width": 279,
+        "height": 113
+      },
+      "errors": []
+    }
+  ],
+  "dialogs": "passed",
+  "links": "passed",
+  "newsletter": "local only; no request",
+  "motion": "passed"
+}

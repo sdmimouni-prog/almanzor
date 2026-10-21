@@ -1,0 +1,142 @@
+/* Source coordinate system: 1536 × 1024. */
+.signature.reference-signature {position:relative;width:100%;height:32.55208333vw;min-height:0;overflow:hidden;background:#322a1c;margin:0;padding:0;}
+.reference-signature .signature-image {position:absolute;inset:0;width:100%;height:100%;object-fit:fill;object-position:center;filter:none;}
+.reference-signature .signature-copy {position:absolute;inset:0;display:block;padding:0;margin:0;text-align:left;color:#f5f0e5;}
+.reference-signature .signature-copy > * {position:absolute;left:8.59375000vw;margin:0;}
+.reference-signature .signature-logo {top:8.00781250vw;width:9.57031250vw;height:6.38020833vw;object-fit:contain;}
+.reference-signature h2 {top:15.03906250vw;font:400 3.58072917vw/3.51562500vw Georgia,"Times New Roman",serif;letter-spacing:-.0.32552083vw;-webkit-font-smoothing:antialiased;-webkit-text-stroke:.0.19531250vw #322a1c;}
+.reference-signature .signature-rule {top:23.56770833vw;width:4.94791667vw;height:0.13020833vw;background:#e5b867;}
+.reference-signature .signature-copy .button {top:25.52083333vw;width:24.08854167vw;height:3.25520833vw;min-height:0;padding:0;display:flex;align-items:center;justify-content:center;gap:1.17187500vw;background:#e2b570;border:0;border-radius:0;color:#151912;font:500 0.84635417vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.09114583vw;}
+.reference-signature .button img {width:1.56250000vw;height:1.56250000vw;}
+.reference-signature .signature-copy .button:hover {background:#efc584;transform:none;}
+.reassurance.reference-reassurance {position:relative;width:100%;max-width:none;height:11.78385417vw;min-height:0;display:grid;grid-template-columns:411fr 356fr 372fr 397fr;margin:0;padding:2.14843750vw 0 0;background:#f8f5ef url("assets/signature-services-ivory.webp") center / 100% 100% no-repeat;text-align:center;}
+.reference-reassurance .service-item {position:relative;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:0.52083333vw;padding:0;border:0;}
+.reference-reassurance .service-item:first-child {padding-left:4.16666667vw;}
+.reference-reassurance .service-item:last-child {padding-right:4.42708333vw;}
+.reference-reassurance .service-item:not(:last-child)::after {position:absolute;content:"";top:0;right:0;width:0.06510417vw;height:7.42187500vw;background:#ba9b76;}
+.reference-reassurance .service-item img {height:3.90625000vw;width:auto;max-width:none;object-fit:contain;filter:none;}
+.reference-reassurance .service-item p {margin:0;padding:0;color:#121515;font:400 1.23697917vw/1.56250000vw Arial,Helvetica,sans-serif;letter-spacing:0;-webkit-font-smoothing:antialiased;}
+.instagram.reference-instagram {position:relative;width:100%;height:22.33072917vw;margin:0;padding:0;background:#fcfaf6 url("assets/signature-inspiration-ivory.webp") center / 100% 100% no-repeat;}
+.reference-instagram .section-heading {position:absolute;inset:0;padding:0;text-align:center;}
+.reference-instagram .section-heading .eyebrow {position:absolute;top:1.30208333vw;left:0;width:100%;margin:0;padding-left:0.32552083vw;color:#8f6237;font:400 0.78125000vw/1.30208333vw Arial,Helvetica,sans-serif;letter-spacing:0.32552083vw;-webkit-font-smoothing:antialiased;}
+.reference-instagram .section-heading h2 {position:absolute;top:2.73437500vw;left:0;width:100%;margin:0;color:#080e10;font:400 2.34375000vw/2.92968750vw Georgia,"Times New Roman",serif;letter-spacing:-.0.32552083vw;-webkit-font-smoothing:antialiased;}
+.reference-instagram .instagram-subtitle {position:absolute;top:5.59895833vw;left:0;width:100%;margin:0;color:#161b1e;font:400 1.10677083vw/1.49739583vw Arial,Helvetica,sans-serif;letter-spacing:-.0.13020833vw;-webkit-font-smoothing:antialiased;}
+.reference-instagram .instagram-subtitle a {color:#995806;font-weight:500;}
+.reference-instagram .instagram-subtitle a:hover {text-decoration:underline;text-underline-offset:0.19531250vw;}
+.reference-instagram .instagram-grid {position:absolute;top:7.61718750vw;left:1.82291667vw;width:96.41927083vw;height:12.89062500vw;display:grid;grid-template-columns:238fr 242fr 245fr 244fr 243fr 239fr;gap:0.39062500vw;margin:0;padding:0;}
+.reference-instagram .instagram-grid > a {display:block;width:100%;height:12.89062500vw;overflow:hidden;}
+.reference-instagram .instagram-grid img {display:block;width:100%;height:100%;object-fit:fill;object-position:center;}
+.reference-instagram .instagram-grid a:hover img {filter:brightness(1.08);}
+
+@media (min-width:768px) and (max-width:1199px) {
+ .signature.reference-signature {height:440px;}
+ .reference-signature .signature-image {object-fit:cover;object-position:60% center;}
+ .reference-signature .signature-copy > * {left:6%;}
+ .reference-signature .signature-logo {top:70px;width:135px;height:90px;}
+ .reference-signature h2 {top:176px;font-size:43px;line-height:45px;letter-spacing:-.5px;}
+ .reference-signature .signature-rule {top:288px;width:65px;height:2px;}
+ .reference-signature .signature-copy .button {top:318px;width:330px;height:50px;font-size:12px;letter-spacing:1.1px;gap:16px;}
+ .reference-signature .button img {width:22px;height:22px;}
+ .reassurance.reference-reassurance {height:160px;padding-top:24px;}
+ .reference-reassurance .service-item {gap:12px;}
+ .reference-reassurance .service-item:first-child {padding-left:18px;}
+ .reference-reassurance .service-item:last-child {padding-right:18px;}
+ .reference-reassurance .service-item img {height:50px;}
+ .reference-reassurance .service-item p {font-size:14px;line-height:20px;}
+ .reference-reassurance .service-item:not(:last-child)::after {height:110px;width:1px;}
+ .instagram.reference-instagram {height:auto;min-height:0;padding:0 20px 24px;background:#fcfaf6;}
+ .reference-instagram .section-heading {position:relative;inset:auto;padding:22px 0 18px;}
+ .reference-instagram .section-heading .eyebrow {position:static;font-size:11px;line-height:20px;letter-spacing:4px;padding-left:4px;}
+ .reference-instagram .section-heading h2 {position:static;font-size:34px;line-height:43px;letter-spacing:-.5px;}
+ .reference-instagram .instagram-subtitle {position:static;font-size:15px;line-height:23px;letter-spacing:-.2px;}
+ .reference-instagram .instagram-grid {position:static;width:100%;height:auto;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;}
+ .reference-instagram .instagram-grid > a {height:auto;aspect-ratio:242/198;}
+}
+@media (max-width:767px) {
+ .signature.reference-signature {height:490px;}
+ .reference-signature .signature-image {object-fit:cover;object-position:45% center;}
+ .reference-signature .signature-copy > * {left:24px;}
+ .reference-signature .signature-logo {top:78px;width:130px;height:86px;}
+ .reference-signature h2 {top:191px;font-size:clamp(32px,8.5vw,42px);line-height:1.07;letter-spacing:-.6px;-webkit-text-stroke:0;}
+ .reference-signature .signature-rule {top:292px;width:60px;height:2px;}
+ .reference-signature .signature-copy .button {top:326px;width:calc(100% - 48px);max-width:370px;height:50px;font-size:11px;letter-spacing:.8px;gap:15px;}
+ .reference-signature .button img {width:20px;height:20px;}
+ .reassurance.reference-reassurance {height:auto;min-height:0;grid-template-columns:repeat(2,minmax(0,1fr));padding:18px 12px;background:#f8f5ef;}
+ .reference-reassurance .service-item, .reference-reassurance .service-item:first-child, .reference-reassurance .service-item:last-child {height:137px;padding:12px 0 0;gap:10px;border:0;}
+ .reference-reassurance .service-item img {height:50px;}
+ .reference-reassurance .service-item p {font-size:13px;line-height:19px;}
+ .reference-reassurance .service-item:not(:last-child)::after {display:none;}
+ .reference-reassurance .service-item:nth-child(odd)::after {display:block;top:12px;height:108px;width:1px;}
+ .instagram.reference-instagram {height:auto;min-height:0;padding:0 12px 24px;background:#fcfaf6;}
+ .reference-instagram .section-heading {position:relative;inset:auto;padding:25px 0 21px;}
+ .reference-instagram .section-heading .eyebrow {position:static;font-size:10px;line-height:19px;letter-spacing:4px;padding-left:4px;}
+ .reference-instagram .section-heading h2 {position:static;font-size:31px;line-height:41px;letter-spacing:-.7px;}
+ .reference-instagram .instagram-subtitle {position:static;font-size:13px;line-height:20px;letter-spacing:0;max-width:340px;margin:2px auto 0;}
+ .reference-instagram .instagram-subtitle a {display:inline-block;}
+ .reference-instagram .instagram-grid {position:static;width:100%;height:auto;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px;}
+ .reference-instagram .instagram-grid > a {height:auto;aspect-ratio:242/198;}
+}
+/* Optical corrections after the 1536 × 1024 comparison. */
+@media (min-width:1200px) {
+ .reference-signature h2 {top:15.29947917vw;font-size:3.61328125vw;letter-spacing:-.02278646vw;}
+ .reference-signature .button img {transform:scaleY(.6);}
+ .reference-reassurance .service-item {gap:.45572917vw;}
+ .reference-reassurance .service-item p {font-family:Inter,Arial,sans-serif;-webkit-text-stroke:.00651042vw #f8f5ef;}
+ .reference-instagram .section-heading h2 {top:2.5390625vw;font-size:2.27864583vw;}
+}
+@media (max-width:1199px) {
+ .reference-signature .signature-image {object-position:left center;}
+}
+
+/* Entrance and hover effects for the signature, services and inspiration. */
+@media (prefers-reduced-motion:no-preference) {
+ :is(.heritage-signature,.reference-reassurance,.reference-instagram) .story-reveal {
+  transition:opacity 750ms cubic-bezier(.22,1,.36,1) var(--story-delay,0ms),
+   translate 750ms cubic-bezier(.22,1,.36,1) var(--story-delay,0ms),
+   background-color 300ms ease,box-shadow 300ms ease;
+ }
+ :is(.heritage-signature,.reference-reassurance,.reference-instagram) .story-reveal.is-reveal-pending {opacity:0;translate:0 18px;}
+ .heritage-signature .signature-copy > :nth-child(2) {--story-delay:100ms;}
+ .heritage-signature .signature-copy > :nth-child(3) {--story-delay:200ms;}
+ .reference-reassurance .service-item:nth-child(2) {--story-delay:90ms;}
+ .reference-reassurance .service-item:nth-child(3) {--story-delay:180ms;}
+ .reference-reassurance .service-item:nth-child(4) {--story-delay:270ms;}
+ .reference-instagram .section-heading > :nth-child(2) {--story-delay:70ms;}
+ .reference-instagram .section-heading > :nth-child(3) {--story-delay:140ms;}
+ .reference-instagram .instagram-grid > :nth-child(2) {--story-delay:70ms;}
+ .reference-instagram .instagram-grid > :nth-child(3) {--story-delay:140ms;}
+ .reference-instagram .instagram-grid > :nth-child(4) {--story-delay:210ms;}
+ .reference-instagram .instagram-grid > :nth-child(5) {--story-delay:280ms;}
+ .reference-instagram .instagram-grid > :nth-child(6) {--story-delay:350ms;}
+ .heritage-signature .signature-image {transition:scale 1200ms cubic-bezier(.22,1,.36,1);}
+ .heritage-signature .button img {transition:translate 300ms ease;}
+ .reference-reassurance .service-item img {transition:transform 550ms cubic-bezier(.22,1,.36,1);}
+ .reference-reassurance .service-item p {transition:color 300ms ease;}
+ .reference-instagram .instagram-grid img {transition:transform 700ms cubic-bezier(.22,1,.36,1),filter 400ms ease;}
+ .reference-instagram .instagram-grid a:focus-visible img {transform:scale(1.045);}
+ .heritage-signature:has(:focus-visible) .signature-image {scale:1.018;}
+ .heritage-signature .button:focus-visible img {translate:4px 0;}
+}
+.reference-instagram .instagram-grid a:focus-visible img {filter:brightness(1.06);}
+.heritage-signature .signature-copy .button:focus-visible {background:#f1c98b;box-shadow:0 5px 24px #170e0740;}
+@media (hover:hover) and (pointer:fine) {
+ .reference-reassurance .service-item:hover p {color:#995f1f;}
+ .heritage-signature .signature-copy .button:hover {box-shadow:0 5px 24px #170e0740;}
+}
+@media (hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference) {
+ .heritage-signature:hover .signature-image {scale:1.018;}
+ .heritage-signature .button:hover img {translate:4px 0;}
+ .reference-reassurance .service-item:hover img {transform:translateY(-4px) scale(1.06);}
+ .reference-instagram .instagram-grid a:hover img {transform:scale(1.045);}
+}
+@media (min-width:768px) and (max-width:1199px) {
+ .reference-instagram .instagram-grid > :nth-child(3n+1) {--story-delay:0ms;}
+ .reference-instagram .instagram-grid > :nth-child(3n+2) {--story-delay:70ms;}
+ .reference-instagram .instagram-grid > :nth-child(3n) {--story-delay:140ms;}
+}
+@media (max-width:767px) {
+ .reference-reassurance .service-item:nth-child(odd),
+ .reference-instagram .instagram-grid > :nth-child(odd) {--story-delay:0ms;}
+ .reference-reassurance .service-item:nth-child(even),
+ .reference-instagram .instagram-grid > :nth-child(even) {--story-delay:90ms;}
+}

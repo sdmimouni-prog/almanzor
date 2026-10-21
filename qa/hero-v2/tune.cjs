@@ -1,0 +1,4 @@
+const{chromium}=require('/Users/salaheddinemimouni/Library/Caches/ms-playwright-go/1.57.0/package');
+(async()=>{const b=await chromium.launch({headless:true,executablePath:'/Users/salaheddinemimouni/Library/Caches/ms-playwright/chromium_headless_shell-1243/chrome-headless-shell-mac-arm64/chrome-headless-shell'});const p=await b.newPage({viewport:{width:1672,height:941}});await p.goto('http://127.0.0.1:4173',{waitUntil:'networkidle'});await p.addStyleTag({content:'@font-face{font-family:Roboto;src:url("assets/roboto.ttf")}.reference-hero h1{font-family:Georgia,serif;font-size:74px;line-height:74px;letter-spacing:0;transform:translateY(9px)}'});await p.evaluate(()=>document.fonts.ready);
+for(const stroke of [0.8,1.2,1.5]){await p.addStyleTag({content:`.reference-hero h1{-webkit-text-stroke:${stroke}px #102015}`});await p.screenshot({path:__dirname+`/stroke-${stroke}.png`,clip:{x:225,y:240,width:555,height:250}})}
+await b.close()})()

@@ -1,0 +1,156 @@
+/* Reference artboard: 1536 × 1024. Scoped to the two collection blocks. */
+.selection.reference-selection {position:relative;width:100%;max-width:none;height:37.69531250vw;margin:0;padding:0;background:#f7f3eb url("assets/collection-ivory.webp") center / 100% 100% no-repeat;overflow:hidden;}
+.reference-selection .section-heading {position:absolute;inset:0;padding:0;pointer-events:none;text-align:center;}
+.reference-selection .section-heading .eyebrow {position:absolute;top:2.14843750vw;left:0;width:100%;margin:0;color:#303431;font:400 0.91145833vw/1.30208333vw Arial,Helvetica,sans-serif;letter-spacing:0.39062500vw;padding-left:0.39062500vw;}
+.reference-selection .section-heading h2 {position:absolute;top:3.51562500vw;left:0;width:100%;margin:0;color:#071419;font:400 2.99479167vw/3.58072917vw Georgia,"Times New Roman",serif;letter-spacing:-0.06510417vw;-webkit-font-smoothing:antialiased;-webkit-text-stroke:0.01627604vw #f7f3eb;}
+.reference-selection .section-heading .gold-rule {position:absolute;top:7.81250000vw;left:47.52604167vw;width:4.88281250vw;height:0.13020833vw;margin:0;background:#b78643;}
+.reference-selection .product-grid {position:absolute;top:8.46354167vw;left:8.46354167vw;width:83.07291667vw;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0;margin:0;}
+.reference-selection .product {position:relative;height:26.88802083vw;margin:0;padding:0;text-align:center;}
+.reference-selection .product-image {position:absolute;top:0;left:0;width:100%;height:19.98697917vw;display:block;margin:0;padding:0;overflow:hidden;background:transparent;mix-blend-mode:normal;}
+.reference-selection .product-image img {width:100%;height:100%;display:block;object-fit:fill;mix-blend-mode:normal;transition:none;}
+.reference-selection .product-image:hover img {transform:none;}
+.reference-selection .product h3 {position:absolute;top:20.11718750vw;left:0;width:100%;margin:0;color:#080f11;font:700 1.23697917vw/1.62760417vw Georgia,"Times New Roman",serif;letter-spacing:0;}
+.reference-selection .product-concentration {position:absolute;top:22.00520833vw;left:0;width:100%;margin:0;color:#777674;font:400 0.97656250vw/1.43229167vw Arial,Helvetica,sans-serif;letter-spacing:0.03255208vw;}
+.reference-selection .product .button {position:absolute;top:24.15364583vw;left:3.32031250vw;width:14.19270833vw;height:2.79947917vw;min-height:0;display:flex;align-items:center;justify-content:center;gap:1.30208333vw;margin:0;padding:0;border:0.06510417vw solid #bc8649;border-radius:0;background:transparent;color:#a96718;font:500 0.91145833vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.09114583vw;}
+.reference-selection .product .button img {width:1.56250000vw;height:1.56250000vw;}
+.reference-selection .product .button:hover {background:#b78643;color:#fff;}
+.reference-selection .product .button:hover img {filter:brightness(0) invert(1);}
+.reference-selection .collection-arrow {position:absolute;top:19.14062500vw;width:2.86458333vw;height:3.12500000vw;padding:0;display:flex;justify-content:center;align-items:center;border:0;background:transparent;z-index:1;}
+.reference-selection .collection-prev {left:4.81770833vw;}
+.reference-selection .collection-next {right:4.81770833vw;}
+.reference-selection .collection-arrow img {width:1.56250000vw;height:2.08333333vw;object-fit:fill;}
+.reference-selection .collection-arrow:hover {background:#ece3d5;}
+.craft.reference-craft {position:relative;display:grid;grid-template-columns:819fr 717fr;width:100%;height:28.97135417vw;min-height:0;margin:0;padding:0;background:#f7f3eb;}
+.reference-craft .craft-image {height:100%;width:100%;overflow:hidden;}
+.reference-craft .craft-image img {display:block;width:100%;height:100%;object-fit:fill;object-position:center;}
+.reference-craft .craft-copy {position:relative;width:100%;height:100%;align-self:stretch;margin:0;padding:0;background:#f7f3eb url("assets/collection-craft-ivory.webp") center / 100% 100% no-repeat;color:#071419;}
+.reference-craft .craft-copy > * {position:absolute;left:5.46875000vw;margin:0;}
+.reference-craft .eyebrow {top:3.19010417vw;width:auto;max-width:none;color:#a76b2f;font:400 0.91145833vw/1.30208333vw Arial,Helvetica,sans-serif;letter-spacing:0.26041667vw;white-space:nowrap;}
+.reference-craft h2 {top:5.27343750vw;font:400 3.25520833vw/3.51562500vw Georgia,"Times New Roman",serif;letter-spacing:-0.06510417vw;-webkit-font-smoothing:antialiased;-webkit-text-stroke:0.01627604vw #f7f3eb;}
+.reference-craft .craft-copy .gold-rule {top:13.60677083vw;width:3.97135417vw;height:0.13020833vw;margin:0;background:#b78643;}
+.reference-craft .craft-copy > .craft-description {top:14.97395833vw;width:30.92447917vw;max-width:none;margin:0;color:#172126;font:400 1.23697917vw/1.69270833vw Arial,Helvetica,sans-serif;letter-spacing:-0.00651042vw;}
+.reference-craft .craft-description span {display:block;}
+.reference-craft .craft-copy .craft-button {top:21.67968750vw;width:24.34895833vw;height:3.12500000vw;min-height:0;padding:0;display:flex;align-items:center;justify-content:center;gap:1.23697917vw;border:0;border-radius:0;background:#b8894b;color:#fff9ed;font:400 0.84635417vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.08789063vw;}
+.reference-craft .craft-button img {width:1.56250000vw;height:1.56250000vw;filter:brightness(0) invert(1);}
+.reference-craft .craft-copy .craft-button:hover {background:#94652f;}
+
+@media (max-width:1199px) {
+ .selection.reference-selection {height:auto;min-height:0;padding:30px 42px 35px;background-size:cover;}
+ .reference-selection .section-heading {position:relative;inset:auto;padding:0 0 20px;}
+ .reference-selection .section-heading .eyebrow {position:static;font-size:11px;line-height:18px;letter-spacing:4px;padding-left:4px;}
+ .reference-selection .section-heading h2 {position:static;font-size:38px;line-height:48px;letter-spacing:-.5px;-webkit-text-stroke:0;}
+ .reference-selection .section-heading .gold-rule {position:static;display:block;width:60px;height:2px;margin:10px auto 0;}
+ .reference-selection .product-grid {position:relative;inset:auto;width:100%;}
+ .reference-selection .product {height:auto;display:flex;flex-direction:column;align-items:center;}
+ .reference-selection .product-image {position:relative;inset:auto;height:auto;aspect-ratio:319/307;}
+ .reference-selection .product h3 {position:static;font-size:15px;line-height:22px;min-height:22px;margin:2px 0 3px;}
+ .reference-selection .product-concentration {position:static;font-size:12px;line-height:20px;letter-spacing:.3px;}
+ .reference-selection .product .button {position:static;width:90%;height:44px;margin-top:12px;font-size:11px;letter-spacing:1px;border-width:1px;gap:10px;}
+ .reference-selection .product .button img {width:20px;height:20px;}
+ .reference-selection .collection-arrow {top:50%;width:36px;height:44px;}
+ .reference-selection .collection-prev {left:4px;}
+ .reference-selection .collection-next {right:4px;}
+ .reference-selection .collection-arrow img {width:18px;height:26px;}
+ .craft.reference-craft {height:370px;grid-template-columns:1fr 1fr;}
+ .reference-craft .craft-image img {object-fit:cover;}
+ .reference-craft .craft-copy {padding:32px;background-size:cover;}
+ .reference-craft .craft-copy > * {position:static;}
+ .reference-craft .eyebrow {font-size:10px;line-height:18px;letter-spacing:2px;white-space:normal;}
+ .reference-craft h2 {font-size:32px;line-height:35px;letter-spacing:-.5px;margin:12px 0 0;-webkit-text-stroke:0;}
+ .reference-craft .craft-copy .gold-rule {display:block;width:48px;height:2px;margin:18px 0;}
+ .reference-craft .craft-copy > .craft-description {width:auto;font-size:14px;line-height:21px;letter-spacing:0;}
+ .reference-craft .craft-description span {display:inline;}
+ .reference-craft .craft-copy .craft-button {width:100%;max-width:374px;height:46px;margin:22px 0 0;font-size:10px;letter-spacing:.8px;gap:12px;}
+ .reference-craft .craft-button img {width:20px;height:20px;}
+}
+@media (max-width:767px) {
+ .selection.reference-selection {padding:30px 16px 32px;background:#f7f3eb;}
+ .reference-selection .section-heading {padding-bottom:19px;}
+ .reference-selection .section-heading .eyebrow {font-size:10px;letter-spacing:3px;padding-left:3px;}
+ .reference-selection .section-heading h2 {font-size:34px;line-height:43px;}
+ .reference-selection .product-grid {grid-template-columns:repeat(2,minmax(0,1fr));gap:26px 0;}
+ .reference-selection .product h3 {font-size:clamp(12px,3.7vw,15px);line-height:22px;}
+ .reference-selection .product-concentration {font-size:12px;}
+ .reference-selection .product .button {width:calc(100% - 12px);font-size:10px;letter-spacing:.7px;gap:10px;}
+ .reference-selection .collection-arrow {top:202px;width:30px;height:44px;}
+ .reference-selection .collection-prev {left:0;}
+ .reference-selection .collection-next {right:0;}
+ .reference-selection .collection-arrow img {width:14px;height:23px;}
+ .craft.reference-craft {height:auto;display:flex;flex-direction:column;}
+ .reference-craft .craft-image {height:auto;aspect-ratio:819/445;}
+ .reference-craft .craft-copy {height:auto;padding:34px 24px 38px;background-size:cover;}
+ .reference-craft .eyebrow {font-size:10px;letter-spacing:2.3px;}
+ .reference-craft h2 {font-size:clamp(31px,8.7vw,40px);line-height:1.1;margin-top:14px;}
+ .reference-craft .craft-copy .gold-rule {margin:20px 0;}
+ .reference-craft .craft-copy > .craft-description {font-size:15px;line-height:23px;max-width:450px;}
+ .reference-craft .craft-copy .craft-button {font-size:10px;letter-spacing:.7px;margin-top:24px;height:48px;gap:12px;}
+}
+
+@media (min-width:1200px) {.reference-selection .collection-arrow img {transform:scaleY(2.15);}}
+
+/* Optical refinements from the same-size reference comparison. */
+.reference-selection, .reference-craft {-webkit-font-smoothing:antialiased;}
+@media (min-width:1200px) {
+ .reference-selection .section-heading h2 {font-size:2.86458333vw;top:3.64583333vw;}
+ .reference-selection .section-heading .eyebrow {font-weight:400;-webkit-text-stroke:.01302083vw #f7f3eb;}
+ .reference-selection .product h3 {font-family:"Times New Roman",serif;font-weight:700;top:20.1171875vw;}
+ .reference-selection .product-concentration {font-family:Inter,Arial,sans-serif;font-weight:400;-webkit-text-stroke:.01302083vw #f7f3eb;}
+ .reference-selection .product .button {font-weight:500;-webkit-text-stroke:.00651042vw #f7f3eb;}
+ .reference-selection .product .button img {width:1.30208333vw;height:1.30208333vw;}
+ .reference-craft .eyebrow {font-weight:400;-webkit-text-stroke:.00976563vw #f7f3eb;letter-spacing:.2734375vw;}
+ .reference-craft h2 {font-size:3.3203125vw;top:5.40364583vw;line-height:3.515625vw;}
+ .reference-craft .craft-copy > .craft-description {font-family:Inter,Arial,sans-serif;font-size:1.23697917vw;letter-spacing:-.02604167vw;-webkit-text-stroke:.01627604vw #f7f3eb;}
+ .reference-craft .craft-copy .craft-button {font-weight:400;-webkit-text-stroke:.00651042vw #b8894b;}
+ .reference-craft .craft-button img {width:1.30208333vw;height:1.30208333vw;}
+ .reference-selection .collection-arrow img {transform:scaleX(1.5) scaleY(2.15);}
+}
+/* Reflowed copy uses a plain paper base; desktop photo cutouts retain their own texture. */
+@media (min-width:768px) and (max-width:1199px) {
+ .selection.reference-selection {background:#f7f3eb;}
+}
+
+/* One entrance per visit; the resting composition stays identical to the reference. */
+@media (prefers-reduced-motion:no-preference) {
+ .reference-selection .collection-reveal {
+  transition:opacity 750ms cubic-bezier(.22,1,.36,1),translate 750ms cubic-bezier(.22,1,.36,1);
+  transition-delay:var(--reveal-delay,0ms);
+ }
+ .reference-selection .collection-reveal.is-reveal-pending {opacity:0;translate:0 22px;}
+ .reference-selection .section-heading.is-reveal-pending {translate:0 12px;}
+ .reference-selection .product:nth-child(2) {--reveal-delay:100ms;}
+ .reference-selection .product:nth-child(3) {--reveal-delay:200ms;}
+ .reference-selection .product:nth-child(4) {--reveal-delay:300ms;}
+ .reference-selection .product-image img {
+  transform-origin:50% 75%;
+  transition:transform 650ms cubic-bezier(.22,1,.36,1);
+ }
+ .reference-selection .product h3 {transition:color 300ms ease;}
+ .reference-selection .product .button {
+  transition:background-color 300ms ease,color 300ms ease,border-color 300ms ease;
+ }
+ .reference-selection .product .button img {transition:transform 300ms ease,filter 300ms ease;}
+ .reference-selection .collection-arrow {transition:background-color 250ms ease;}
+ .reference-selection .collection-arrow img {transition:translate 250ms ease;}
+ .reference-selection .product:has(:focus-visible) .product-image img {transform:translateY(-2px) scale(1.025);}
+ .reference-selection .product:has(:focus-visible) .button img {transform:translateX(4px);}
+ .reference-selection .collection-prev:focus-visible img {translate:-3px 0;}
+ .reference-selection .collection-next:focus-visible img {translate:3px 0;}
+}
+.reference-selection .product:has(:focus-visible) h3 {color:#a96718;}
+.reference-selection .product:has(:focus-visible) .button {background:#b78643;border-color:#b78643;color:#fff;}
+.reference-selection .product:has(:focus-visible) .button img {filter:brightness(0) invert(1);}
+@media (hover:hover) and (pointer:fine) {
+ .reference-selection .product:hover h3 {color:#a96718;}
+ .reference-selection .product:hover .button {background:#b78643;border-color:#b78643;color:#fff;}
+ .reference-selection .product:hover .button img {filter:brightness(0) invert(1);}
+}
+@media (hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference) {
+ .reference-selection .product:hover .product-image img {transform:translateY(-2px) scale(1.025);}
+ .reference-selection .product:hover .button img {transform:translateX(4px);}
+ .reference-selection .collection-prev:hover img {translate:-3px 0;}
+ .reference-selection .collection-next:hover img {translate:3px 0;}
+}
+@media (max-width:767px) {
+ .reference-selection .product:nth-child(odd) {--reveal-delay:0ms;}
+ .reference-selection .product:nth-child(even) {--reveal-delay:100ms;}
+}

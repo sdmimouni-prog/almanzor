@@ -1,0 +1,100 @@
+{
+  "initial": [
+    {
+      "id": "blade",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": true
+    },
+    {
+      "id": "yaya",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": true
+    },
+    {
+      "id": "monsieur-rouge",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": true
+    },
+    {
+      "id": "black-eden",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": true
+    }
+  ],
+  "entering": [
+    {
+      "id": "blade",
+      "opacity": 0.673903,
+      "translate": "0px 7.17414px",
+      "pending": false
+    },
+    {
+      "id": "yaya",
+      "opacity": 0.280424,
+      "translate": "0px 15.8307px",
+      "pending": false
+    },
+    {
+      "id": "monsieur-rouge",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": false
+    },
+    {
+      "id": "black-eden",
+      "opacity": 0,
+      "translate": "0px 22px",
+      "pending": false
+    }
+  ],
+  "visible": [
+    {
+      "id": "blade",
+      "opacity": 1,
+      "translate": "none",
+      "pending": false
+    },
+    {
+      "id": "yaya",
+      "opacity": 1,
+      "translate": "none",
+      "pending": false
+    },
+    {
+      "id": "monsieur-rouge",
+      "opacity": 1,
+      "translate": "none",
+      "pending": false
+    },
+    {
+      "id": "black-eden",
+      "opacity": 1,
+      "translate": "none",
+      "pending": false
+    }
+  ],
+  "hover": {
+    "transform": "matrix(1.025, 0, 0, 1.025, 0, -2)",
+    "button": "rgb(183, 134, 67)",
+    "arrow": "matrix(1, 0, 0, 1, 4, 0)"
+  },
+  "keyboard": {
+    "visibleFocus": true,
+    "transform": "matrix(1.025, 0, 0, 1.025, 0, -2)"
+  },
+  "reduced": {
+    "opacity": "1",
+    "imageTransform": "none",
+    "animations": 0
+  },
+  "mobile": {
+    "viewport": 390,
+    "contentWidth": 390
+  },
+  "errors": [],
+  "result": "passed"
+}

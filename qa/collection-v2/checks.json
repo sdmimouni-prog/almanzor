@@ -1,0 +1,116 @@
+[
+  {
+    "width": 1536,
+    "scrollWidth": 1536,
+    "selection": {
+      "x": 0,
+      "y": 1632.4375,
+      "width": 1536,
+      "height": 579
+    },
+    "craft": {
+      "x": 0,
+      "y": 2211.4375,
+      "width": 1536,
+      "height": 445
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "selection": {
+      "x": 0,
+      "y": 1530.40625,
+      "width": 1440,
+      "height": 542.8125
+    },
+    "craft": {
+      "x": 0,
+      "y": 2073.21875,
+      "width": 1440,
+      "height": 417.1875
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "selection": {
+      "x": 0,
+      "y": 2161.640625,
+      "width": 390,
+      "height": 730.53125
+    },
+    "craft": {
+      "x": 0,
+      "y": 2892.171875,
+      "width": 390,
+      "height": 559.546875
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "selection": {
+      "x": 0,
+      "y": 1429.296875,
+      "width": 768,
+      "height": 430.5625
+    },
+    "craft": {
+      "x": 0,
+      "y": 1859.859375,
+      "width": 768,
+      "height": 370
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  },
+  {
+    "width": 1920,
+    "scrollWidth": 1920,
+    "selection": {
+      "x": 0,
+      "y": 2040.546875,
+      "width": 1920,
+      "height": 723.75
+    },
+    "craft": {
+      "x": 0,
+      "y": 2764.296875,
+      "width": 1920,
+      "height": 556.25
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  },
+  {
+    "width": 319,
+    "scrollWidth": 319,
+    "selection": {
+      "x": 0,
+      "y": 2125.984375,
+      "width": 319,
+      "height": 662.1875
+    },
+    "craft": {
+      "x": 0,
+      "y": 2788.171875,
+      "width": 319,
+      "height": 537.5
+    },
+    "missing": [],
+    "interactions": "passed",
+    "errors": []
+  }
+]

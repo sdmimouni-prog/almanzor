@@ -1,0 +1,28 @@
+[
+  {
+    "page": "home",
+    "same_size": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "page": "catalog",
+    "same_size": true,
+    "max_pixel_difference": 0
+  },
+  {
+    "asset": "hero",
+    "max_pixel_difference": 0
+  },
+  {
+    "asset": "inspiration",
+    "max_pixel_difference": 0
+  },
+  {
+    "asset": "materials",
+    "max_pixel_difference": 0
+  },
+  {
+    "asset": "art",
+    "max_pixel_difference": 0
+  }
+]

@@ -1,0 +1,246 @@
+{
+  "result": "passed",
+  "results": [
+    {
+      "width": 1440,
+      "height": 900,
+      "animated": [
+        "points-de-vente",
+        "inspiration",
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "newsletter",
+        "footer"
+      ],
+      "transitions": 191,
+      "dimensions": [
+        {
+          "id": "hero",
+          "height": 900
+        },
+        {
+          "id": "maison",
+          "height": 373.390625
+        },
+        {
+          "id": "univers",
+          "height": 346.59375
+        },
+        {
+          "id": "parfums",
+          "height": 542.8125
+        },
+        {
+          "id": "sillage",
+          "height": 484.6875
+        },
+        {
+          "id": "signature",
+          "height": 475.3125
+        },
+        {
+          "id": "points-de-vente",
+          "height": 169.6875
+        },
+        {
+          "id": "inspiration",
+          "height": 321.5625
+        },
+        {
+          "id": "newsletter",
+          "height": 210
+        },
+        {
+          "id": "footer",
+          "height": 293
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "animated": [
+        "parfums",
+        "points-de-vente",
+        "inspiration",
+        "hero",
+        "maison",
+        "univers",
+        "signature",
+        "sillage",
+        "newsletter",
+        "footer"
+      ],
+      "transitions": 192,
+      "dimensions": [
+        {
+          "id": "hero",
+          "height": 1024
+        },
+        {
+          "id": "maison",
+          "height": 380
+        },
+        {
+          "id": "univers",
+          "height": 379.296875
+        },
+        {
+          "id": "parfums",
+          "height": 430.5625
+        },
+        {
+          "id": "sillage",
+          "height": 410
+        },
+        {
+          "id": "signature",
+          "height": 450
+        },
+        {
+          "id": "points-de-vente",
+          "height": 160
+        },
+        {
+          "id": "inspiration",
+          "height": 546.53125
+        },
+        {
+          "id": "newsletter",
+          "height": 210
+        },
+        {
+          "id": "footer",
+          "height": 293
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "animated": [
+        "points-de-vente",
+        "inspiration",
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "newsletter",
+        "footer"
+      ],
+      "transitions": 191,
+      "dimensions": [
+        {
+          "id": "hero",
+          "height": 844
+        },
+        {
+          "id": "maison",
+          "height": 699.390625
+        },
+        {
+          "id": "univers",
+          "height": 662.25
+        },
+        {
+          "id": "parfums",
+          "height": 730.53125
+        },
+        {
+          "id": "sillage",
+          "height": 597.453125
+        },
+        {
+          "id": "signature",
+          "height": 460
+        },
+        {
+          "id": "points-de-vente",
+          "height": 310
+        },
+        {
+          "id": "inspiration",
+          "height": 605.796875
+        },
+        {
+          "id": "newsletter",
+          "height": 251.90625
+        },
+        {
+          "id": "footer",
+          "height": 613.453125
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 319,
+      "height": 568,
+      "animated": [
+        "points-de-vente",
+        "inspiration",
+        "hero",
+        "maison",
+        "univers",
+        "parfums",
+        "sillage",
+        "signature",
+        "newsletter",
+        "footer"
+      ],
+      "transitions": 191,
+      "dimensions": [
+        {
+          "id": "hero",
+          "height": 568
+        },
+        {
+          "id": "maison",
+          "height": 713.734375
+        },
+        {
+          "id": "univers",
+          "height": 612.25
+        },
+        {
+          "id": "parfums",
+          "height": 662.1875
+        },
+        {
+          "id": "sillage",
+          "height": 570.609375
+        },
+        {
+          "id": "signature",
+          "height": 460
+        },
+        {
+          "id": "points-de-vente",
+          "height": 310
+        },
+        {
+          "id": "inspiration",
+          "height": 518.65625
+        },
+        {
+          "id": "newsletter",
+          "height": 285.8125
+        },
+        {
+          "id": "footer",
+          "height": 613.453125
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "noJavaScript": "visible"
+}

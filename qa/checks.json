@@ -1,0 +1,74 @@
+[
+  {
+    "viewport": 390,
+    "width": 390,
+    "scrollWidth": 390,
+    "height": 5796,
+    "missingImages": [],
+    "sections": 9,
+    "products": [
+      "BLADE",
+      "YAYA",
+      "MONSIEUR ROUGE",
+      "BLACK EDEN"
+    ],
+    "errors": [],
+    "failed": [],
+    "interactions": "passed",
+    "newsletterPostRequests": 0
+  },
+  {
+    "viewport": 768,
+    "width": 768,
+    "scrollWidth": 768,
+    "height": 3889,
+    "missingImages": [],
+    "sections": 9,
+    "products": [
+      "BLADE",
+      "YAYA",
+      "MONSIEUR ROUGE",
+      "BLACK EDEN"
+    ],
+    "errors": [],
+    "failed": [],
+    "interactions": "passed",
+    "newsletterPostRequests": 0
+  },
+  {
+    "viewport": 1440,
+    "width": 1440,
+    "scrollWidth": 1440,
+    "height": 4040,
+    "missingImages": [],
+    "sections": 9,
+    "products": [
+      "BLADE",
+      "YAYA",
+      "MONSIEUR ROUGE",
+      "BLACK EDEN"
+    ],
+    "errors": [],
+    "failed": [],
+    "interactions": "passed",
+    "newsletterPostRequests": 0
+  },
+  {
+    "viewport": 1920,
+    "width": 1920,
+    "scrollWidth": 1920,
+    "height": 4181,
+    "missingImages": [],
+    "sections": 9,
+    "products": [
+      "BLADE",
+      "YAYA",
+      "MONSIEUR ROUGE",
+      "BLACK EDEN"
+    ],
+    "errors": [],
+    "failed": [],
+    "interactions": "passed",
+    "newsletterPostRequests": 0
+  }
+]

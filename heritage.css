@@ -1,0 +1,72 @@
+/* Luxury Perfume Heritage in Golden Light.png — 1536 × 1024. */
+.craft.reference-craft.heritage-craft {height:33.65885417vw;grid-template-columns:827fr 709fr;min-height:0;}
+.heritage-craft .craft-image img {object-fit:fill;object-position:center;}
+.heritage-craft .craft-copy {background:#f7f2e9 url("assets/heritage-craft-ivory.webp") center / 100% 100% no-repeat;}
+.heritage-craft .craft-copy > * {left:7.55208333vw;}
+.heritage-craft .eyebrow {top:4.42708333vw;font:400 0.91145833vw/1.30208333vw Arial,Helvetica,sans-serif;letter-spacing:0.26041667vw;max-width:none;width:auto;white-space:nowrap;color:#a1652b;-webkit-text-stroke:0;}
+.heritage-craft h2 {top:6.96614583vw;font:400 3.25520833vw/3.58072917vw Georgia,"Times New Roman",serif;letter-spacing:-0.06510417vw;-webkit-text-stroke:0.01627604vw #f7f2e9;}
+.heritage-craft .craft-copy .gold-rule {top:15.55989583vw;width:4.49218750vw;height:0.13020833vw;margin:0;background:#a46d2e;}
+.heritage-craft .craft-copy > .craft-description {top:17.51302083vw;width:31.64062500vw;max-width:none;font:400 1.26953125vw/1.88802083vw Inter,Arial,sans-serif;letter-spacing:-0.01953125vw;color:#383735;-webkit-text-stroke:0.00976562vw #f7f2e9;}
+.heritage-craft .craft-copy .craft-button {top:25.65104167vw;width:25.84635417vw;height:3.32031250vw;min-height:0;background:transparent;border:0.06510417vw solid #b0814a;border-radius:0;color:#9b5c1e;font:500 0.91145833vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.07812500vw;gap:1.30208333vw;-webkit-text-stroke:0;}
+.heritage-craft .craft-button img {width:1.56250000vw;height:1.56250000vw;filter:none;transform:scaleY(.75);}
+.heritage-craft .craft-copy .craft-button:hover {background:#b0814a;color:white;}
+.heritage-craft .craft-button:hover img {filter:brightness(0) invert(1);}
+.signature.reference-signature.heritage-signature {height:33.00781250vw;min-height:0;}
+.heritage-signature .signature-image {object-fit:fill;object-position:center;}
+.heritage-signature .signature-copy {text-align:center;}
+.heritage-signature .signature-copy > * {left:50%;transform:translateX(-50%);margin:0;}
+.heritage-signature .signature-logo {top:2.79947917vw;width:7.81250000vw;height:6.90104167vw;object-fit:contain;}
+.heritage-signature h2 {top:9.76562500vw;width:39.71354167vw;max-width:none;font:400 3.77604167vw/3.64583333vw Georgia,"Times New Roman",serif;letter-spacing:-0.07812500vw;color:#f8f1e4;-webkit-text-stroke:0.01953125vw #463a29;}
+.heritage-signature .signature-copy .button {top:19.98697917vw;width:26.82291667vw;height:3.64583333vw;min-height:0;background:#e7ba78;color:#131910;border:0;font:500 0.91145833vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.09114583vw;gap:1.30208333vw;}
+.heritage-signature .button img {width:1.56250000vw;height:1.56250000vw;transform:scaleY(.65);}
+.heritage-signature .signature-copy .button:hover {background:#f1c98b;transform:translateX(-50%);}
+
+@media (min-width:768px) and (max-width:1199px) {
+ .craft.reference-craft.heritage-craft {height:410px;grid-template-columns:1fr 1fr;}
+ .heritage-craft .craft-image img {object-fit:cover;}
+ .heritage-craft .craft-copy {padding:35px 30px;background-size:cover;}
+ .heritage-craft .craft-copy > * {position:static;}
+ .heritage-craft .eyebrow {font-size:10px;line-height:18px;letter-spacing:2.2px;white-space:normal;}
+ .heritage-craft h2 {font-size:32px;line-height:36px;letter-spacing:-.6px;margin-top:16px;-webkit-text-stroke:0;}
+ .heritage-craft .craft-copy .gold-rule {width:50px;height:2px;margin:22px 0;}
+ .heritage-craft .craft-copy > .craft-description {width:auto;font-size:14px;line-height:22px;letter-spacing:-.2px;-webkit-text-stroke:0;}
+ .heritage-craft .craft-copy .craft-button {width:100%;max-width:397px;height:48px;margin-top:27px;border-width:1px;font-size:10px;letter-spacing:.7px;gap:12px;}
+ .heritage-craft .craft-button img {width:22px;height:22px;}
+ .signature.reference-signature.heritage-signature {height:450px;}
+ .heritage-signature .signature-image {object-fit:cover;object-position:center;}
+ .heritage-signature .signature-logo {top:35px;width:110px;height:98px;}
+ .heritage-signature h2 {top:146px;width:560px;font-size:49px;line-height:49px;letter-spacing:-.8px;}
+ .heritage-signature .signature-copy .button {top:278px;width:380px;height:54px;font-size:12px;letter-spacing:1.2px;gap:18px;}
+ .heritage-signature .button img {width:22px;height:22px;}
+}
+@media (max-width:767px) {
+ .craft.reference-craft.heritage-craft {height:auto;display:flex;flex-direction:column;}
+ .heritage-craft .craft-image {height:auto;aspect-ratio:827/517;}
+ .heritage-craft .craft-image img {object-fit:fill;}
+ .heritage-craft .craft-copy {padding:33px 24px 36px;background-size:cover;}
+ .heritage-craft .craft-copy > * {position:static;}
+ .heritage-craft .eyebrow {font-size:10px;line-height:18px;letter-spacing:2.2px;white-space:normal;}
+ .heritage-craft h2 {font-size:clamp(31px,8.7vw,40px);line-height:1.1;letter-spacing:-.7px;margin-top:17px;-webkit-text-stroke:0;}
+ .heritage-craft .craft-copy .gold-rule {width:50px;height:2px;margin:21px 0;}
+ .heritage-craft .craft-copy > .craft-description {width:auto;font-size:15px;line-height:24px;letter-spacing:-.2px;-webkit-text-stroke:0;}
+ .heritage-craft .craft-description span {display:inline;}
+ .heritage-craft .craft-copy .craft-button {width:100%;max-width:397px;height:50px;margin-top:26px;border-width:1px;font-size:10px;letter-spacing:.65px;gap:12px;}
+ .heritage-craft .craft-button img {width:20px;height:20px;}
+ .signature.reference-signature.heritage-signature {height:460px;}
+ .heritage-signature .signature-image {object-fit:cover;object-position:51% center;}
+ .heritage-signature .signature-logo {top:54px;width:108px;height:95px;}
+ .heritage-signature h2 {top:167px;width:100%;padding:0 14px;font-size:clamp(32px,8.6vw,43px);line-height:1.1;letter-spacing:-.7px;-webkit-text-stroke:0;}
+ .heritage-signature .signature-copy .button {top:287px;width:calc(100% - 48px);max-width:412px;height:54px;font-size:10px;letter-spacing:.7px;gap:16px;}
+ .heritage-signature .button img {width:20px;height:20px;}
+}
+
+/* Same-size typography refinements against the new reference. */
+.heritage-signature h2 span {display:block;}
+@media (min-width:1200px) {
+ .heritage-craft .eyebrow {letter-spacing:.24088542vw;}
+ .heritage-craft h2 {top:7.09635417vw;font-size:3.22265625vw;line-height:3.67838542vw;letter-spacing:-.075vw;}
+ .heritage-craft .craft-copy > .craft-description {-webkit-text-stroke:.01822917vw #f7f2e9;}
+ .heritage-craft .craft-copy .craft-button {font-family:Inter,Arial,sans-serif;-webkit-text-stroke:.00651042vw #f7f2e9;}
+ .heritage-signature h2 {top:10.15625vw;}
+ .heritage-signature h2 span:last-child {letter-spacing:-.03580729vw;}
+}

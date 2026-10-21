@@ -1,0 +1,347 @@
+[
+  {
+    "asset": "maison-benefit-1.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      92,
+      705,
+      144,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-2.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      272,
+      705,
+      324,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-3.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      450,
+      705,
+      502,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-4.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      626,
+      705,
+      678,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefits.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      687,
+      770,
+      817
+    ],
+    "dimensions": [
+      770,
+      130
+    ],
+    "postprocessing": "Fond original, textes restaurés localement. Pictogrammes extraits et séparateurs reconstruits en CSS."
+  },
+  {
+    "asset": "maison-commitment-1.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      404,
+      1657,
+      456,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment-2.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      532,
+      1657,
+      584,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment-3.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      659,
+      1657,
+      711,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1614,
+      770,
+      1778
+    ],
+    "dimensions": [
+      770,
+      164
+    ],
+    "postprocessing": "Fond original, textes restaurés localement. Pictogrammes extraits et séparateurs reconstruits en CSS."
+  },
+  {
+    "asset": "maison-hero.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      0,
+      770,
+      397
+    ],
+    "dimensions": [
+      770,
+      397
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-inspiration.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      397,
+      770,
+      687
+    ],
+    "dimensions": [
+      770,
+      290
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-materials.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      817,
+      770,
+      1110
+    ],
+    "dimensions": [
+      770,
+      293
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-vision.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1110,
+      770,
+      1366
+    ],
+    "dimensions": [
+      770,
+      256
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-art.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1366,
+      770,
+      1614
+    ],
+    "dimensions": [
+      770,
+      248
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-newsletter.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1778,
+      770,
+      1883
+    ],
+    "dimensions": [
+      770,
+      105
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-newsletter-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1778,
+      195,
+      1883
+    ],
+    "dimensions": [
+      195,
+      105
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-hero-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      397,
+      66,
+      770,
+      397
+    ],
+    "dimensions": [
+      373,
+      331
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-inspiration-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      385,
+      397,
+      770,
+      687
+    ],
+    "dimensions": [
+      385,
+      290
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-materials-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      817,
+      385,
+      1110
+    ],
+    "dimensions": [
+      385,
+      293
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-art-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      351,
+      1366,
+      770,
+      1614
+    ],
+    "dimensions": [
+      419,
+      248
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-button-hero.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      59,
+      330,
+      201,
+      332
+    ],
+    "dimensions": [
+      142,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  },
+  {
+    "asset": "maison-button-craft.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      436,
+      1054,
+      594,
+      1056
+    ],
+    "dimensions": [
+      158,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  },
+  {
+    "asset": "maison-button-art.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      59,
+      1558,
+      234,
+      1560
+    ],
+    "dimensions": [
+      175,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  }
+]

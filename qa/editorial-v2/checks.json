@@ -1,0 +1,272 @@
+[
+  {
+    "width": 1774,
+    "scrollWidth": 1774,
+    "maison": {
+      "x": 0,
+      "y": 998.390625,
+      "width": 1774,
+      "height": 460
+    },
+    "univers": {
+      "x": 0,
+      "y": 1458.390625,
+      "width": 1774,
+      "height": 427
+    },
+    "title": {
+      "x": 185,
+      "y": 1163.390625,
+      "width": 387.703125,
+      "height": 66.59375
+    },
+    "storyButton": {
+      "x": 184,
+      "y": 1387.390625,
+      "width": 239,
+      "height": 49.984375
+    },
+    "cards": [
+      {
+        "x": 125,
+        "y": 1579.390625,
+        "width": 754,
+        "height": 275
+      },
+      {
+        "x": 895,
+        "y": 1579.390625,
+        "width": 753,
+        "height": 275
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "maison": {
+      "x": 0,
+      "y": 810.421875,
+      "width": 1440,
+      "height": 373.390625
+    },
+    "univers": {
+      "x": 0,
+      "y": 1183.8125,
+      "width": 1440,
+      "height": 346.59375
+    },
+    "title": {
+      "x": 150.15625,
+      "y": 944.34375,
+      "width": 314.765625,
+      "height": 54.046875
+    },
+    "storyButton": {
+      "x": 149.34375,
+      "y": 1126.171875,
+      "width": 194,
+      "height": 40.578125
+    },
+    "cards": [
+      {
+        "x": 101.453125,
+        "y": 1282.015625,
+        "width": 612.03125,
+        "height": 223.21875
+      },
+      {
+        "x": 726.46875,
+        "y": 1282.015625,
+        "width": 611.234375,
+        "height": 223.21875
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "maison": {
+      "x": 0,
+      "y": 800,
+      "width": 390,
+      "height": 699.390625
+    },
+    "univers": {
+      "x": 0,
+      "y": 1499.390625,
+      "width": 390,
+      "height": 662.25
+    },
+    "title": {
+      "x": 24,
+      "y": 958.59375,
+      "width": 342,
+      "height": 44.84375
+    },
+    "storyButton": {
+      "x": 24,
+      "y": 1177.390625,
+      "width": 205,
+      "height": 47
+    },
+    "cards": [
+      {
+        "x": 20,
+        "y": 1657.640625,
+        "width": 350,
+        "height": 230
+      },
+      {
+        "x": 20,
+        "y": 1903.640625,
+        "width": 350,
+        "height": 230
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "maison": {
+      "x": 0,
+      "y": 670,
+      "width": 768,
+      "height": 380
+    },
+    "univers": {
+      "x": 0,
+      "y": 1050,
+      "width": 768,
+      "height": 379.296875
+    },
+    "title": {
+      "x": 38.390625,
+      "y": 813,
+      "width": 265.5,
+      "height": 45.59375
+    },
+    "storyButton": {
+      "x": 38.390625,
+      "y": 982,
+      "width": 190,
+      "height": 44
+    },
+    "cards": [
+      {
+        "x": 38.40625,
+        "y": 1171.296875,
+        "width": 338.8125,
+        "height": 230
+      },
+      {
+        "x": 391.21875,
+        "y": 1171.296875,
+        "width": 338.375,
+        "height": 230
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 1920,
+    "scrollWidth": 1920,
+    "maison": {
+      "x": 0,
+      "y": 1080.5625,
+      "width": 1920,
+      "height": 497.84375
+    },
+    "univers": {
+      "x": 0,
+      "y": 1578.40625,
+      "width": 1920,
+      "height": 462.140625
+    },
+    "title": {
+      "x": 200.21875,
+      "y": 1259.140625,
+      "width": 419.640625,
+      "height": 72.0625
+    },
+    "storyButton": {
+      "x": 199.140625,
+      "y": 1501.5625,
+      "width": 258.65625,
+      "height": 54.109375
+    },
+    "cards": [
+      {
+        "x": 135.28125,
+        "y": 1709.359375,
+        "width": 816.046875,
+        "height": 297.625
+      },
+      {
+        "x": 968.640625,
+        "y": 1709.359375,
+        "width": 814.96875,
+        "height": 297.625
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 319,
+    "scrollWidth": 319,
+    "maison": {
+      "x": 0,
+      "y": 800,
+      "width": 319,
+      "height": 713.734375
+    },
+    "univers": {
+      "x": 0,
+      "y": 1513.734375,
+      "width": 319,
+      "height": 612.25
+    },
+    "title": {
+      "x": 24,
+      "y": 958.59375,
+      "width": 271,
+      "height": 36.796875
+    },
+    "storyButton": {
+      "x": 24,
+      "y": 1191.734375,
+      "width": 205,
+      "height": 47
+    },
+    "cards": [
+      {
+        "x": 20,
+        "y": 1671.984375,
+        "width": 279,
+        "height": 205
+      },
+      {
+        "x": 20,
+        "y": 1892.984375,
+        "width": 279,
+        "height": 205
+      }
+    ],
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  }
+]

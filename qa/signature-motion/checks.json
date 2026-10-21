@@ -1,0 +1,47 @@
+{
+  "signatureEntering": [
+    0.597425,
+    0.237085,
+    0
+  ],
+  "signatureHover": {
+    "scale": "1.018",
+    "arrow": "4px"
+  },
+  "serviceHover": {
+    "icon": "matrix(1.06, 0, 0, 1.06, 0, -4)",
+    "text": "rgb(153, 95, 31)"
+  },
+  "galleryHover": {
+    "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+    "filter": "brightness(1.08)"
+  },
+  "serviceEntering": [
+    0.569097,
+    0.155885,
+    0,
+    0
+  ],
+  "galleryEntering": [
+    0.569097,
+    0.263673,
+    0,
+    0,
+    0,
+    0
+  ],
+  "mobile": [
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "hidden": 0
+    },
+    {
+      "width": 319,
+      "scrollWidth": 319,
+      "hidden": 0
+    }
+  ],
+  "errors": [],
+  "result": "passed"
+}

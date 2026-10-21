@@ -1,0 +1,1632 @@
+[
+  {
+    "asset": "logo.webp",
+    "source": "Image ChatGPT 20 oct. 2026, 22_24_19.jpg",
+    "crop": [
+      180,
+      150,
+      1360,
+      800
+    ],
+    "dimensions": [
+      700,
+      386
+    ]
+  },
+  {
+    "asset": "texture.webp",
+    "source": "Image ChatGPT 20 oct. 2026, 22_24_19.jpg",
+    "crop": [
+      0,
+      0,
+      500,
+      150
+    ],
+    "dimensions": [
+      500,
+      150
+    ]
+  },
+  {
+    "asset": "hero-blade.webp",
+    "source": "Almanzor Blade_ A Signature in Gold.png",
+    "crop": [
+      0,
+      350,
+      941,
+      1320
+    ],
+    "dimensions": [
+      941,
+      970
+    ]
+  },
+  {
+    "asset": "maison.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      414,
+      361,
+      742,
+      572
+    ],
+    "dimensions": [
+      328,
+      211
+    ]
+  },
+  {
+    "asset": "macro.webp",
+    "source": "Almanzor Blade_ A Signature in Gold.png",
+    "crop": [
+      150,
+      355,
+      780,
+      800
+    ],
+    "dimensions": [
+      630,
+      445
+    ]
+  },
+  {
+    "asset": "campaign-blade.webp",
+    "source": "Almanzor Blade_ A Signature in Gold.png",
+    "crop": null,
+    "dimensions": [
+      941,
+      1672
+    ]
+  },
+  {
+    "asset": "campaign-yaya.webp",
+    "source": "YAYA_ A Luminous Refined Character.png",
+    "crop": null,
+    "dimensions": [
+      941,
+      1672
+    ]
+  },
+  {
+    "asset": "campaign-monsieur-rouge.webp",
+    "source": "Monsieur Rouge Luxury Perfume Campaign.png",
+    "crop": null,
+    "dimensions": [
+      941,
+      1672
+    ]
+  },
+  {
+    "asset": "campaign-black-eden.webp",
+    "source": "Black Eden_ A Mysterious Botanical Fragrance.png",
+    "crop": null,
+    "dimensions": [
+      941,
+      1672
+    ]
+  },
+  {
+    "asset": "product-blade.webp",
+    "source": "WhatsApp Image 2026-10-20 at 17.42.42.jpeg",
+    "crop": [
+      72,
+      153,
+      359,
+      821
+    ],
+    "dimensions": [
+      287,
+      668
+    ],
+    "postprocessing": "Extraction du fond neutre connecté aux bords ; conservation du flacon photographié."
+  },
+  {
+    "asset": "product-yaya.webp",
+    "source": "WhatsApp Image 2026-10-20 at 17.42.42.jpeg",
+    "crop": [
+      359,
+      153,
+      641,
+      821
+    ],
+    "dimensions": [
+      282,
+      668
+    ],
+    "postprocessing": "Extraction du fond neutre connecté aux bords ; conservation du flacon photographié."
+  },
+  {
+    "asset": "product-monsieur-rouge.webp",
+    "source": "WhatsApp Image 2026-10-20 at 17.42.42.jpeg",
+    "crop": [
+      642,
+      153,
+      921,
+      821
+    ],
+    "dimensions": [
+      279,
+      668
+    ],
+    "postprocessing": "Extraction du fond neutre connecté aux bords ; conservation du flacon photographié."
+  },
+  {
+    "asset": "product-black-eden.webp",
+    "source": "WhatsApp Image 2026-10-20 at 17.42.42.jpeg",
+    "crop": [
+      922,
+      153,
+      1206,
+      821
+    ],
+    "dimensions": [
+      284,
+      668
+    ],
+    "postprocessing": "Extraction du fond neutre connecté aux bords ; conservation du flacon photographié."
+  },
+  {
+    "asset": "universe.webp",
+    "source": "Almanzor La Maison in Forest Green.png",
+    "crop": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "dimensions": [
+      941,
+      1672
+    ]
+  },
+  {
+    "asset": "inspiration-stone.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      13,
+      1730,
+      128,
+      1847
+    ],
+    "dimensions": [
+      115,
+      117
+    ]
+  },
+  {
+    "asset": "inspiration-flower.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      130,
+      1730,
+      249,
+      1847
+    ],
+    "dimensions": [
+      119,
+      117
+    ]
+  },
+  {
+    "asset": "inspiration-arch.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      374,
+      1730,
+      489,
+      1847
+    ],
+    "dimensions": [
+      115,
+      117
+    ]
+  },
+  {
+    "asset": "newsletter-left.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      0,
+      1860,
+      180,
+      1964
+    ],
+    "dimensions": [
+      180,
+      104
+    ]
+  },
+  {
+    "asset": "newsletter-right.webp",
+    "source": "Almanzor Parfums — L’art du parfum.png",
+    "crop": [
+      595,
+      1860,
+      742,
+      1964
+    ],
+    "dimensions": [
+      147,
+      104
+    ]
+  },
+  {
+    "asset": "logo-transparent.webp",
+    "source": "logo.webp, issu du JPG fourni",
+    "postprocessing": "Extraction alpha du fond vert ; aucun redessin."
+  },
+  {
+    "asset": "hero-reference-clean.webp",
+    "source": "Timeless Luxury Perfume Hero Banner.png",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "postprocessing": "Restauration des seules zones de l’interface via ImageGen ; conservation du fichier source en dehors de ces zones. Détails : qa/hero-v2/asset-provenance.md."
+  },
+  {
+    "asset": "logo-hero-reference.webp",
+    "source": "Timeless Luxury Perfume Hero Banner.png",
+    "crop": [
+      155,
+      31,
+      333,
+      146
+    ],
+    "dimensions": [
+      178,
+      115
+    ],
+    "postprocessing": "Extraction du fond ; aucun redessin."
+  },
+  {
+    "asset": "hero-cta-fill.webp",
+    "source": "Timeless Luxury Perfume Hero Banner.png",
+    "crop": [
+      249,
+      637,
+      251,
+      697
+    ],
+    "dimensions": [
+      2,
+      60
+    ]
+  },
+  {
+    "asset": "header-order-fill.webp",
+    "source": "Timeless Luxury Perfume Hero Banner.png",
+    "crop": [
+      1234,
+      66,
+      1236,
+      114
+    ],
+    "dimensions": [
+      2,
+      48
+    ]
+  },
+  {
+    "asset": "editorial-maison.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      0,
+      0,
+      1774,
+      460
+    ],
+    "dimensions": [
+      1774,
+      460
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "editorial-parfums.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      125,
+      581,
+      879,
+      856
+    ],
+    "dimensions": [
+      754,
+      275
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "editorial-univers.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      895,
+      581,
+      1648,
+      856
+    ],
+    "dimensions": [
+      753,
+      275
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "editorial-ivory.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      0,
+      460,
+      1774,
+      887
+    ],
+    "dimensions": [
+      1774,
+      427
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "editorial-logo.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      181,
+      17,
+      326,
+      113
+    ],
+    "dimensions": [
+      145,
+      96
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "editorial-logo-transparent.webp",
+    "source": "Almanzor Parfums_ A Luxury Editorial Webpage.png",
+    "crop": [
+      181,
+      17,
+      326,
+      113
+    ],
+    "dimensions": [
+      145,
+      96
+    ],
+    "postprocessing": "Voir qa/editorial-v2/asset-provenance.md et prepare_assets.py ; extraction sans redessin des éléments photographiques."
+  },
+  {
+    "asset": "collection-blade.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      130,
+      130,
+      449,
+      437
+    ],
+    "dimensions": [
+      319,
+      307
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-yaya.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      449,
+      130,
+      768,
+      437
+    ],
+    "dimensions": [
+      319,
+      307
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-monsieur-rouge.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      768,
+      130,
+      1087,
+      437
+    ],
+    "dimensions": [
+      319,
+      307
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-black-eden.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      1087,
+      130,
+      1406,
+      437
+    ],
+    "dimensions": [
+      319,
+      307
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-ivory.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      579
+    ],
+    "dimensions": [
+      1536,
+      579
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-craft-macro.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      0,
+      579,
+      819,
+      1024
+    ],
+    "dimensions": [
+      819,
+      445
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "collection-craft-ivory.webp",
+    "source": "Luxury Perfume Collection and Craftsmanship.png",
+    "crop": [
+      819,
+      579,
+      1536,
+      1024
+    ],
+    "dimensions": [
+      717,
+      445
+    ],
+    "postprocessing": "Extraction sans redessin des flacons et du capuchon. Fond restauré localement derrière le texte uniquement ; voir qa/collection-v2/prepare_assets.py."
+  },
+  {
+    "asset": "signature-scene.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      0,
+      0,
+      1536,
+      500
+    ],
+    "dimensions": [
+      1536,
+      500
+    ],
+    "postprocessing": "Restauration locale du décor sous les surimpressions uniquement. Grand monogramme du mur et reste de la scène conservés. Voir qa/signature-v2/prepare_assets.py."
+  },
+  {
+    "asset": "signature-service-delivery.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      201,
+      533,
+      275,
+      593
+    ],
+    "dimensions": [
+      74,
+      60
+    ],
+    "postprocessing": "Pictogramme fourni, extrait sur son papier ivoire, sans redessin."
+  },
+  {
+    "asset": "signature-service-payment.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      562,
+      532,
+      614,
+      592
+    ],
+    "dimensions": [
+      52,
+      60
+    ],
+    "postprocessing": "Pictogramme fourni, extrait sur son papier ivoire, sans redessin."
+  },
+  {
+    "asset": "signature-service-location.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      928,
+      532,
+      979,
+      592
+    ],
+    "dimensions": [
+      51,
+      60
+    ],
+    "postprocessing": "Pictogramme fourni, extrait sur son papier ivoire, sans redessin."
+  },
+  {
+    "asset": "signature-service-support.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      1278,
+      532,
+      1332,
+      592
+    ],
+    "dimensions": [
+      54,
+      60
+    ],
+    "postprocessing": "Pictogramme fourni, extrait sur son papier ivoire, sans redessin."
+  },
+  {
+    "asset": "signature-services-ivory.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      0,
+      500,
+      1536,
+      681
+    ],
+    "dimensions": [
+      1536,
+      181
+    ],
+    "postprocessing": "Papier localement restauré ; interface reconstruite en HTML."
+  },
+  {
+    "asset": "signature-inspiration-ivory.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      0,
+      681,
+      1536,
+      1024
+    ],
+    "dimensions": [
+      1536,
+      343
+    ],
+    "postprocessing": "Papier localement restauré ; interface reconstruite en HTML."
+  },
+  {
+    "asset": "signature-inspiration-bottle-rock.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      28,
+      798,
+      266,
+      996
+    ],
+    "dimensions": [
+      238,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "signature-inspiration-flower.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      272,
+      798,
+      514,
+      996
+    ],
+    "dimensions": [
+      242,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "signature-inspiration-bottle-citrus.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      520,
+      798,
+      765,
+      996
+    ],
+    "dimensions": [
+      245,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "signature-inspiration-arch.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      771,
+      798,
+      1015,
+      996
+    ],
+    "dimensions": [
+      244,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "signature-inspiration-bottle-gold.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      1021,
+      798,
+      1264,
+      996
+    ],
+    "dimensions": [
+      243,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "signature-inspiration-stone.webp",
+    "source": "L’univers Almanzor_ Signature Parfumée.png",
+    "crop": [
+      1270,
+      798,
+      1509,
+      996
+    ],
+    "dimensions": [
+      239,
+      198
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "heritage-craft-macro.webp",
+    "source": "Luxury Perfume Heritage in Golden Light.png",
+    "crop": [
+      0,
+      0,
+      827,
+      517
+    ],
+    "dimensions": [
+      827,
+      517
+    ],
+    "postprocessing": "Extraction directe sans modification des pixels photographiques."
+  },
+  {
+    "asset": "heritage-craft-ivory.webp",
+    "source": "Luxury Perfume Heritage in Golden Light.png",
+    "crop": [
+      827,
+      0,
+      1536,
+      517
+    ],
+    "dimensions": [
+      709,
+      517
+    ],
+    "postprocessing": "Restauration du papier sous les anciennes surimpressions ; voir qa/heritage-v3/prepare_assets.py."
+  },
+  {
+    "asset": "heritage-signature-scene.webp",
+    "source": "Luxury Perfume Heritage in Golden Light.png",
+    "crop": [
+      0,
+      517,
+      1536,
+      1024
+    ],
+    "dimensions": [
+      1536,
+      507
+    ],
+    "postprocessing": "Restauration locale sous le logo, le titre et le bouton. Scène et grand monogramme mural conservés hors masque."
+  },
+  {
+    "asset": "heritage-monogram.webp",
+    "source": "Luxury Perfume Heritage in Golden Light.png",
+    "crop": [
+      710,
+      560,
+      830,
+      666
+    ],
+    "dimensions": [
+      120,
+      106
+    ],
+    "postprocessing": "Monogramme fourni : extraction du doré sur fond transparent, sans redessin. Petit artefact détaché écarté."
+  },
+  {
+    "asset": "catalog-hero.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      0,
+      741,
+      344
+    ],
+    "dimensions": [
+      741,
+      344
+    ],
+    "postprocessing": "Restauration locale sous le header et les textes. Photographie des quatre flacons conservée hors masque."
+  },
+  {
+    "asset": "catalog-benefits-paper.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      344,
+      741,
+      461
+    ],
+    "dimensions": [
+      741,
+      117
+    ],
+    "postprocessing": "Fond ivoire restauré, légendes et pictogrammes placés séparément."
+  },
+  {
+    "asset": "catalog-benefit-1.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      92,
+      361,
+      137,
+      407
+    ],
+    "dimensions": [
+      45,
+      46
+    ],
+    "postprocessing": "Pictogramme fourni extrait sans redessin."
+  },
+  {
+    "asset": "catalog-benefit-2.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      263,
+      361,
+      308,
+      407
+    ],
+    "dimensions": [
+      45,
+      46
+    ],
+    "postprocessing": "Pictogramme fourni extrait sans redessin."
+  },
+  {
+    "asset": "catalog-benefit-3.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      434,
+      361,
+      479,
+      407
+    ],
+    "dimensions": [
+      45,
+      46
+    ],
+    "postprocessing": "Pictogramme fourni extrait sans redessin."
+  },
+  {
+    "asset": "catalog-benefit-4.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      605,
+      361,
+      650,
+      407
+    ],
+    "dimensions": [
+      45,
+      46
+    ],
+    "postprocessing": "Pictogramme fourni extrait sans redessin."
+  },
+  {
+    "asset": "catalog-product-blade.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      461,
+      415,
+      764
+    ],
+    "dimensions": [
+      415,
+      303
+    ],
+    "postprocessing": "Photographie fournie extraite directement, pixels et inscriptions inchangés."
+  },
+  {
+    "asset": "catalog-note-blade-1.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      441,
+      616,
+      498,
+      671
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-blade-2.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      527,
+      616,
+      584,
+      671
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-blade-3.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      613,
+      616,
+      670,
+      671
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-panel-blade.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      415,
+      461,
+      741,
+      764
+    ],
+    "dimensions": [
+      326,
+      303
+    ],
+    "postprocessing": "Fond restauré sans interface. Vignettes photographiques découpées du fond et placées en HTML."
+  },
+  {
+    "asset": "catalog-product-yaya.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      369,
+      764,
+      741,
+      1080
+    ],
+    "dimensions": [
+      372,
+      316
+    ],
+    "postprocessing": "Photographie fournie extraite directement, pixels et inscriptions inchangés."
+  },
+  {
+    "asset": "catalog-note-yaya-1.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      59,
+      942,
+      115,
+      996
+    ],
+    "dimensions": [
+      56,
+      54
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-yaya-2.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      145,
+      942,
+      201,
+      996
+    ],
+    "dimensions": [
+      56,
+      54
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-yaya-3.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      231,
+      942,
+      287,
+      996
+    ],
+    "dimensions": [
+      56,
+      54
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-panel-yaya.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      764,
+      369,
+      1080
+    ],
+    "dimensions": [
+      369,
+      316
+    ],
+    "postprocessing": "Fond restauré sans interface. Vignettes photographiques découpées du fond et placées en HTML."
+  },
+  {
+    "asset": "catalog-product-monsieur-rouge.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      1080,
+      403,
+      1367
+    ],
+    "dimensions": [
+      403,
+      287
+    ],
+    "postprocessing": "Photographie fournie extraite directement, pixels et inscriptions inchangés."
+  },
+  {
+    "asset": "catalog-note-monsieur-rouge-1.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      433,
+      1235,
+      490,
+      1290
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-monsieur-rouge-2.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      527,
+      1235,
+      584,
+      1290
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-monsieur-rouge-3.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      621,
+      1235,
+      678,
+      1290
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-panel-monsieur-rouge.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      403,
+      1080,
+      741,
+      1367
+    ],
+    "dimensions": [
+      338,
+      287
+    ],
+    "postprocessing": "Fond restauré sans interface. Vignettes photographiques découpées du fond et placées en HTML."
+  },
+  {
+    "asset": "catalog-product-black-eden.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      362,
+      1367,
+      741,
+      1671
+    ],
+    "dimensions": [
+      379,
+      304
+    ],
+    "postprocessing": "Photographie fournie extraite directement, pixels et inscriptions inchangés."
+  },
+  {
+    "asset": "catalog-note-black-eden-1.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      61,
+      1526,
+      118,
+      1581
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-black-eden-2.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      148,
+      1526,
+      205,
+      1581
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-note-black-eden-3.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      235,
+      1526,
+      292,
+      1581
+    ],
+    "dimensions": [
+      57,
+      55
+    ],
+    "postprocessing": "Vignette olfactive fournie avec une marge de raccord, pixels source conservés."
+  },
+  {
+    "asset": "catalog-panel-black-eden.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      1367,
+      362,
+      1671
+    ],
+    "dimensions": [
+      362,
+      304
+    ],
+    "postprocessing": "Fond restauré sans interface. Vignettes photographiques découpées du fond et placées en HTML."
+  },
+  {
+    "asset": "catalog-signature.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      1671,
+      741,
+      1838
+    ],
+    "dimensions": [
+      741,
+      167
+    ],
+    "postprocessing": "Restauration locale sous les surimpressions. Grand A mural conservé hors masque."
+  },
+  {
+    "asset": "catalog-newsletter.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      0,
+      1838,
+      741,
+      1959
+    ],
+    "dimensions": [
+      741,
+      121
+    ],
+    "postprocessing": "Fond restauré localement sous le texte et le formulaire."
+  },
+  {
+    "asset": "catalog-button-blade.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      448,
+      715,
+      593,
+      717
+    ],
+    "dimensions": [
+      145,
+      2
+    ],
+    "postprocessing": "Texture dorée extraite dans une zone vierge de texte du bouton fourni."
+  },
+  {
+    "asset": "catalog-button-yaya.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      65,
+      1034,
+      215,
+      1036
+    ],
+    "dimensions": [
+      150,
+      2
+    ],
+    "postprocessing": "Texture dorée extraite dans une zone vierge de texte du bouton fourni."
+  },
+  {
+    "asset": "catalog-button-monsieur-rouge.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      439,
+      1334,
+      642,
+      1336
+    ],
+    "dimensions": [
+      203,
+      2
+    ],
+    "postprocessing": "Texture dorée extraite dans une zone vierge de texte du bouton fourni."
+  },
+  {
+    "asset": "catalog-button-black-eden.webp",
+    "source": "Almanzor Parfums_ Quatre Signatures Élégantes.png",
+    "crop": [
+      68,
+      1628,
+      260,
+      1630
+    ],
+    "dimensions": [
+      192,
+      2
+    ],
+    "postprocessing": "Texture dorée extraite dans une zone vierge de texte du bouton fourni."
+  },
+  {
+    "asset": "maison-benefit-1.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      92,
+      705,
+      144,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-2.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      272,
+      705,
+      324,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-3.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      450,
+      705,
+      502,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefit-4.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      626,
+      705,
+      678,
+      759
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-benefits.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      687,
+      770,
+      817
+    ],
+    "dimensions": [
+      770,
+      130
+    ],
+    "postprocessing": "Fond original, textes restaurés localement. Pictogrammes extraits et séparateurs reconstruits en CSS."
+  },
+  {
+    "asset": "maison-commitment-1.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      404,
+      1657,
+      456,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment-2.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      532,
+      1657,
+      584,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment-3.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      659,
+      1657,
+      711,
+      1711
+    ],
+    "dimensions": [
+      52,
+      54
+    ],
+    "postprocessing": "Pictogramme de référence extrait directement, pixels source conservés."
+  },
+  {
+    "asset": "maison-commitment.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1614,
+      770,
+      1778
+    ],
+    "dimensions": [
+      770,
+      164
+    ],
+    "postprocessing": "Fond original, textes restaurés localement. Pictogrammes extraits et séparateurs reconstruits en CSS."
+  },
+  {
+    "asset": "maison-hero.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      0,
+      770,
+      397
+    ],
+    "dimensions": [
+      770,
+      397
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-inspiration.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      397,
+      770,
+      687
+    ],
+    "dimensions": [
+      770,
+      290
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-materials.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      817,
+      770,
+      1110
+    ],
+    "dimensions": [
+      770,
+      293
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-vision.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1110,
+      770,
+      1366
+    ],
+    "dimensions": [
+      770,
+      256
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-art.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1366,
+      770,
+      1614
+    ],
+    "dimensions": [
+      770,
+      248
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-newsletter.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1778,
+      770,
+      1883
+    ],
+    "dimensions": [
+      770,
+      105
+    ],
+    "postprocessing": "Restauration ImageGen localisée sous les textes et contrôles, exposition raccordée. Photos et monogrammes originaux conservés hors masque."
+  },
+  {
+    "asset": "maison-newsletter-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      1778,
+      195,
+      1883
+    ],
+    "dimensions": [
+      195,
+      105
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-hero-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      397,
+      66,
+      770,
+      397
+    ],
+    "dimensions": [
+      373,
+      331
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-inspiration-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      385,
+      397,
+      770,
+      687
+    ],
+    "dimensions": [
+      385,
+      290
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-materials-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      0,
+      817,
+      385,
+      1110
+    ],
+    "dimensions": [
+      385,
+      293
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-art-mobile.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      351,
+      1366,
+      770,
+      1614
+    ],
+    "dimensions": [
+      419,
+      248
+    ],
+    "postprocessing": "Recadrage photographique direct de la référence pour la disposition mobile, pixels source conservés."
+  },
+  {
+    "asset": "maison-button-hero.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      59,
+      330,
+      201,
+      332
+    ],
+    "dimensions": [
+      142,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  },
+  {
+    "asset": "maison-button-craft.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      436,
+      1054,
+      594,
+      1056
+    ],
+    "dimensions": [
+      158,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  },
+  {
+    "asset": "maison-button-art.webp",
+    "source": "La Maison Almanzor Parfums.png",
+    "crop": [
+      59,
+      1558,
+      234,
+      1560
+    ],
+    "dimensions": [
+      175,
+      2
+    ],
+    "postprocessing": "Surface dorée extraite dans une ligne sans texte du bouton de référence."
+  },
+  {
+    "asset": "footer-newsletter-left.webp",
+    "source": "Screenshot 2026-10-21 at 10.40.03.png",
+    "crop": [
+      0,
+      0,
+      650,
+      458
+    ],
+    "postprocessing": "UI-free background region, color-managed from Display to sRGB; no generated artwork."
+  },
+  {
+    "asset": "footer-newsletter-right.webp",
+    "source": "Screenshot 2026-10-21 at 10.40.03.png",
+    "crop": [
+      1680,
+      0,
+      2332,
+      458
+    ],
+    "postprocessing": "UI-free background region, color-managed from Display to sRGB; no generated artwork."
+  },
+  {
+    "asset": "footer-newsletter-center.webp",
+    "source": "Screenshot 2026-10-21 at 10.40.03.png",
+    "crop": [
+      650,
+      0,
+      1680,
+      100
+    ],
+    "postprocessing": "UI-free background region, color-managed from Display to sRGB; no generated artwork."
+  },
+  {
+    "asset": "footer-instagram.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/instagram.svg",
+    "license": "Font Awesome Free, icons CC BY 4.0; source license notice retained."
+  },
+  {
+    "asset": "footer-facebook.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook-f.svg",
+    "license": "Font Awesome Free, icons CC BY 4.0; source license notice retained."
+  },
+  {
+    "asset": "footer-video.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/play.svg",
+    "license": "Font Awesome Free, icons CC BY 4.0; source license notice retained."
+  }
+]

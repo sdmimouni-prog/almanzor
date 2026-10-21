@@ -1,0 +1,684 @@
+/* Reference: Timeless Luxury Perfume Hero Banner.png, 1672 × 941.
+ * Positions and type scale with the original artboard on desktop.
+ * The rest of the homepage is deliberately outside this stylesheet's scope.
+ */
+.hero.reference-hero {
+  height: auto;
+  min-height: 0;
+  aspect-ratio: 1672 / 941;
+  display: block;
+  background: #06170f;
+  color: #f1e8d4;
+}
+.reference-hero .reference-hero-scene {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.reference-hero .hero-content {
+  position: absolute;
+  top: 25.61%;
+  left: 14.23445%;
+  right: auto;
+  width: 42%;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+.reference-hero h1 {
+  font-family: Cormorant, Georgia, serif;
+  font-size: 5.083733vw;
+  font-weight: 400;
+  line-height: 0.870588;
+  letter-spacing: -0.025vw;
+  max-width: none;
+  color: #f1e8d4;
+}
+.reference-hero p {
+  margin: 2.272727vw 0 2.332536vw;
+  font:
+    400 1.375598vw / 1.391304 Inter,
+    Arial,
+    sans-serif;
+  color: #f4f2eb;
+  max-width: none;
+}
+.reference-hero .button {
+  width: 24.880383vw;
+  height: 3.708134vw;
+  min-height: 0;
+  padding: 0;
+  gap: 1.196172vw;
+  font-size: 1.016746vw;
+  font-weight: 400;
+  letter-spacing: 0.07177vw;
+  background: linear-gradient(180deg, #e7b260, #e0a956);
+  border: 1px solid #d6a057;
+  color: #222217;
+}
+.reference-hero .button img {
+  width: 1.076555vw;
+  height: 1.076555vw;
+}
+.reference-hero .button:hover {
+  background: #edbd74;
+  transform: none;
+}
+.header.hero-header {
+  position: absolute;
+  inset: 0 0 auto;
+  height: 10.76555vw;
+  padding: 0;
+  display: block;
+  color: #f8f6ef;
+  z-index: 5;
+}
+.hero-header .brand {
+  position: absolute;
+  top: 1.854067vw;
+  left: 9.270335%;
+  width: 10.645933%;
+}
+.hero-header .brand img {
+  width: 100%;
+  height: auto;
+  max-height: none;
+}
+.hero-header .navigation {
+  position: absolute;
+  top: 4.186603vw;
+  left: 26.255981%;
+  display: flex;
+  flex-direction: row;
+  gap: 2.392344vw;
+  align-items: flex-start;
+  background: none;
+  box-shadow: none;
+  padding: 0;
+}
+.hero-header .navigation a {
+  font:
+    400 1.076555vw / 1.333333 Inter,
+    Arial,
+    sans-serif;
+  padding: 0.299043vw 0 0.657895vw;
+  white-space: nowrap;
+}
+.hero-header .navigation .active {
+  border-bottom: 1px solid #d5a652;
+  color: #efb354;
+}
+.hero-header .header-actions {
+  position: absolute;
+  left: 73.145933%;
+  top: 3.88756vw;
+  height: 2.990431vw;
+  display: flex;
+  align-items: center;
+  gap: 1.794258vw;
+}
+.hero-header .order-link {
+  width: 9.688995vw;
+  height: 2.990431vw;
+  min-width: 0;
+  min-height: 0;
+  background: linear-gradient(180deg, #e7b260, #e0a956);
+  border: 1px solid #d6a057;
+  display: flex;
+  justify-content: center;
+  gap: 0.837321vw;
+  font:
+    400 0.897129vw / 1 Inter,
+    Arial,
+    sans-serif;
+  color: #1d231b;
+  flex-shrink: 0;
+}
+.hero-header .order-link img {
+  width: 1.076555vw;
+  height: 1.076555vw;
+}
+.hero-header .header-divider {
+  height: 2.990431vw;
+  width: 1px;
+  background: #c6b18b;
+  margin: 0 0.538278vw 0 0.538278vw;
+  flex-shrink: 0;
+}
+.hero-header .header-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1.555024vw;
+  height: 2.631579vw;
+  flex-shrink: 0;
+}
+.hero-header .header-icon img {
+  width: 1.555024vw;
+  height: 1.555024vw;
+  filter: invert(96%) sepia(13%) saturate(265%) hue-rotate(345deg)
+    brightness(103%);
+}
+.hero-header .header-icon:hover {
+  opacity: 0.75;
+}
+.hero-header .menu-button {
+  display: none !important;
+}
+.hero-header .mobile-order {
+  display: none !important;
+}
+.search-panel {
+  padding: 65px 40px 40px;
+}
+.search-panel h2 {
+  margin-bottom: 25px;
+}
+.search-panel input {
+  width: 100%;
+  height: 50px;
+  padding: 12px 15px;
+  border: 1px solid #9b7a46;
+  border-radius: 0;
+  background: #faf7f2;
+}
+.search-results {
+  display: grid;
+  gap: 10px;
+  margin-top: 24px;
+}
+.search-results a {
+  padding: 13px 0;
+  border-bottom: 1px solid #d8cdbb;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+.search-results img {
+  width: 32px;
+  height: 72px;
+  object-fit: contain;
+}
+.search-empty {
+  margin-top: 20px;
+}
+@media (max-width: 767px) {
+  .hero.reference-hero {
+    min-height: 800px;
+    height: auto;
+    aspect-ratio: auto;
+  }
+  .reference-hero .reference-hero-scene {
+    top: auto;
+    bottom: 0;
+    height: 450px;
+    object-fit: cover;
+    object-position: 76% center;
+  }
+  .reference-hero .hero-content {
+    top: 125px;
+    left: 24px;
+    width: calc(100% - 48px);
+  }
+  .reference-hero h1 {
+    font-size: clamp(48px, 13vw, 65px);
+    line-height: 0.96;
+    letter-spacing: -0.4px;
+  }
+  .reference-hero p {
+    margin: 24px 0 27px;
+    max-width: 340px;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .reference-hero .desktop-break {
+    display: none;
+  }
+  .reference-hero .button {
+    width: 280px;
+    max-width: 100%;
+    height: 50px;
+    font-size: 11px;
+    letter-spacing: 1px;
+    gap: 15px;
+  }
+  .reference-hero .button img {
+    width: 17px;
+    height: 17px;
+  }
+  .header.hero-header {
+    height: 98px;
+  }
+  .hero-header .brand {
+    top: 17px;
+    left: 23px;
+    width: 116px;
+  }
+  .hero-header .header-actions {
+    left: auto;
+    right: 18px;
+    top: 26px;
+    height: 44px;
+    gap: 3px;
+  }
+  .hero-header .order-link,
+  .hero-header .header-divider,
+  .hero-header .account-link {
+    display: none;
+  }
+  .hero-header .header-icon,
+  .hero-header .menu-button {
+    width: 44px;
+    height: 44px;
+  }
+  .hero-header .header-icon img {
+    width: 23px;
+    height: 23px;
+  }
+  .hero-header .menu-button {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  .hero-header .navigation {
+    display: none;
+    top: 98px;
+    left: 0;
+    right: 0;
+    padding: 18px 25px 24px;
+    background: #071b14;
+  }
+  .hero-header .navigation.open {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    align-items: stretch;
+  }
+  .hero-header .navigation a {
+    font-size: 15px;
+    line-height: 1.4;
+    padding: 13px 0;
+  }
+  .hero-header .navigation .active {
+    border-bottom: 0;
+  }
+  .hero-header .mobile-order {
+    display: block !important;
+  }
+  .search-panel {
+    padding: 65px 24px 30px;
+  }
+}
+/* Typography and navigation corrected against the equal-size browser capture. */
+.reference-hero h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 4.425837vw;
+  line-height: 1;
+  letter-spacing: 0;
+  transform: translate(0.119617vw, 0.538278vw);
+  -webkit-font-smoothing: antialiased;
+}
+.reference-hero h1 span {
+  display: block;
+}
+.reference-hero h1 span:nth-child(2) {
+  transform: scaleX(1.018);
+  transform-origin: left center;
+}
+.reference-hero h1 span:nth-child(3) {
+  padding-left: 0.119617vw;
+}
+.reference-hero p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.435407vw;
+  line-height: 1.333333;
+  transform: translateY(-0.119617vw);
+  -webkit-font-smoothing: antialiased;
+}
+.reference-hero .button,
+.hero-header .order-link,
+.hero-header .navigation a {
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.hero-header .navigation {
+  display: grid;
+  grid-template-columns: 5.861244vw 7.535885vw 8.911483vw 13.456938vw auto;
+  gap: 0;
+}
+.hero-header .navigation a {
+  width: max-content;
+  padding-bottom: 0.478469vw;
+}
+.hero-header .navigation .active {
+  min-width: 3.528708vw;
+}
+@media (min-width: 1200px) {
+  .hero-header .header-actions {
+    width: 22.42823vw;
+    display: block;
+  }
+  .hero-header .header-divider {
+    position: absolute;
+    left: 12.021531vw;
+    top: 0;
+    margin: 0;
+  }
+  .hero-header .header-icon {
+    position: absolute;
+    top: 0.179426vw;
+    height: 2.631579vw;
+  }
+  .hero-header .search-button {
+    left: 14.413876vw;
+  }
+  .hero-header .account-link {
+    left: 17.643541vw;
+  }
+  .hero-header .bag-link {
+    left: 20.873206vw;
+  }
+}
+@media (max-width: 1199px) {
+  .header.hero-header {
+    height: 98px;
+  }
+  .hero-header .brand {
+    top: 17px;
+    left: 23px;
+    width: 116px;
+  }
+  .hero-header .header-actions {
+    left: auto;
+    right: 18px;
+    top: 26px;
+    height: 44px;
+    gap: 3px;
+  }
+  .hero-header .order-link,
+  .hero-header .header-divider,
+  .hero-header .account-link {
+    display: none;
+  }
+  .hero-header .header-icon,
+  .hero-header .menu-button {
+    width: 44px;
+    height: 44px;
+  }
+  .hero-header .header-icon img {
+    width: 23px;
+    height: 23px;
+  }
+  .hero-header .menu-button {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+  }
+  .hero-header .navigation {
+    display: none;
+    top: 98px;
+    left: 0;
+    right: 0;
+    padding: 18px 25px 24px;
+    background: #071b14;
+  }
+  .hero-header .navigation.open {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    align-items: stretch;
+  }
+  .hero-header .navigation a {
+    font-size: 15px;
+    line-height: 1.4;
+    padding: 13px 0;
+  }
+  .hero-header .navigation .active {
+    border-bottom: 0;
+  }
+  .hero-header .mobile-order {
+    display: block !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .hero.reference-hero {
+    height: 670px;
+    aspect-ratio: auto;
+  }
+  .reference-hero .reference-hero-scene {
+    object-fit: cover;
+    object-position: 65% center;
+  }
+  .reference-hero .hero-content {
+    top: 175px;
+    left: 40px;
+    width: 52%;
+  }
+  .reference-hero h1 {
+    font-size: 54px;
+    line-height: 1.02;
+    transform: none;
+  }
+  .reference-hero p {
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 365px;
+    margin: 25px 0 30px;
+    transform: none;
+  }
+  .reference-hero .desktop-break {
+    display: none;
+  }
+  .reference-hero .button {
+    width: 310px;
+    height: 52px;
+    font-size: 12px;
+    gap: 18px;
+    letter-spacing: 1px;
+  }
+  .reference-hero .button img {
+    width: 18px;
+    height: 18px;
+  }
+}
+@media (max-width: 767px) {
+  .reference-hero h1 {
+    font-size: clamp(41px, 11vw, 56px);
+    line-height: 1.03;
+    transform: none;
+    letter-spacing: -0.3px;
+  }
+  .reference-hero h1 span:nth-child(2) {
+    transform: none;
+  }
+  .reference-hero h1 span:nth-child(3) {
+    padding-left: 0;
+  }
+  .reference-hero p {
+    font-size: 14px;
+    line-height: 1.5;
+    transform: none;
+  }
+}
+/* Gold surface sampled from the supplied reference, without its text. */
+.reference-hero .button {
+  background-image: url("assets/hero-cta-fill.webp");
+  background-size: 100% 100%;
+  letter-spacing: 0.059809vw;
+}
+.hero-header .order-link {
+  background-image: url("assets/header-order-fill.webp");
+  background-size: 100% 100%;
+}
+.reference-hero p {
+  font-size: 1.45933vw;
+  line-height: 1.311475;
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+  .reference-hero p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .reference-hero .button {
+    letter-spacing: 1px;
+  }
+}
+@media (max-width: 767px) {
+  .reference-hero p {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .reference-hero .button {
+    letter-spacing: 1px;
+  }
+}
+/* Match the lighter display weight of the raster reference. */
+.reference-hero h1 {
+  -webkit-text-stroke: 0.07177vw #102015;
+}
+.hero-header .header-icon img {
+  width: 1.73445vw;
+  height: 1.73445vw;
+  max-width: none;
+  flex-shrink: 0;
+}
+@media (max-width: 1199px) {
+  .reference-hero h1 {
+    -webkit-text-stroke: 0;
+  }
+  .hero-header .header-icon img {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+/* The home hero occupies one browser viewport, with one static photograph. */
+.hero.reference-hero {
+  height: 100vh;
+  height: 100svh;
+  min-height: 0;
+  aspect-ratio: auto;
+  --hero-scale: min(calc(100vw / 1672), calc(100svh / 941));
+}
+.reference-hero .reference-hero-scene {
+  object-fit: cover;
+  object-position: center;
+}
+.reference-hero .hero-content {
+  top: 25.61%;
+  left: 14.23445%;
+  width: 42%;
+}
+.reference-hero h1 {
+  font-size: calc(74 * var(--hero-scale));
+  line-height: 1;
+  transform: translate(calc(2 * var(--hero-scale)), calc(9 * var(--hero-scale)));
+  -webkit-text-stroke-width: calc(1.2 * var(--hero-scale));
+}
+.reference-hero p {
+  margin: calc(38 * var(--hero-scale)) 0 calc(39 * var(--hero-scale));
+  max-width: none;
+  font-size: max(14px, calc(24.4 * var(--hero-scale)));
+  line-height: 1.311475;
+  transform: translateY(calc(-2 * var(--hero-scale)));
+}
+.reference-hero .button {
+  width: max(280px, calc(416 * var(--hero-scale)));
+  max-width: 100%;
+  height: max(44px, calc(62 * var(--hero-scale)));
+  font-size: max(10px, calc(17 * var(--hero-scale)));
+  letter-spacing: calc(1 * var(--hero-scale));
+  gap: calc(20 * var(--hero-scale));
+}
+.reference-hero .button img {
+  width: max(16px, calc(18 * var(--hero-scale)));
+  height: max(16px, calc(18 * var(--hero-scale)));
+}
+/* Very wide windows preserve the complete bottle instead of cropping its base. */
+@media (min-width: 1200px) and (min-aspect-ratio: 23/10) {
+  .reference-hero .reference-hero-scene {
+    object-fit: contain;
+    object-position: right center;
+  }
+  .reference-hero .hero-content {left: 9.270335%;}
+}
+@media (min-width: 768px) and (max-width: 1199px) and (orientation: landscape) {
+  .reference-hero .hero-content {left: 5%;width: 47%;}
+  .reference-hero .reference-hero-scene {object-position: 65% center;}
+  .reference-hero h1 {font-size: clamp(38px, 5.2vw, 54px);-webkit-text-stroke: 0;transform: none;}
+  .reference-hero p {max-width: 365px;}
+}
+@media (max-width: 767px), (max-width: 1199px) and (orientation: portrait) {
+  .hero.reference-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: auto minmax(0, 1fr);
+    gap: clamp(14px, 2.2svh, 22px);
+    padding-top: 112px;
+  }
+  .reference-hero .hero-content {
+    position: relative;
+    inset: auto;
+    grid-row: 1;
+    min-width: 0;
+    width: calc(100% - 48px);
+    margin: 0 24px;
+    align-self: start;
+  }
+  .reference-hero .reference-hero-scene {
+    position: relative;
+    inset: auto;
+    grid-row: 2;
+    width: 100%;
+    height: 100%;
+    min-height: 0;
+    object-fit: cover;
+    object-position: 76% center;
+  }
+  .reference-hero h1 {
+    font-size: clamp(28px, min(10.5vw, 5.6svh), 52px);
+    line-height: 1.03;
+    letter-spacing: -.3px;
+    transform: none;
+    -webkit-text-stroke: 0;
+  }
+  .reference-hero h1 span:nth-child(2) {transform: none;}
+  .reference-hero h1 span:nth-child(3) {padding-left: 0;}
+  .reference-hero p {
+    max-width: 600px;
+    font-size: clamp(12px, min(3.6vw, 1.8svh), 16px);
+    line-height: 1.45;
+    margin: clamp(12px, 2svh, 20px) 0;
+    transform: none;
+  }
+  .reference-hero .desktop-break {display: none;}
+  .reference-hero .button {
+    width: 310px;
+    height: 44px;
+    font-size: 10px;
+    letter-spacing: .8px;
+    gap: 16px;
+  }
+  .reference-hero .button img {width: 17px;height: 17px;}
+}
+@media (max-width: 767px) and (orientation: landscape) {
+  .hero.reference-hero {display:block;padding-top:0;}
+  .reference-hero .reference-hero-scene {position:absolute;inset:0;object-position:right center;}
+  .reference-hero .hero-content {position:absolute;top:100px;left:5%;width:48%;margin:0;}
+  .reference-hero h1 {font-size:clamp(24px,4.8vw,34px);line-height:.98;}
+  .reference-hero p {font-size:12px;line-height:1.3;margin:12px 0;}
+  .reference-hero .button {height:40px;font-size:8px;letter-spacing:.4px;gap:10px;}
+}
+@media (min-width: 1200px) and (min-aspect-ratio: 23/10) {
+  body:has(.reference-hero) .hero-header .brand {
+    top: min(1.854067vw, 3.3svh);
+    width: min(10.645933vw, 18.916svh);
+  }
+}

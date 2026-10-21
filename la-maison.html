@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F2A24" />
+    <meta
+      name="description"
+      content="La Maison ALMANZOR : un héritage marocain et arabo-andalou, une vision moderne du parfum, des matières nobles et une signature singulière."
+    />
+    <link rel="icon" type="image/webp" href="assets/logo-transparent.webp" />
+    <title>La Maison — ALMANZOR Parfums</title>
+    <link rel="preload" as="image" href="assets/maison-hero.webp" />
+    <link
+      rel="preload"
+      as="font"
+      type="font/ttf"
+      href="assets/cormorant-400.ttf"
+      crossorigin
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="hero.css" />
+    <link rel="stylesheet" href="maison.css" />
+    <link rel="stylesheet" href="shared-footer.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body class="maison-page">
+    <a class="skip-link" href="#main">Aller au contenu</a>
+    <header class="header hero-header" id="accueil">
+      <a class="brand" href="index.html#accueil" aria-label="ALMANZOR Parfums — Accueil"
+        ><img
+          src="assets/logo-hero-reference.webp"
+          width="178"
+          height="115"
+          alt="ALMANZOR Parfums"
+      /></a>
+      <nav
+        class="navigation"
+        id="navigation"
+        aria-label="Navigation principale"
+      >
+        <a href="index.html">Accueil</a>
+        <a class="active" href="la-maison.html" aria-current="page">La Maison</a>
+        <a href="nos-parfums.html">Nos parfums</a>
+        <a href="index.html#sillage">L’Univers ALMANZOR</a>
+        <a href="index.html#points-de-vente">Points de vente</a>
+        <a href="https://almanzor.ma" class="mobile-order">Commander</a>
+      </nav>
+      <div class="header-actions">
+        <a class="order-link" href="https://almanzor.ma"
+          >Commander
+          <img src="assets/arrow-right.svg" width="18" height="18" alt=""
+        /></a>
+        <span class="header-divider" aria-hidden="true"></span>
+        <button
+          class="header-icon search-button"
+          type="button"
+          aria-label="Rechercher un parfum"
+        >
+          <img
+            src="assets/header-magnifying-glass.svg"
+            width="26"
+            height="26"
+            alt=""
+          />
+        </button>
+        <a
+          class="header-icon account-link"
+          href="https://almanzor.ma"
+          aria-label="Espace client sur le site officiel"
+          ><img src="assets/header-user.svg" width="26" height="26" alt=""
+        /></a>
+        <a
+          class="header-icon bag-link"
+          href="https://almanzor.ma"
+          aria-label="Commander sur le site officiel"
+          ><img src="assets/header-handbag.svg" width="26" height="26" alt=""
+        /></a>
+        <button
+          class="menu-button"
+          type="button"
+          aria-controls="navigation"
+          aria-expanded="false"
+          aria-label="Ouvrir le menu"
+        >
+          <img
+            class="icon"
+            src="assets/menu.svg"
+            width="24"
+            height="24"
+            alt=""
+          />
+        </button>
+      </div>
+    </header>
+    <main id="main">
+      <section class="maison-hero maison-section" aria-labelledby="maison-page-title">
+        <picture class="maison-scene"><source media="(max-width: 999px)" srcset="assets/maison-hero-mobile.webp" /><img src="assets/maison-hero.webp" width="770" height="397" alt="Entrée de la Maison ALMANZOR, porte marocaine sculptée et olivier baignés de lumière dorée" fetchpriority="high" /></picture>
+        <div class="maison-copy"><p class="eyebrow">La Maison</p><h1 id="maison-page-title">Un héritage,<br />une vision moderne.</h1><span class="maison-rule" aria-hidden="true"></span>
+          <p class="maison-text"><span>ALMANZOR Parfums puise son inspiration dans un</span> <span>patrimoine riche et intemporel pour créer des parfums</span> <span>d’exception. Chaque fragrance est le fruit d’un savoir-faire</span> <span>rigoureux et d’une passion pour l’élégance.</span></p>
+          <a class="button maison-button" href="#histoire">Notre histoire <img src="assets/arrow-right.svg" width="16" height="16" alt="" /></a>
+        </div>
+      </section>
+      <section class="maison-inspiration maison-section" id="histoire" aria-labelledby="histoire-title">
+        <picture class="maison-scene"><source media="(max-width: 999px)" srcset="assets/maison-inspiration-mobile.webp" /><img src="assets/maison-inspiration.webp" width="770" height="290" alt="Cour et arches sculptées d’un palais marocain, palmiers et montagnes au loin" loading="lazy" /></picture>
+        <div class="maison-copy"><p class="eyebrow">Notre inspiration</p><h2 id="histoire-title">Entre héritage<br />et contemporanéité.</h2><span class="maison-rule" aria-hidden="true"></span><p class="maison-text"><span>ALMANZOR est un hommage à un héritage arabo-andalou</span> <span>et marocain, réinterprété avec une vision contemporaine.</span> <span>Nos parfums incarnent la rencontre entre la richesse</span> <span>de notre culture, la noblesse des matières et l’élégance</span> <span>moderne de l’homme d’aujourd’hui.</span></p></div>
+      </section>
+      <section class="maison-benefits" aria-label="La signature de nos parfums">
+        <div><img src="assets/maison-benefit-1.webp" width="52" height="54" alt="" loading="lazy" /><p>Des ingrédients<br />sélectionnés avec soin</p></div>
+        <div><img src="assets/maison-benefit-2.webp" width="52" height="54" alt="" loading="lazy" /><p>Des parfums au<br />sillage unique</p></div>
+        <div><img src="assets/maison-benefit-3.webp" width="52" height="54" alt="" loading="lazy" /><p>Une qualité<br />intemporelle</p></div>
+        <div><img src="assets/maison-benefit-4.webp" width="52" height="54" alt="" loading="lazy" /><p>Une élégance<br />pour chaque instant</p></div>
+      </section>
+      <section class="maison-materials maison-section" id="savoir-faire" aria-labelledby="materials-title">
+        <picture class="maison-scene"><source media="(max-width: 999px)" srcset="assets/maison-materials-mobile.webp" /><img src="assets/maison-materials.webp" width="770" height="293" alt="Bois précieux et ambre dans la lumière dorée sur une pierre noire veinée" loading="lazy" /></picture>
+        <div class="maison-copy"><p class="eyebrow">Un savoir-faire authentique</p><h2 id="materials-title">Des matières<br />nobles et rares.</h2><span class="maison-rule" aria-hidden="true"></span><p class="maison-text"><span>Nous sélectionnons avec exigence les plus belles</span> <span>matières premières : bois précieux, ambres rares,</span> <span>épices nobles et notes aromatiques d’exception.</span> <span>Chaque ingrédient est choisi pour sa qualité, son</span> <span>caractère et sa capacité à créer des émotions durables.</span></p><button class="button maison-button" type="button" data-story="matieres">Notre savoir-faire <img src="assets/arrow-right.svg" width="16" height="16" alt="" /></button></div>
+      </section>
+      <section class="maison-vision maison-section" id="vision" aria-labelledby="vision-title">
+        <img class="maison-vision-scene" src="assets/maison-vision.webp" width="770" height="256" alt="Terrasse sur les montagnes et Marrakech au coucher du soleil, monogramme ALMANZOR sur la pierre" loading="lazy" />
+        <div class="maison-copy"><p class="eyebrow">Notre vision</p><h2 id="vision-title">Créer des parfums<br />qui traversent le temps.</h2><p class="maison-text"><span>Plus qu’une maison de parfums, ALMANZOR est une vision :</span> <span>celle d’une élégance masculine affirmée, inspirée par l’histoire</span> <span>et tournée vers l’avenir.</span></p></div>
+      </section>
+      <section class="maison-art maison-section" id="art-du-parfum" aria-labelledby="art-title">
+        <picture class="maison-scene"><source media="(max-width: 999px)" srcset="assets/maison-art-mobile.webp" /><img src="assets/maison-art.webp" width="770" height="248" alt="YAYA, BLADE, MONSIEUR ROUGE et BLACK EDEN sur les pierres de la Maison" loading="lazy" /></picture>
+        <div class="maison-copy"><p class="eyebrow">Une signature singulière</p><h2 id="art-title">L’art du parfum<br />au quotidien.</h2><p class="maison-text"><span>Nos créations accompagnent l’homme dans tous les</span> <span>moments de sa vie. Chaque parfum raconte une facette</span> <span>de sa personnalité : force, raffinement, audace ou mystère.</span></p><a class="button maison-button" href="nos-parfums.html">Découvrir nos parfums <img src="assets/arrow-right.svg" width="16" height="16" alt="" /></a></div>
+      </section>
+      <section class="maison-commitment" id="engagements" aria-labelledby="engagement-title">
+        <div class="maison-copy"><p class="eyebrow">Notre engagement</p><h2 id="engagement-title">Une parfumerie<br />responsable et durable.</h2><p class="maison-text"><span>Nous avançons avec la même exigence pour demain :</span> <span>en privilégiant des pratiques respectueuses de la qualité,</span> <span>des personnes et de notre environnement.</span></p></div>
+        <div class="commitment-list">
+          <div><img src="assets/maison-commitment-1.webp" width="52" height="54" alt="" loading="lazy" /><p>Ingrédients<br />responsables</p></div>
+          <div><img src="assets/maison-commitment-2.webp" width="52" height="54" alt="" loading="lazy" /><p>Packaging<br />soigné</p></div>
+          <div><img src="assets/maison-commitment-3.webp" width="52" height="54" alt="" loading="lazy" /><p>Production<br />en conscience</p></div>
+        </div>
+      </section>
+      <section class="newsletter shared-newsletter" aria-labelledby="newsletter-title">
+        <div class="container">
+          <h2 id="newsletter-title">Rejoignez notre univers</h2>
+          <p>Recevez nos nouveautés et nos inspirations.</p>
+          <form id="newsletter-form">
+            <label class="sr-only" for="email">Votre adresse e-mail</label>
+            <input id="email" name="email" type="email" placeholder="Votre adresse e-mail" autocomplete="email" required maxlength="254" />
+            <button class="button button-gold" type="submit">S’inscrire <img src="assets/arrow-right.svg" width="18" height="18" alt="" /></button>
+          </form>
+          <p id="newsletter-status" role="status" aria-live="polite"></p>
+        </div>
+      </section>
+    </main>
+    <footer class="footer shared-footer" id="footer">
+      <div class="container footer-grid">
+        <a class="brand" href="index.html#accueil" aria-label="ALMANZOR — Accueil"><img src="assets/logo-transparent.webp" width="700" height="386" alt="ALMANZOR Parfums" loading="lazy" /></a>
+        <div class="footer-column">
+          <h2>Navigation</h2>
+          <a href="index.html#accueil">Accueil</a>
+          <a href="la-maison.html">La Maison</a>
+          <a href="nos-parfums.html">Nos parfums</a>
+          <a href="index.html#sillage">L’Univers ALMANZOR</a>
+          <a href="index.html#points-de-vente">Points de vente</a>
+        </div>
+        <div class="footer-column">
+          <h2>Nos parfums</h2>
+          <a href="nos-parfums.html#blade">BLADE</a>
+          <a href="nos-parfums.html#yaya">YAYA</a>
+          <a href="nos-parfums.html#monsieur-rouge">MONSIEUR ROUGE</a>
+          <a href="nos-parfums.html#black-eden">BLACK EDEN</a>
+        </div>
+        <div class="footer-column">
+          <h2>Informations</h2>
+          <a href="index.html#points-de-vente">Livraison</a>
+          <button type="button" data-info="contact">Contact</button>
+          <button type="button" data-info="faq">FAQ</button>
+          <button type="button" data-info="legal">Mentions légales</button>
+        </div>
+        <div class="footer-column footer-follow">
+          <h2>Suivez-nous</h2>
+          <div class="footer-social-links">
+            <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="ALMANZOR sur Instagram"><img src="assets/footer-instagram.svg" width="28" height="28" alt="" /></a>
+            <button type="button" data-info="facebook" aria-label="Facebook — informations"><img src="assets/footer-facebook.svg" width="18" height="28" alt="" /></button>
+            <button type="button" data-info="youtube" aria-label="YouTube — informations"><img src="assets/footer-video.svg" width="28" height="28" alt="" /></button>
+          </div>
+        </div>
+      </div>
+      <div class="container copyright">
+        <p>© 2026 ALMANZOR PARFUMS. Tous droits réservés.</p>
+        <nav class="footer-legal" aria-label="Informations légales">
+          <button type="button" data-info="privacy">Confidentialité</button>
+          <span aria-hidden="true">·</span>
+          <button type="button" data-info="terms">Conditions générales</button>
+        </nav>
+      </div>
+    </footer>
+    <dialog id="detail-dialog" aria-labelledby="dialog-title">
+      <button class="dialog-close" aria-label="Fermer la fenêtre">
+        <img src="assets/x.svg" width="24" height="24" alt="" />
+      </button>
+      <div id="dialog-content"></div>
+    </dialog>
+  </body>
+</html>

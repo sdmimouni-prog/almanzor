@@ -1,0 +1,168 @@
+/* Content artboard: 741 × 2123. Header and footer retain the shared site design. */
+.catalog-page {background:#061910;}
+.catalog-hero {position:relative;width:100%;height:46.42375169vw;background:#041b12;overflow:hidden;}
+.catalog-hero-scene {position:absolute;inset:0;width:100%;height:100%;object-fit:fill;}
+.catalog-hero-copy {position:absolute;inset:0;color:#f1ead7;}
+.catalog-hero-copy > * {position:absolute;left:7.69230769vw;margin:0;}
+.catalog-hero .eyebrow {top:12.68556005vw;color:#bd9b60;font:500 1.07962213vw/1.48448043vw Arial,Helvetica,sans-serif;letter-spacing:0.26990553vw;}
+.catalog-hero h1 {top:14.97975709vw;width:44.53441296vw;font:400 4.72334683vw/4.58839406vw Georgia,"Times New Roman",serif;letter-spacing:-0.08097166vw;color:#f1ead7;-webkit-font-smoothing:antialiased;}
+.catalog-hero h1 span {display:block;}
+.catalog-hero .catalog-rule {top:26.58569501vw;width:2.83400810vw;height:0.13495277vw;background:#c4a369;}
+.catalog-hero .catalog-intro {top:28.87989204vw;width:41.70040486vw;font:400 1.41700405vw/2.09176788vw Arial,Helvetica,sans-serif;color:#c8ccc1;-webkit-font-smoothing:antialiased;}
+.catalog-intro span {display:block;}
+.catalog-benefits {position:relative;height:15.78947368vw;display:grid;grid-template-columns:repeat(4,1fr);padding:0 3.77867746vw;background:#f8f2e9 url("assets/catalog-benefits-paper.webp") center / 100% 100% no-repeat;}
+.catalog-benefits > div {position:relative;text-align:center;}
+.catalog-benefits img {position:absolute;top:2.29419703vw;left:50%;transform:translateX(-50%);width:6.07287449vw;height:6.20782726vw;}
+.catalog-benefits p {position:absolute;top:9.17678812vw;left:0;width:100%;font:400 1.34952767vw/1.88933873vw Arial,Helvetica,sans-serif;color:#575951;-webkit-font-smoothing:antialiased;}
+.perfume-story {position:relative;width:100%;height:40.89068826vw;overflow:hidden;}
+.perfume-photo {position:absolute;top:0;bottom:0;left:0;width:56.00539811vw;}
+.perfume-photo > img {width:100%;height:100%;object-fit:fill;display:block;}
+.perfume-copy {position:absolute;top:0;left:56.00539811vw;width:43.99460189vw;height:100%;background:#031a12 url("assets/catalog-panel-blade.webp") center / 100% 100% no-repeat;color:#f1ead8;}
+.perfume-copy > * {position:absolute;left:4.31848853vw;margin:0;}
+.perfume-copy .eyebrow {top:3.64372470vw;font:400 1.01214575vw/1.34952767vw Arial,Helvetica,sans-serif;letter-spacing:0.16194332vw;color:#aa8c54;}
+.perfume-copy h2 {top:5.39811066vw;font:400 4.04858300vw/4.85829960vw Georgia,"Times New Roman",serif;letter-spacing:-0.04048583vw;color:inherit;-webkit-font-smoothing:antialiased;}
+.perfume-copy h3 {top:10.25641026vw;font:400 2.15924426vw/2.83400810vw Georgia,"Times New Roman",serif;letter-spacing:-0.02024291vw;color:inherit;-webkit-font-smoothing:antialiased;}
+.perfume-copy .perfume-description {top:13.76518219vw;width:36.70715250vw;font:400 1.41700405vw/2.09176788vw Arial,Helvetica,sans-serif;color:#c6cbc0;-webkit-font-smoothing:antialiased;}
+.perfume-description span {display:block;}
+.perfume-copy .perfume-notes {top:21.72739541vw;display:flex;gap:5.53306343vw;}
+.perfume-notes figure {position:relative;flex:0 0 6.07287449vw;width:6.07287449vw;margin:0;}
+.perfume-notes figure img {width:6.07287449vw;height:6.07287449vw;object-fit:fill;}
+.perfume-notes figcaption {position:relative;left:-1.75438596vw;width:9.58164642vw;margin:0.80971660vw 0 0;text-align:center;font:400 1.14709852vw/1.48448043vw Arial,Helvetica,sans-serif;color:#d2d5c9;-webkit-font-smoothing:antialiased;}
+.perfume-copy .story-button {top:33.87314440vw;display:flex;align-items:center;justify-content:center;width:19.97300945vw;height:4.18353576vw;min-height:0;margin:0;padding:0;gap:1.61943320vw;border:0;border-radius:0;background:#bd9a64 url("assets/catalog-button-fill.webp") center / 100% 100% no-repeat;color:#fff8ec;font:600 1.07962213vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.10121457vw;}
+.story-button img {width:1.61943320vw;height:1.61943320vw;filter:brightness(0) invert(1);transform:scaleY(.7);}
+.perfume-copy .story-button:hover {filter:brightness(1.12);}
+.story-yaya {height:42.64507422vw;}
+.story-yaya .perfume-photo {left:auto;right:0;width:50.20242915vw;}
+.story-yaya .perfume-copy {left:0;width:49.79757085vw;background:#f8f3ea url("assets/catalog-panel-yaya.webp") center / 100% 100% no-repeat;color:#151c1c;}
+.story-yaya .perfume-copy > * {left:8.63697706vw;}
+.story-yaya .eyebrow {top:4.58839406vw;}
+.story-yaya h2 {top:6.34278003vw;}
+.story-yaya h3 {top:10.93117409vw;}
+.story-yaya .perfume-description {top:14.84480432vw;width:36.30229420vw;color:#575951;}
+.story-yaya .perfume-notes {top:24.83130904vw;gap:5.66801619vw;}
+.story-yaya .perfume-notes figure, .story-yaya .perfume-notes img {width:5.93792173vw;flex-basis:5.93792173vw;height:5.93792173vw;}
+.story-yaya .perfume-notes figure {height:auto;}
+.story-yaya .story-button {top:35.76248313vw;width:20.51282051vw;}
+.story-yaya figcaption, .story-monsieur-rouge figcaption, .story-black-eden figcaption {color:#5f6057;}
+.story-monsieur-rouge {height:38.73144399vw;}
+.story-monsieur-rouge .perfume-photo {width:54.38596491vw;}
+.story-monsieur-rouge .perfume-copy {left:54.38596491vw;width:45.61403509vw;background:#f8f3ea url("assets/catalog-panel-monsieur-rouge.webp") center / 100% 100% no-repeat;color:#141c1c;}
+.story-monsieur-rouge .perfume-copy > * {left:4.72334683vw;}
+.story-monsieur-rouge .eyebrow {top:3.77867746vw;}
+.story-monsieur-rouge h2 {top:5.53306343vw;font-size:3.64372470vw;line-height:4.58839406vw;letter-spacing:-0.08097166vw;}
+.story-monsieur-rouge h3 {top:10.25641026vw;letter-spacing:-0.03373819vw;}
+.story-monsieur-rouge .perfume-description {top:13.90013495vw;width:38.46153846vw;color:#575951;}
+.story-monsieur-rouge .perfume-notes {top:21.72739541vw;left:4.85829960vw;gap:6.61268556vw;}
+.story-monsieur-rouge .story-button {top:33.73819163vw;width:27.80026991vw;}
+.story-black-eden {height:41.02564103vw;}
+.story-black-eden .perfume-photo {left:auto;right:0;width:51.14709852vw;}
+.story-black-eden .perfume-copy {left:0;width:48.85290148vw;background:#f8f3ea url("assets/catalog-panel-black-eden.webp") center / 100% 100% no-repeat;color:#141c1c;}
+.story-black-eden .perfume-copy > * {left:9.04183536vw;}
+.story-black-eden .eyebrow {top:4.04858300vw;}
+.story-black-eden h2 {top:5.93792173vw;font-size:4.04858300vw;}
+.story-black-eden h3 {top:10.79622132vw;}
+.story-black-eden .perfume-description {top:14.30499325vw;width:35.89743590vw;color:#575951;}
+.story-black-eden .perfume-notes {top:22.26720648vw;gap:5.66801619vw;}
+.story-black-eden .story-button {top:34.68286100vw;width:26.18083671vw;}
+.catalog-signature {position:relative;height:22.53711201vw;width:100%;overflow:hidden;}
+.catalog-signature-scene {position:absolute;inset:0;width:100%;height:100%;object-fit:fill;}
+.catalog-signature-copy {position:absolute;inset:0;text-align:center;color:#f3ead6;}
+.catalog-signature-copy > * {position:absolute;left:50%;transform:translateX(-50%);margin:0;}
+.catalog-signature .catalog-monogram {top:1.61943320vw;width:6.34278003vw;height:5.66801619vw;object-fit:contain;}
+.catalog-signature h2 {top:7.42240216vw;width:40.48582996vw;font:400 3.50877193vw/3.50877193vw Georgia,"Times New Roman",serif;letter-spacing:-0.04048583vw;-webkit-font-smoothing:antialiased;}
+.catalog-signature .button {top:16.59919028vw;width:26.58569501vw;height:3.64372470vw;min-height:0;border:0;border-radius:0;padding:0;display:flex;justify-content:center;align-items:center;gap:1.34952767vw;background:#e1b675;color:#313324;font:600 1.01214575vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.08771930vw;}
+.catalog-signature .button img {width:1.61943320vw;height:1.61943320vw;transform:scaleY(.65);}
+.catalog-signature .button:hover {background:#f0c888;}
+.catalog-page .newsletter.catalog-newsletter {position:relative;width:100%;height:16.32928475vw;min-height:0;padding:0;background:#021e14 url("assets/catalog-newsletter.webp") center / 100% 100% no-repeat;overflow:hidden;}
+.catalog-newsletter > .container {position:absolute;inset:0;width:100%;max-width:none;margin:0;padding:0;}
+.catalog-newsletter h2 {position:absolute;top:2.42914980vw;left:0;width:100%;margin:0;font:400 2.83400810vw/3.91363023vw Georgia,"Times New Roman",serif;letter-spacing:-0.04048583vw;color:#f5f0df;-webkit-font-smoothing:antialiased;}
+.catalog-newsletter .container > p:not(#newsletter-status) {position:absolute;top:6.88259109vw;left:0;width:100%;margin:0;font:400 1.21457490vw/1.75438596vw Arial,Helvetica,sans-serif;color:#bbc3b4;}
+.catalog-newsletter #newsletter-form {position:absolute;top:9.85155196vw;left:26.11336032vw;width:47.77327935vw;height:3.50877193vw;max-width:none;display:flex;margin:0;}
+.catalog-newsletter #email {width:35.22267206vw;min-width:0;flex:1;height:3.50877193vw;padding:0 1.21457490vw;margin:0;border:0;border-radius:0;background:#faf4e9;color:#292b25;font:400 1.21457490vw/1 Arial,Helvetica,sans-serif;}
+.catalog-newsletter .button {width:12.55060729vw;min-height:0;height:3.50877193vw;display:flex;padding:0;gap:1.07962213vw;border:0;border-radius:0;background:#cda875;color:#343521;font:600 1.07962213vw/1 Arial,Helvetica,sans-serif;letter-spacing:0.06747638vw;}
+.catalog-newsletter .button img {width:1.48448043vw;height:1.48448043vw;}
+.catalog-newsletter #newsletter-status {position:absolute;top:14.43994602vw;left:10%;width:80%;margin:0;color:#eee5ce;font:400 1.21457490vw/1.75438596vw Arial,Helvetica,sans-serif;}
+.catalog-page .catalog-newsletter:has(#newsletter-status:not(:empty)) {height:20.37786775vw;}
+
+@media (max-width:999px) {
+ .catalog-hero {height:730px;}
+ .catalog-hero-scene {top:auto;bottom:0;height:300px;object-fit:cover;object-position:right bottom;}
+ .catalog-hero-copy > * {left:24px;}
+ .catalog-hero .eyebrow {top:118px;font-size:11px;line-height:16px;letter-spacing:3px;}
+ .catalog-hero h1 {top:149px;width:calc(100% - 48px);font-size:clamp(28px,8.5vw,42px);line-height:1.05;letter-spacing:-.5px;}
+ .catalog-hero .catalog-rule {top:243px;width:35px;height:2px;}
+ .catalog-hero .catalog-intro {top:267px;width:calc(100% - 48px);max-width:540px;font-size:14px;line-height:21px;}
+ .catalog-intro span {display:inline;}
+ .catalog-benefits {height:auto;grid-template-columns:repeat(2,minmax(0,1fr));padding:22px 12px;background:#f8f2e9;gap:20px 0;}
+ .catalog-benefits > div {position:static;min-height:112px;display:flex;flex-direction:column;align-items:center;}
+ .catalog-benefits img {position:static;transform:none;width:55px;height:56px;}
+ .catalog-benefits p {position:static;font-size:12px;line-height:18px;margin-top:10px;}
+ .perfume-story {height:auto!important;display:flex;flex-direction:column;overflow:visible;}
+ .perfume-story .perfume-photo {position:static;width:100%;height:auto;}
+ .perfume-photo > img {width:100%;height:auto;object-fit:contain;}
+ .perfume-story .perfume-copy {position:relative;inset:auto;width:100%;height:auto;min-height:0;padding:32px 24px 36px;background:#f8f3ea;}
+ .story-blade .perfume-copy {background:#031a12;}
+ .perfume-copy > * {position:static!important;}
+ .perfume-copy .eyebrow {font-size:11px;line-height:16px;letter-spacing:2px;}
+ .perfume-copy h2 {font-size:38px;line-height:44px;letter-spacing:-.5px;margin:7px 0 0;}
+ .story-monsieur-rouge h2 {font-size:clamp(25px,7.4vw,38px);line-height:1.2;}
+ .perfume-copy h3 {font-size:23px;line-height:27px;letter-spacing:-.3px;margin:2px 0 0;max-width:600px;}
+ .perfume-copy .perfume-description {width:auto;font-size:15px;line-height:24px;max-width:620px;margin:18px 0 0;}
+ .perfume-description span {display:inline;}
+ .perfume-copy .perfume-notes {display:flex;justify-content:space-between;gap:18px;max-width:410px;margin:25px 0 0;}
+ .perfume-notes figure, .story-yaya .perfume-notes figure {flex:1;width:auto;height:auto;min-width:0;display:flex;flex-direction:column;align-items:center;}
+ .perfume-notes figure img, .story-yaya .perfume-notes img {width:64px;height:64px;flex-basis:auto;}
+ .perfume-notes figcaption {left:auto;width:100%;margin-top:8px;font-size:12px;line-height:17px;}
+ .perfume-copy .story-button {width:100%;max-width:330px;height:48px;min-height:0;margin:27px 0 0;padding:0;font-size:10.5px;letter-spacing:.8px;gap:18px;}
+ .story-button img {width:18px;height:18px;}
+ .catalog-signature {height:310px;}
+ .catalog-signature-scene {object-fit:cover;object-position:50% center;}
+ .catalog-signature .catalog-monogram {top:30px;width:66px;height:58px;}
+ .catalog-signature h2 {top:106px;width:100%;padding:0 12px;font-size:33px;line-height:34px;letter-spacing:-.5px;}
+ .catalog-signature .button {top:219px;width:calc(100% - 48px);max-width:390px;height:48px;font-size:10px;letter-spacing:.7px;gap:15px;}
+ .catalog-signature .button img {width:18px;height:18px;}
+ .catalog-page .newsletter.catalog-newsletter {height:auto;min-height:230px;padding:28px 24px;background-size:cover;overflow:visible;}
+ .catalog-newsletter > .container {position:static;width:100%;}
+ .catalog-newsletter h2 {position:static;width:auto;font-size:28px;line-height:34px;letter-spacing:-.5px;}
+ .catalog-newsletter .container > p:not(#newsletter-status) {position:static;width:auto;font-size:13px;line-height:20px;margin-top:8px;}
+ .catalog-newsletter #newsletter-form {position:static;width:100%;max-width:600px;height:48px;margin:22px auto 0;}
+ .catalog-newsletter #email {width:0;flex:1;height:48px;font-size:12px;padding:0 12px;}
+ .catalog-newsletter .button {width:105px;height:48px;font-size:10px;letter-spacing:.2px;gap:8px;}
+ .catalog-newsletter .button img {width:14px;height:14px;}
+ .catalog-newsletter #newsletter-status {position:static;width:auto;font-size:11px;line-height:17px;margin:12px 0 0;}
+ .catalog-page .catalog-newsletter:has(#newsletter-status:not(:empty)) {height:auto;}
+}
+@media (min-width:600px) and (max-width:999px) {
+ .catalog-hero-scene {height:340px;}
+ .catalog-hero {height:740px;}
+ .catalog-benefits {grid-template-columns:repeat(4,minmax(0,1fr));padding:25px 15px;gap:0;}
+ .catalog-benefits p {font-size:12px;}
+ .perfume-story .perfume-photo img {max-height:570px;object-fit:cover;}
+ .perfume-story .perfume-copy {padding:38px 40px 42px;}
+}
+
+/* Same-scale refinements from the first source/render comparison. */
+@media (min-width:1000px) {
+ .catalog-hero h1 {top:15.38461538vw;font-size:4.81781377vw;line-height:4.72334683vw;letter-spacing:-.09446694vw;}
+ .catalog-hero .catalog-rule {width:4.048583vw;height:.20242915vw;background:#a28663;}
+ .perfume-copy h2 {letter-spacing:-.08097166vw;}
+ .story-monsieur-rouge h2 {font-size:3.50877193vw;}
+ .perfume-notes figure img {width:7.69230769vw;height:7.42240216vw;margin:-.80971660vw -.80971660vw -.53981107vw;}
+ .story-yaya .perfume-notes img {width:7.55735493vw;height:7.28744939vw;}
+ .perfume-copy .story-button {font-weight:500;border:.06747638vw solid #d8bf97;}
+}
+.story-blade .story-button {background-image:url("assets/catalog-button-blade.webp");}
+.story-yaya .story-button {background-image:url("assets/catalog-button-yaya.webp");}
+.story-monsieur-rouge .story-button {background-image:url("assets/catalog-button-monsieur-rouge.webp");}
+.story-black-eden .story-button {background-image:url("assets/catalog-button-black-eden.webp");}
+@media (max-width:999px) {
+ .perfume-notes figure img, .story-yaya .perfume-notes img {width:76px;height:73px;object-fit:fill;margin:0;}
+}
+.perfume-notes figure img {max-width:none;}
+.catalog-newsletter #newsletter-form {gap:0;flex-wrap:nowrap;}
+.catalog-newsletter .button {min-width:0;flex:0 0 auto;}
+@media (max-width:999px) {
+ .story-yaya .perfume-photo, .story-black-eden .perfume-photo {overflow:hidden;}
+ .story-yaya .perfume-photo img {margin-top:-5px;}
+ .story-black-eden .perfume-photo img {margin-top:-3px;}
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "key": "blade",
+    "name": "BLADE",
+    "tag": "Une signature affirmée.",
+    "lines": [
+      "Des notes fraîches et boisées pour un parfum",
+      "à la fois puissant et sophistiqué. BLADE incarne",
+      "l’élégance moderne et la maîtrise de soi."
+    ],
+    "notes": [
+      "Agrumes<br />frais",
+      "Bois nobles",
+      "Notes<br />aromatiques"
+    ],
+    "photo": [
+      415,
+      303
+    ],
+    "note": 45,
+    "button": 148
+  },
+  {
+    "key": "yaya",
+    "name": "YAYA",
+    "tag": "Une chaleur qui vous accompagne.",
+    "lines": [
+      "Des notes ambrées et épicées pour un parfum",
+      "élégant et captivant. YAYA révèle un caractère",
+      "lumineux et raffiné, pensé pour l’homme qui",
+      "avance avec assurance."
+    ],
+    "notes": [
+      "Notes<br />ambrées",
+      "Épices<br />raffinées",
+      "Accord<br />boisé"
+    ],
+    "photo": [
+      372,
+      316
+    ],
+    "note": 44,
+    "button": 152
+  },
+  {
+    "key": "monsieur-rouge",
+    "name": "MONSIEUR ROUGE",
+    "tag": "Une intensité qui marque les esprits.",
+    "lines": [
+      "Des notes épicées et boisées pour un parfum",
+      "audacieux et sophistiqué. MONSIEUR ROUGE",
+      "incarne la force de caractère et l’élégance affirmée."
+    ],
+    "notes": [
+      "Épices<br />précieuses",
+      "Bois nobles",
+      "Ambres<br />sensuels"
+    ],
+    "photo": [
+      403,
+      287
+    ],
+    "note": 45,
+    "button": 206
+  },
+  {
+    "key": "black-eden",
+    "name": "BLACK EDEN",
+    "tag": "Un mystère qui vous suit.",
+    "lines": [
+      "Des notes boisées et ambrées pour un parfum",
+      "profond et magnétique. BLACK EDEN incarne",
+      "l’élégance sombre et le charisme naturel."
+    ],
+    "notes": [
+      "Bois<br />élégants",
+      "Ambres<br />profonds",
+      "Touches<br />végétales"
+    ],
+    "photo": [
+      379,
+      304
+    ],
+    "note": 45,
+    "button": 194
+  }
+]

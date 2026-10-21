@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0F2A24" />
+    <meta
+      name="description"
+      content="Découvrez ALMANZOR, Maison marocaine de parfums masculins. BLADE, YAYA, MONSIEUR ROUGE et BLACK EDEN : quatre créations, une signature."
+    />
+    <link rel="icon" type="image/webp" href="assets/logo-transparent.webp" />
+    <title>ALMANZOR Parfums — L’art du parfum</title>
+    <link rel="preload" as="image" href="assets/hero-reference-clean.webp" />
+    <link
+      rel="preload"
+      as="font"
+      type="font/ttf"
+      href="assets/cormorant-400.ttf"
+      crossorigin
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="hero.css" />
+    <link rel="stylesheet" href="editorial.css" />
+    <link rel="stylesheet" href="collection.css" />
+    <link rel="stylesheet" href="signature.css" />
+    <link rel="stylesheet" href="heritage.css" />
+    <link rel="stylesheet" href="scroll-motion.css" />
+    <link rel="stylesheet" href="shared-footer.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body class="home-page">
+    <a class="skip-link" href="#main">Aller au contenu</a>
+    <header class="header hero-header" id="accueil">
+      <a class="brand" href="#accueil" aria-label="ALMANZOR Parfums — Accueil"
+        ><img
+          src="assets/logo-hero-reference.webp"
+          width="178"
+          height="115"
+          alt="ALMANZOR Parfums"
+      /></a>
+      <nav
+        class="navigation"
+        id="navigation"
+        aria-label="Navigation principale"
+      >
+        <a class="active" href="#accueil" aria-current="page">Accueil</a>
+        <a href="la-maison.html">La Maison</a>
+        <a href="nos-parfums.html">Nos parfums</a>
+        <a href="#sillage">L’Univers ALMANZOR</a>
+        <a href="#points-de-vente">Points de vente</a>
+        <a href="https://almanzor.ma" class="mobile-order">Commander</a>
+      </nav>
+      <div class="header-actions">
+        <a class="order-link" href="https://almanzor.ma"
+          >Commander
+          <img src="assets/arrow-right.svg" width="18" height="18" alt=""
+        /></a>
+        <span class="header-divider" aria-hidden="true"></span>
+        <button
+          class="header-icon search-button"
+          type="button"
+          aria-label="Rechercher un parfum"
+        >
+          <img
+            src="assets/header-magnifying-glass.svg"
+            width="26"
+            height="26"
+            alt=""
+          />
+        </button>
+        <a
+          class="header-icon account-link"
+          href="https://almanzor.ma"
+          aria-label="Espace client sur le site officiel"
+          ><img src="assets/header-user.svg" width="26" height="26" alt=""
+        /></a>
+        <a
+          class="header-icon bag-link"
+          href="https://almanzor.ma"
+          aria-label="Commander sur le site officiel"
+          ><img src="assets/header-handbag.svg" width="26" height="26" alt=""
+        /></a>
+        <button
+          class="menu-button"
+          type="button"
+          aria-controls="navigation"
+          aria-expanded="false"
+          aria-label="Ouvrir le menu"
+        >
+          <img
+            class="icon"
+            src="assets/menu.svg"
+            width="24"
+            height="24"
+            alt=""
+          />
+        </button>
+      </div>
+    </header>
+    <main id="main">
+      <section class="hero reference-hero" aria-labelledby="hero-title">
+        <img
+          class="reference-hero-scene"
+          src="assets/hero-reference-clean.webp"
+          width="1672"
+          height="941"
+          alt="Flacon ALMANZOR bleu nuit sur une pierre sombre, devant un mur vert profond baigné de lumière chaude"
+          fetchpriority="high"
+        />
+        <div class="container hero-content">
+          <h1 id="hero-title">
+            <span>Des parfums</span><span>qui traversent</span
+            ><span>le temps</span>
+          </h1>
+          <p>
+            Des créations élégantes et intemporelles,
+            <br class="desktop-break" />inspirées d’un héritage riche et d’un
+            savoir-faire <br class="desktop-break" />unique.
+          </p>
+          <a class="button button-gold" href="nos-parfums.html"
+            >Découvrir notre collection
+            <img src="assets/arrow-right.svg" width="18" height="18" alt=""
+          /></a>
+        </div>
+      </section>
+      <section
+        class="maison editorial-maison"
+        id="maison"
+        aria-labelledby="maison-title"
+      >
+        <img
+          class="editorial-maison-scene"
+          src="assets/editorial-maison.webp"
+          width="1774"
+          height="460"
+          alt="Arche marocaine sculptée, porte marquée de l’emblème ALMANZOR et olivier baignés de lumière dorée"
+          loading="lazy"
+        />
+        <div class="container maison-content">
+          <picture class="maison-logo"
+            ><source
+              media="(max-width: 1199px)"
+              srcset="assets/editorial-logo-transparent.webp" />
+            <img
+              src="assets/editorial-logo.webp"
+              width="145"
+              height="96"
+              alt="ALMANZOR Parfums"
+              loading="lazy"
+          /></picture>
+          <p class="eyebrow">La Maison</p>
+          <h2 id="maison-title">L’art du parfum</h2>
+          <span class="maison-rule" aria-hidden="true"></span>
+          <p class="maison-copy">
+            <span
+              >ALMANZOR, c’est une maison marocaine de parfums qui puise </span
+            ><span
+              >son inspiration dans un héritage riche et une vision
+              contemporaine. </span
+            ><span
+              >Chaque fragrance est une invitation au voyage, une émotion </span
+            ><span>à porter, un caractère à affirmer.</span>
+          </p>
+          <a class="button button-outline" href="la-maison.html#histoire">
+            Notre histoire
+            <img
+              class="icon"
+              src="assets/editorial-arrow-bronze.svg"
+              width="16"
+              height="16"
+              alt=""
+            />
+          </a>
+        </div>
+      </section>
+      <section
+        class="univers editorial-univers"
+        id="univers"
+        aria-labelledby="univers-title"
+      >
+        <div class="section-heading">
+          <p class="eyebrow">Notre univers</p>
+          <span class="gold-rule" aria-hidden="true"></span>
+          <h2 id="univers-title">Des parfums pour chaque personnalité</h2>
+        </div>
+        <div class="universe-grid">
+          <a class="universe-card perfumes-card" href="nos-parfums.html">
+            <img
+              class="card-background"
+              src="assets/editorial-parfums.webp"
+              width="754"
+              height="275"
+              alt=""
+              loading="lazy"
+            />
+            <div class="card-copy">
+              <h3><span>Nos</span><span>parfums</span></h3>
+              <span class="button button-outline"
+                >Découvrir
+                <img
+                  class="icon"
+                  src="assets/editorial-arrow-gold.svg"
+                  width="16"
+                  height="16"
+                  alt=""
+              /></span>
+            </div>
+          </a>
+          <a class="universe-card house-card" href="#sillage">
+            <img
+              class="card-background"
+              src="assets/editorial-univers.webp"
+              width="753"
+              height="275"
+              alt=""
+              loading="lazy"
+            />
+            <div class="card-copy">
+              <h3><span>Notre</span><span>univers</span></h3>
+              <span class="button button-outline"
+                >Découvrir
+                <img
+                  class="icon"
+                  src="assets/editorial-arrow-gold.svg"
+                  width="16"
+                  height="16"
+                  alt=""
+              /></span>
+            </div>
+          </a>
+        </div>
+      </section>
+      <section class="selection reference-selection" id="parfums" aria-labelledby="selection-title">
+        <div class="section-heading">
+          <p class="eyebrow">Les incontournables</p>
+          <h2 id="selection-title">Notre sélection</h2>
+          <span class="gold-rule" aria-hidden="true"></span>
+        </div>
+        <button class="collection-arrow collection-prev" aria-label="Voir le parfum précédent" aria-controls="collection-grid"><img src="assets/collection-chevron-left.svg" width="24" height="32" alt="" /></button>
+        <div class="product-grid" id="collection-grid">
+          <article class="product" id="blade">
+            <button class="product-image" data-product="blade" aria-label="Découvrir BLADE"><img src="assets/collection-blade.webp" width="319" height="307" alt="BLADE, flacon noir et bleu, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <h3>BLADE</h3>
+            <p class="product-concentration">Eau de parfum</p>
+            <button class="button button-outline" data-product="blade" aria-label="Découvrir BLADE">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+          </article>
+          <article class="product" id="yaya">
+            <button class="product-image" data-product="yaya" aria-label="Découvrir YAYA"><img src="assets/collection-yaya.webp" width="319" height="307" alt="YAYA, flacon noir et ambré, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <h3>YAYA</h3>
+            <p class="product-concentration">Eau de parfum</p>
+            <button class="button button-outline" data-product="yaya" aria-label="Découvrir YAYA">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+          </article>
+          <article class="product" id="monsieur-rouge">
+            <button class="product-image" data-product="monsieur-rouge" aria-label="Découvrir MONSIEUR ROUGE"><img src="assets/collection-monsieur-rouge.webp" width="319" height="307" alt="MONSIEUR ROUGE, flacon noir et rouge, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <h3>MONSIEUR ROUGE</h3>
+            <p class="product-concentration">Eau de parfum</p>
+            <button class="button button-outline" data-product="monsieur-rouge" aria-label="Découvrir MONSIEUR ROUGE">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+          </article>
+          <article class="product" id="black-eden">
+            <button class="product-image" data-product="black-eden" aria-label="Découvrir BLACK EDEN"><img src="assets/collection-black-eden.webp" width="319" height="307" alt="BLACK EDEN, flacon noir et vert, capuchon noir texturé et finitions dorées" loading="lazy" /></button>
+            <h3>BLACK EDEN</h3>
+            <p class="product-concentration">Eau de parfum</p>
+            <button class="button button-outline" data-product="black-eden" aria-label="Découvrir BLACK EDEN">Découvrir <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+          </article>
+        </div>
+        <button class="collection-arrow collection-next" aria-label="Voir le parfum suivant" aria-controls="collection-grid"><img src="assets/collection-chevron-right.svg" width="24" height="32" alt="" /></button>
+        <p class="sr-only collection-status" role="status" aria-live="polite" aria-atomic="true"></p>
+      </section>
+      <section class="craft reference-craft heritage-craft" id="sillage" aria-labelledby="craft-title">
+        <div class="craft-image"><img src="assets/heritage-craft-macro.webp" width="827" height="517" alt="Gros plan du capuchon ALMANZOR, texture noire et monogramme doré" loading="lazy" /></div>
+        <div class="craft-copy">
+          <p class="eyebrow">Un savoir-faire authentique</p>
+          <h2 id="craft-title">L’excellence<br />dans chaque détail.</h2>
+          <span class="gold-rule" aria-hidden="true"></span>
+          <p class="craft-description"><span>Des matières nobles, des essences sélectionnées</span> <span>avec soin, et un savoir-faire qui donne naissance</span> <span>à des parfums d’exception.</span></p>
+          <button class="button craft-button" data-story="univers">Découvrir notre savoir-faire <img src="assets/editorial-arrow-bronze.svg" width="24" height="24" alt="" /></button>
+        </div>
+      </section>
+      <section class="signature reference-signature heritage-signature" id="signature" aria-labelledby="signature-title">
+        <img class="signature-image" src="assets/heritage-signature-scene.webp" width="1536" height="507" alt="Terrasse marocaine au coucher du soleil, palmiers et montagnes, grand monogramme ALMANZOR doré sur le mur" loading="lazy" />
+        <div class="signature-copy">
+          <img class="signature-logo" src="assets/heritage-monogram.webp" width="120" height="106" alt="Monogramme ALMANZOR" loading="lazy" />
+          <h2 id="signature-title"><span>Plus qu’un parfum,</span> <span>une signature.</span></h2>
+          
+          <a class="button button-gold" href="la-maison.html">Découvrir l’univers ALMANZOR <img src="assets/arrow-right.svg" width="24" height="24" alt="" /></a>
+        </div>
+      </section>
+      <section class="reassurance reference-reassurance" id="points-de-vente" aria-label="Les services ALMANZOR">
+        <div class="service-item"><img src="assets/signature-service-delivery.webp" width="74" height="60" alt="" loading="lazy" /><p>Livraison<br />partout au Maroc.</p></div>
+        <div class="service-item"><img src="assets/signature-service-payment.webp" width="52" height="60" alt="" loading="lazy" /><p>Paiement<br />sécurisé.</p></div>
+        <div class="service-item"><img src="assets/signature-service-location.webp" width="51" height="60" alt="" loading="lazy" /><p>Disponibles dans<br />toutes les parfumeries.</p></div>
+        <div class="service-item"><img src="assets/signature-service-support.webp" width="54" height="60" alt="" loading="lazy" /><p>Service client<br />à votre écoute.</p></div>
+      </section>
+      <section class="instagram reference-instagram" id="inspiration" aria-labelledby="instagram-title">
+        <div class="section-heading">
+          <p class="eyebrow">Inspiration</p>
+          <h2 id="instagram-title">L’univers Almanzor</h2>
+          <p class="instagram-subtitle">Suivez-nous sur Instagram <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer">@almanzor.parfums</a></p>
+        </div>
+        <div class="instagram-grid">
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 1"><img src="assets/signature-inspiration-bottle-rock.webp" width="238" height="198" alt="Flacon ALMANZOR ambré posé sur des pierres au soleil" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 2"><img src="assets/signature-inspiration-flower.webp" width="242" height="198" alt="Fleur blanche sur une pierre claire" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 3"><img src="assets/signature-inspiration-bottle-citrus.webp" width="245" height="198" alt="Flacon bleu nuit ALMANZOR auprès d’agrumes" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 4"><img src="assets/signature-inspiration-arch.webp" width="244" height="198" alt="Arche marocaine ouverte sur les palmiers et les montagnes" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 5"><img src="assets/signature-inspiration-bottle-gold.webp" width="243" height="198" alt="Flacon doré ALMANZOR et fleur blanche dans la lumière" loading="lazy" /></a>
+          <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="Voir l’univers ALMANZOR sur Instagram — image 6"><img src="assets/signature-inspiration-stone.webp" width="239" height="198" alt="Monogramme ALMANZOR gravé dans la pierre, ombres de palmes" loading="lazy" /></a>
+        </div>
+      </section>
+      <section class="newsletter shared-newsletter" aria-labelledby="newsletter-title">
+        <div class="container">
+          <h2 id="newsletter-title">Rejoignez notre univers</h2>
+          <p>Recevez nos nouveautés et nos inspirations.</p>
+          <form id="newsletter-form">
+            <label class="sr-only" for="email">Votre adresse e-mail</label>
+            <input id="email" name="email" type="email" placeholder="Votre adresse e-mail" autocomplete="email" required maxlength="254" />
+            <button class="button button-gold" type="submit">S’inscrire <img src="assets/arrow-right.svg" width="18" height="18" alt="" /></button>
+          </form>
+          <p id="newsletter-status" role="status" aria-live="polite"></p>
+        </div>
+      </section>
+    </main>
+    <footer class="footer shared-footer" id="footer">
+      <div class="container footer-grid">
+        <a class="brand" href="index.html#accueil" aria-label="ALMANZOR — Accueil"><img src="assets/logo-transparent.webp" width="700" height="386" alt="ALMANZOR Parfums" loading="lazy" /></a>
+        <div class="footer-column">
+          <h2>Navigation</h2>
+          <a href="index.html#accueil">Accueil</a>
+          <a href="la-maison.html">La Maison</a>
+          <a href="nos-parfums.html">Nos parfums</a>
+          <a href="index.html#sillage">L’Univers ALMANZOR</a>
+          <a href="index.html#points-de-vente">Points de vente</a>
+        </div>
+        <div class="footer-column">
+          <h2>Nos parfums</h2>
+          <a href="nos-parfums.html#blade">BLADE</a>
+          <a href="nos-parfums.html#yaya">YAYA</a>
+          <a href="nos-parfums.html#monsieur-rouge">MONSIEUR ROUGE</a>
+          <a href="nos-parfums.html#black-eden">BLACK EDEN</a>
+        </div>
+        <div class="footer-column">
+          <h2>Informations</h2>
+          <a href="index.html#points-de-vente">Livraison</a>
+          <button type="button" data-info="contact">Contact</button>
+          <button type="button" data-info="faq">FAQ</button>
+          <button type="button" data-info="legal">Mentions légales</button>
+        </div>
+        <div class="footer-column footer-follow">
+          <h2>Suivez-nous</h2>
+          <div class="footer-social-links">
+            <a href="https://www.instagram.com/almanzor.parfums/" target="_blank" rel="noopener noreferrer" aria-label="ALMANZOR sur Instagram"><img src="assets/footer-instagram.svg" width="28" height="28" alt="" /></a>
+            <button type="button" data-info="facebook" aria-label="Facebook — informations"><img src="assets/footer-facebook.svg" width="18" height="28" alt="" /></button>
+            <button type="button" data-info="youtube" aria-label="YouTube — informations"><img src="assets/footer-video.svg" width="28" height="28" alt="" /></button>
+          </div>
+        </div>
+      </div>
+      <div class="container copyright">
+        <p>© 2026 ALMANZOR PARFUMS. Tous droits réservés.</p>
+        <nav class="footer-legal" aria-label="Informations légales">
+          <button type="button" data-info="privacy">Confidentialité</button>
+          <span aria-hidden="true">·</span>
+          <button type="button" data-info="terms">Conditions générales</button>
+        </nav>
+      </div>
+    </footer>
+    <dialog id="detail-dialog" aria-labelledby="dialog-title">
+      <button class="dialog-close" aria-label="Fermer la fenêtre">
+        <img src="assets/x.svg" width="24" height="24" alt="" />
+      </button>
+      <div id="dialog-content"></div>
+    </dialog>
+  </body>
+</html>

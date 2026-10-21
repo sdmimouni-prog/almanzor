@@ -1,0 +1,401 @@
+[
+  {
+    "width": 1482,
+    "scrollWidth": 1482,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 1482,
+      "height": 3918
+    },
+    "footer": {
+      "x": 0,
+      "y": 3918,
+      "width": 1482,
+      "height": 293
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1482,
+      "height": 688
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 922,
+        "width": 1482,
+        "height": 606
+      },
+      {
+        "x": 0,
+        "y": 1528,
+        "width": 1482,
+        "height": 632
+      },
+      {
+        "x": 0,
+        "y": 2160,
+        "width": 1482,
+        "height": 574
+      },
+      {
+        "x": 0,
+        "y": 2734,
+        "width": 1482,
+        "height": 608
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 3676,
+      "width": 1482,
+      "height": 242
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 1440,
+    "scrollWidth": 1440,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 3806.90625
+    },
+    "footer": {
+      "x": 0,
+      "y": 3806.90625,
+      "width": 1440,
+      "height": 293
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 668.5
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 895.859375,
+        "width": 1440,
+        "height": 588.8125
+      },
+      {
+        "x": 0,
+        "y": 1484.671875,
+        "width": 1440,
+        "height": 614.078125
+      },
+      {
+        "x": 0,
+        "y": 2098.75,
+        "width": 1440,
+        "height": 557.71875
+      },
+      {
+        "x": 0,
+        "y": 2656.46875,
+        "width": 1440,
+        "height": 590.765625
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 3571.765625,
+      "width": 1440,
+      "height": 235.140625
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 1536,
+    "scrollWidth": 1536,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 1536,
+      "height": 4060.6875
+    },
+    "footer": {
+      "x": 0,
+      "y": 4060.6875,
+      "width": 1536,
+      "height": 293
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1536,
+      "height": 713.0625
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 955.578125,
+        "width": 1536,
+        "height": 628.078125
+      },
+      {
+        "x": 0,
+        "y": 1583.65625,
+        "width": 1536,
+        "height": 655.015625
+      },
+      {
+        "x": 0,
+        "y": 2238.671875,
+        "width": 1536,
+        "height": 594.90625
+      },
+      {
+        "x": 0,
+        "y": 2833.578125,
+        "width": 1536,
+        "height": 630.140625
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 3809.875,
+      "width": 1536,
+      "height": 250.8125
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 390,
+    "scrollWidth": 390,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 4701.1875
+    },
+    "footer": {
+      "x": 0,
+      "y": 4701.1875,
+      "width": 390,
+      "height": 613.453125
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 730
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 1018,
+        "width": 390,
+        "height": 753.734375
+      },
+      {
+        "x": 0,
+        "y": 1771.734375,
+        "width": 390,
+        "height": 846.28125
+      },
+      {
+        "x": 0,
+        "y": 2618.015625,
+        "width": 390,
+        "height": 764.359375
+      },
+      {
+        "x": 0,
+        "y": 3382.375,
+        "width": 390,
+        "height": 778.8125
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 4471.1875,
+      "width": 390,
+      "height": 230
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 768,
+    "scrollWidth": 768,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 5511.25
+    },
+    "footer": {
+      "x": 0,
+      "y": 5511.25,
+      "width": 768,
+      "height": 293
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 740
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 902,
+        "width": 768,
+        "height": 1017.71875
+      },
+      {
+        "x": 0,
+        "y": 1919.71875,
+        "width": 768,
+        "height": 1022
+      },
+      {
+        "x": 0,
+        "y": 2941.71875,
+        "width": 768,
+        "height": 1005.53125
+      },
+      {
+        "x": 0,
+        "y": 3947.25,
+        "width": 768,
+        "height": 1024
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 5281.25,
+      "width": 768,
+      "height": 230
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 1920,
+    "scrollWidth": 1920,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 5075.90625
+    },
+    "footer": {
+      "x": 0,
+      "y": 5075.90625,
+      "width": 1920,
+      "height": 293
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 891.328125
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 1194.484375,
+        "width": 1920,
+        "height": 785.09375
+      },
+      {
+        "x": 0,
+        "y": 1979.578125,
+        "width": 1920,
+        "height": 818.78125
+      },
+      {
+        "x": 0,
+        "y": 2798.359375,
+        "width": 1920,
+        "height": 743.640625
+      },
+      {
+        "x": 0,
+        "y": 3542,
+        "width": 1920,
+        "height": 787.6875
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 4762.390625,
+      "width": 1920,
+      "height": 313.515625
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  },
+  {
+    "width": 319,
+    "scrollWidth": 319,
+    "main": {
+      "x": 0,
+      "y": 0,
+      "width": 319,
+      "height": 4584.90625
+    },
+    "footer": {
+      "x": 0,
+      "y": 4584.90625,
+      "width": 319,
+      "height": 613.453125
+    },
+    "hero": {
+      "x": 0,
+      "y": 0,
+      "width": 319,
+      "height": 730
+    },
+    "stories": [
+      {
+        "x": 0,
+        "y": 1018,
+        "width": 319,
+        "height": 725.90625
+      },
+      {
+        "x": 0,
+        "y": 1743.90625,
+        "width": 319,
+        "height": 809.96875
+      },
+      {
+        "x": 0,
+        "y": 2553.875,
+        "width": 319,
+        "height": 733.171875
+      },
+      {
+        "x": 0,
+        "y": 3287.046875,
+        "width": 319,
+        "height": 745.859375
+      }
+    ],
+    "newsletter": {
+      "x": 0,
+      "y": 4342.90625,
+      "width": 319,
+      "height": 242
+    },
+    "missing": [],
+    "errors": [],
+    "interactions": "passed"
+  }
+]
